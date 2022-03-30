@@ -1,0 +1,51 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.20.2-Odense">
+  <identifier></identifier>
+  <parentidentifier></parentidentifier>
+  <language></language>
+  <type>dataset</type>
+  <title></title>
+  <abstract>The 2017 cartographic boundary shapefiles are simplified representations of selected geographic areas from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while others are available only as state-based files. The primary legal divisions of most states are termed counties. In Louisiana, these divisions are known as parishes. In Alaska, which has no counties, the equivalent entities are the organized boroughs, city and boroughs, municipalities, and for the unorganized area, census areas. The latter are delineated cooperatively for statistical purposes by the State of Alaska and the Census Bureau. In four states (Maryland, Missouri, Nevada, and Virginia), there are one or more incorporated places that are independent of any county organization and thus constitute primary divisions of their states. These incorporated places are known as independent cities and are treated as equivalent entities for purposes of data presentation. The District of Columbia and Guam have no primary divisions, and each area is considered an equivalent entity for purposes of data presentation. The Census Bureau treats the following entities as equivalents of counties for purposes of data presentation: Municipios in Puerto Rico, Districts and Islands in American Samoa, Municipalities in the Commonwealth of the Northern Mariana Islands, and Islands in the U.S. Virgin Islands. The entire area of the United States, Puerto Rico, and the Island Areas is covered by counties or equivalent entities. The generalized boundaries for counties and equivalent entities are based on those as of January 1, 2017, primarily as reported through the Census Bureau's Boundary and Annexation Survey (BAS).
+
+These files were specifically created to support small-scale thematic mapping. To improve the appearance of shapes at small scales, areas are represented with fewer vertices than detailed TIGER/Line Shapefiles. Cartographic boundary files take up less disk space than their ungeneralized counterparts. Cartographic boundary files take less time to render on screen than TIGER/Line Shapefiles. You can join this file with table data downloaded from American FactFinder by using the AFFGEOID field in the cartographic boundary file. If detailed boundaries are required, please use the TIGER/Line Shapefiles instead of the generalized cartographic boundary files.</abstract>
+  <keywords vocabulary="gmd:topicCategory">
+    <keyword>Boundaries</keyword>
+    <keyword>2017</keyword>
+  </keywords>
+  <contact>
+    <contactAddress>
+      <type>mailing</type>
+      <address>4600 Silver Hill Road</address>
+      <city>Washington</city>
+      <administrativearea>DC</administrativearea>
+      <postalcode>20233-7400</postalcode>
+      <country>United States</country>
+    </contactAddress>
+    <name>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Customer Services Branch</name>
+    <organization>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Customer Services Branch</organization>
+    <position></position>
+    <voice>301.763.1128</voice>
+    <fax>301.763.4710</fax>
+    <email>geo.geography@census.gov</email>
+    <role>Point of contact</role>
+  </contact>
+  <links/>
+  <fees></fees>
+  <constraints type="Access">None</constraints>
+  <rights>The intended display scale for this file is 1:5,000,000. This file should not be displayed at scales larger than 1:5,000,000. These products are free to use in a product or publication, however acknowledgement must be given to the U.S. Census Bureau as the source. The boundary information is for visual display at appropriate small scales only. Cartographic boundary files should not be used for geographic analysis including area or perimeter calculation. Files should not be used for geocoding addresses. Files should not be used for determining precise geographic area relationships. </rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys>
+      <wkt></wkt>
+      <proj4></proj4>
+      <srsid>0</srsid>
+      <srid>0</srid>
+      <authid></authid>
+      <description></description>
+      <projectionacronym></projectionacronym>
+      <ellipsoidacronym></ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent/>
+</qgis>

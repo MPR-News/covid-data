@@ -1,0 +1,98 @@
+---
+title: "Data memo"
+author: "David H. Montgomery"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message= FALSE, warning = FALSE)
+options(scipen = 50)
+source("load-packages.R")
+source("theme_covidmn.R")
+caption <- "Source: MPR News, Minnesota Department of Health. Graphic by David H. Montgomery"
+# I have a private API key for the CDC's database, and a user-agent issued by the state of Minnesota, for scraping purposes
+# You may wish to create `private-tokens.R` in the base level of this repository, and in it define cdc_token with your own API key
+# Defining your own user_agent might possibly be helpful in avoiding firewall issues, or could do nothing ¯\_(ツ)_/¯ 
+if(file.exists(here("private-tokens.R"))) {source(here("private-tokens.R"))} else {user_agent <- ""; cdc_token <- ""}
+```
+
+```{r loaddata}
+source(here("R/load-data/helper-functions.R")) # Load some functions to help process this code
+source(here("R/load-data/scraping-setup.R")) # 
+source(here("R/load-data/scrape-county-data.R"))
+source(here("R/load-data/scrape-cases-sample-date.R"))
+source(here("R/load-data/scrape-reinfections.R"))
+source(here("R/load-data/scrape_tests.R"))
+source(here("R/load-data/scrape-deaths.R"))
+source(here("R/load-data/scrape-hospitals.R"))
+source(here("R/load-data/scrape-demographics.R"))
+source(here("R/load-data/download-hospital-bed-use.R"))
+source(here("R/load-data/process-hosp-capacity.R"))
+if(wday(current_report_date) == 2) {source(here("R/load-data/download-breakthroughs.R"))}
+source(here("R/load-data/download-vaccines.R"))
+source(here("R/load-data/download-wastewater.R"))
+source(here("R/load-data/process-data.R")) # Load in basic data
+source(here("R/load-data/load-other-data.R"))
+```
+
+## Generate graphs
+
+```{r case_origin}
+source(here("R/gfx/case-report-day.R"))
+```
+
+```{r data_by_year}
+source(here("R/gfx/positivity-years.R"))
+source(here("R/gfx/positivity-years-sample.R"))
+source(here("R/gfx/cases-years.R"))
+source(here("R/gfx/cases-years-sample.R"))
+source(here("R/gfx/tests-years-sample.R"))
+source(here("R/gfx/hosp-years.R"))
+source(here("R/gfx/hosp-beds-years.R"))
+source(here("R/gfx/deaths-years.R"))
+source(here("R/gfx/deaths-ltc-years.R"))
+```
+
+```{r}
+source(here("R/gfx/change-14day-sample.R"))
+```
+
+```{r regions}
+source(here("R/inset-map8.R"))
+source(here("R/gfx/cases-by-region-facet.R"))
+```
+
+```{r demographics}
+source(here("R/gfx/cases-race.R"))
+source(here("R/gfx/cases-age-current.R"))
+```
+
+```{r vaccines}
+source(here("R/gfx/vax-pct-all.R"))
+source(here("R/gfx/vax-new-doses.R"))
+source(here("R/gfx/vax-doses-age-total.R"))
+source(here("R/gfx/vax-map-5plus.R"))
+```
+
+```{r breakthroughs}
+source(here("R/gfx/breakthrough-share.R"))
+source(here("R/gfx/breakthrough-ratio.R"))
+source(here("R/gfx/breakthrough-effectiveness.R"))
+source(here("R/gfx/breakthrough-ratio-age.R"))
+```
+
+```{r wastewater}
+source(here("R/gfx/wastewater-load.R"))
+source(here("R/gfx/wastewater-load-trunc.R"))
+source(here("R/gfx/wastewater-variants.R"))
+```
+
+## Publish
+
+```{r zip}
+source(here("R/zip-graphics.R"))
+```
+
+```{r dashboard, message = FALSE}
+source(here("R/generate-dashboard.R"))
+```

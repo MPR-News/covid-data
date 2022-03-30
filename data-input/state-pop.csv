@@ -1,0 +1,53 @@
+state,state_name,geoid,pop
+AL,Alabama,01,5024279
+AK,Alaska,02,733391
+AZ,Arizona,04,7151502
+AR,Arkansas,05,3011524
+CA,California,06,39538223
+CO,Colorado,08,5773714
+CT,Connecticut,09,3605944
+DE,Delaware,10,989948
+DC,District of Columbia,11,689545
+FL,Florida,12,21538187
+GA,Georgia,13,10711908
+HI,Hawaii,15,1455271
+ID,Idaho,16,1839106
+IL,Illinois,17,12812508
+IN,Indiana,18,6785528
+IA,Iowa,19,3190369
+KS,Kansas,20,2937880
+KY,Kentucky,21,4505836
+LA,Louisiana,22,4657757
+ME,Maine,23,1362359
+MD,Maryland,24,6177224
+MA,Massachusetts,25,7029917
+MI,Michigan,26,10077331
+MN,Minnesota,27,5706494
+MS,Mississippi,28,2961279
+MO,Missouri,29,6154913
+MT,Montana,30,1084225
+NE,Nebraska,31,1961504
+NV,Nevada,32,3104614
+NH,New Hampshire,33,1377529
+NJ,New Jersey,34,9288994
+NM,New Mexico,35,2117522
+NY,New York,36,20201249
+NC,North Carolina,37,10439388
+ND,North Dakota,38,779094
+OH,Ohio,39,11799448
+OK,Oklahoma,40,3959353
+OR,Oregon,41,4237256
+PA,Pennsylvania,42,13002700
+RI,Rhode Island,44,1097379
+SC,South Carolina,45,5118425
+SD,South Dakota,46,886667
+TN,Tennessee,47,6910840
+TX,Texas,48,29145505
+UT,Utah,49,3271616
+VT,Vermont,50,643077
+VA,Virginia,51,8631393
+WA,Washington,53,7705281
+WV,West Virginia,54,1793716
+WI,Wisconsin,55,5893718
+WY,Wyoming,56,576851
+NA,Puerto Rico,72,3285874

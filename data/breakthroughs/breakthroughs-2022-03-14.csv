@@ -1,0 +1,247 @@
+year,week,week_start,metric,vax,number
+2021,18,2021-05-02,Cases,Fully vaccinated,370
+2021,18,2021-05-02,Cases,Not fully vaccinated,6770
+2021,18,2021-05-02,Deaths,Fully vaccinated,10
+2021,18,2021-05-02,Deaths,Not fully vaccinated,37
+2021,18,2021-05-02,Hospitalizations,Fully vaccinated,38
+2021,18,2021-05-02,Hospitalizations,Not fully vaccinated,420
+2021,19,2021-05-09,Cases,Fully vaccinated,309
+2021,19,2021-05-09,Cases,Not fully vaccinated,4596
+2021,19,2021-05-09,Deaths,Fully vaccinated,5
+2021,19,2021-05-09,Deaths,Not fully vaccinated,26
+2021,19,2021-05-09,Hospitalizations,Fully vaccinated,36
+2021,19,2021-05-09,Hospitalizations,Not fully vaccinated,326
+2021,20,2021-05-16,Cases,Fully vaccinated,263
+2021,20,2021-05-16,Cases,Not fully vaccinated,3259
+2021,20,2021-05-16,Deaths,Fully vaccinated,3
+2021,20,2021-05-16,Deaths,Not fully vaccinated,26
+2021,20,2021-05-16,Hospitalizations,Fully vaccinated,40
+2021,20,2021-05-16,Hospitalizations,Not fully vaccinated,275
+2021,21,2021-05-23,Cases,Fully vaccinated,188
+2021,21,2021-05-23,Cases,Not fully vaccinated,1758
+2021,21,2021-05-23,Deaths,Fully vaccinated,2
+2021,21,2021-05-23,Deaths,Not fully vaccinated,17
+2021,21,2021-05-23,Hospitalizations,Fully vaccinated,19
+2021,21,2021-05-23,Hospitalizations,Not fully vaccinated,177
+2021,22,2021-05-30,Cases,Fully vaccinated,129
+2021,22,2021-05-30,Cases,Not fully vaccinated,1149
+2021,22,2021-05-30,Deaths,Fully vaccinated,5
+2021,22,2021-05-30,Deaths,Not fully vaccinated,10
+2021,22,2021-05-30,Hospitalizations,Fully vaccinated,23
+2021,22,2021-05-30,Hospitalizations,Not fully vaccinated,131
+2021,23,2021-06-06,Cases,Fully vaccinated,107
+2021,23,2021-06-06,Cases,Not fully vaccinated,782
+2021,23,2021-06-06,Deaths,Fully vaccinated,1
+2021,23,2021-06-06,Deaths,Not fully vaccinated,6
+2021,23,2021-06-06,Hospitalizations,Fully vaccinated,22
+2021,23,2021-06-06,Hospitalizations,Not fully vaccinated,84
+2021,24,2021-06-13,Cases,Fully vaccinated,131
+2021,24,2021-06-13,Cases,Not fully vaccinated,582
+2021,24,2021-06-13,Deaths,Fully vaccinated,3
+2021,24,2021-06-13,Deaths,Not fully vaccinated,3
+2021,24,2021-06-13,Hospitalizations,Fully vaccinated,19
+2021,24,2021-06-13,Hospitalizations,Not fully vaccinated,66
+2021,25,2021-06-20,Cases,Fully vaccinated,111
+2021,25,2021-06-20,Cases,Not fully vaccinated,504
+2021,25,2021-06-20,Deaths,Fully vaccinated,2
+2021,25,2021-06-20,Deaths,Not fully vaccinated,4
+2021,25,2021-06-20,Hospitalizations,Fully vaccinated,15
+2021,25,2021-06-20,Hospitalizations,Not fully vaccinated,64
+2021,26,2021-06-27,Cases,Fully vaccinated,162
+2021,26,2021-06-27,Cases,Not fully vaccinated,542
+2021,26,2021-06-27,Deaths,Fully vaccinated,1
+2021,26,2021-06-27,Deaths,Not fully vaccinated,3
+2021,26,2021-06-27,Hospitalizations,Fully vaccinated,20
+2021,26,2021-06-27,Hospitalizations,Not fully vaccinated,64
+2021,27,2021-07-04,Cases,Fully vaccinated,214
+2021,27,2021-07-04,Cases,Not fully vaccinated,693
+2021,27,2021-07-04,Deaths,Fully vaccinated,1
+2021,27,2021-07-04,Deaths,Not fully vaccinated,5
+2021,27,2021-07-04,Hospitalizations,Fully vaccinated,19
+2021,27,2021-07-04,Hospitalizations,Not fully vaccinated,64
+2021,28,2021-07-11,Cases,Fully vaccinated,386
+2021,28,2021-07-11,Cases,Not fully vaccinated,1061
+2021,28,2021-07-11,Deaths,Fully vaccinated,2
+2021,28,2021-07-11,Deaths,Not fully vaccinated,16
+2021,28,2021-07-11,Hospitalizations,Fully vaccinated,36
+2021,28,2021-07-11,Hospitalizations,Not fully vaccinated,121
+2021,29,2021-07-18,Cases,Fully vaccinated,702
+2021,29,2021-07-18,Cases,Not fully vaccinated,1754
+2021,29,2021-07-18,Deaths,Fully vaccinated,5
+2021,29,2021-07-18,Deaths,Not fully vaccinated,8
+2021,29,2021-07-18,Hospitalizations,Fully vaccinated,47
+2021,29,2021-07-18,Hospitalizations,Not fully vaccinated,157
+2021,30,2021-07-25,Cases,Fully vaccinated,1270
+2021,30,2021-07-25,Cases,Not fully vaccinated,2783
+2021,30,2021-07-25,Deaths,Fully vaccinated,13
+2021,30,2021-07-25,Deaths,Not fully vaccinated,17
+2021,30,2021-07-25,Hospitalizations,Fully vaccinated,63
+2021,30,2021-07-25,Hospitalizations,Not fully vaccinated,186
+2021,31,2021-08-01,Cases,Fully vaccinated,1912
+2021,31,2021-08-01,Cases,Not fully vaccinated,3874
+2021,31,2021-08-01,Deaths,Fully vaccinated,10
+2021,31,2021-08-01,Deaths,Not fully vaccinated,25
+2021,31,2021-08-01,Hospitalizations,Fully vaccinated,81
+2021,31,2021-08-01,Hospitalizations,Not fully vaccinated,278
+2021,32,2021-08-08,Cases,Fully vaccinated,2454
+2021,32,2021-08-08,Cases,Not fully vaccinated,4897
+2021,32,2021-08-08,Deaths,Fully vaccinated,22
+2021,32,2021-08-08,Deaths,Not fully vaccinated,33
+2021,32,2021-08-08,Hospitalizations,Fully vaccinated,117
+2021,32,2021-08-08,Hospitalizations,Not fully vaccinated,343
+2021,33,2021-08-15,Cases,Fully vaccinated,3216
+2021,33,2021-08-15,Cases,Not fully vaccinated,5923
+2021,33,2021-08-15,Deaths,Fully vaccinated,26
+2021,33,2021-08-15,Deaths,Not fully vaccinated,45
+2021,33,2021-08-15,Hospitalizations,Fully vaccinated,142
+2021,33,2021-08-15,Hospitalizations,Not fully vaccinated,402
+2021,34,2021-08-22,Cases,Fully vaccinated,3349
+2021,34,2021-08-22,Cases,Not fully vaccinated,6046
+2021,34,2021-08-22,Deaths,Fully vaccinated,38
+2021,34,2021-08-22,Deaths,Not fully vaccinated,41
+2021,34,2021-08-22,Hospitalizations,Fully vaccinated,158
+2021,34,2021-08-22,Hospitalizations,Not fully vaccinated,378
+2021,35,2021-08-29,Cases,Fully vaccinated,3937
+2021,35,2021-08-29,Cases,Not fully vaccinated,6925
+2021,35,2021-08-29,Deaths,Fully vaccinated,29
+2021,35,2021-08-29,Deaths,Not fully vaccinated,60
+2021,35,2021-08-29,Hospitalizations,Fully vaccinated,161
+2021,35,2021-08-29,Hospitalizations,Not fully vaccinated,416
+2021,36,2021-09-05,Cases,Fully vaccinated,3914
+2021,36,2021-09-05,Cases,Not fully vaccinated,7106
+2021,36,2021-09-05,Deaths,Fully vaccinated,34
+2021,36,2021-09-05,Deaths,Not fully vaccinated,66
+2021,36,2021-09-05,Hospitalizations,Fully vaccinated,163
+2021,36,2021-09-05,Hospitalizations,Not fully vaccinated,443
+2021,37,2021-09-12,Cases,Fully vaccinated,4712
+2021,37,2021-09-12,Cases,Not fully vaccinated,8214
+2021,37,2021-09-12,Deaths,Fully vaccinated,50
+2021,37,2021-09-12,Deaths,Not fully vaccinated,76
+2021,37,2021-09-12,Hospitalizations,Fully vaccinated,218
+2021,37,2021-09-12,Hospitalizations,Not fully vaccinated,489
+2021,38,2021-09-19,Cases,Fully vaccinated,5018
+2021,38,2021-09-19,Cases,Not fully vaccinated,8940
+2021,38,2021-09-19,Deaths,Fully vaccinated,50
+2021,38,2021-09-19,Deaths,Not fully vaccinated,74
+2021,38,2021-09-19,Hospitalizations,Fully vaccinated,213
+2021,38,2021-09-19,Hospitalizations,Not fully vaccinated,468
+2021,39,2021-09-26,Cases,Fully vaccinated,6519
+2021,39,2021-09-26,Cases,Not fully vaccinated,10403
+2021,39,2021-09-26,Deaths,Fully vaccinated,60
+2021,39,2021-09-26,Deaths,Not fully vaccinated,82
+2021,39,2021-09-26,Hospitalizations,Fully vaccinated,262
+2021,39,2021-09-26,Hospitalizations,Not fully vaccinated,514
+2021,40,2021-10-03,Cases,Fully vaccinated,6749
+2021,40,2021-10-03,Cases,Not fully vaccinated,10337
+2021,40,2021-10-03,Deaths,Fully vaccinated,60
+2021,40,2021-10-03,Deaths,Not fully vaccinated,100
+2021,40,2021-10-03,Hospitalizations,Fully vaccinated,255
+2021,40,2021-10-03,Hospitalizations,Not fully vaccinated,540
+2021,41,2021-10-10,Cases,Fully vaccinated,5695
+2021,41,2021-10-10,Cases,Not fully vaccinated,8526
+2021,41,2021-10-10,Deaths,Fully vaccinated,66
+2021,41,2021-10-10,Deaths,Not fully vaccinated,84
+2021,41,2021-10-10,Hospitalizations,Fully vaccinated,223
+2021,41,2021-10-10,Hospitalizations,Not fully vaccinated,497
+2021,42,2021-10-17,Cases,Fully vaccinated,5315
+2021,42,2021-10-17,Cases,Not fully vaccinated,7531
+2021,42,2021-10-17,Deaths,Fully vaccinated,72
+2021,42,2021-10-17,Deaths,Not fully vaccinated,88
+2021,42,2021-10-17,Hospitalizations,Fully vaccinated,219
+2021,42,2021-10-17,Hospitalizations,Not fully vaccinated,442
+2021,43,2021-10-24,Cases,Fully vaccinated,6783
+2021,43,2021-10-24,Cases,Not fully vaccinated,8860
+2021,43,2021-10-24,Deaths,Fully vaccinated,84
+2021,43,2021-10-24,Deaths,Not fully vaccinated,83
+2021,43,2021-10-24,Hospitalizations,Fully vaccinated,281
+2021,43,2021-10-24,Hospitalizations,Not fully vaccinated,511
+2021,44,2021-10-31,Cases,Fully vaccinated,8937
+2021,44,2021-10-31,Cases,Not fully vaccinated,11166
+2021,44,2021-10-31,Deaths,Fully vaccinated,88
+2021,44,2021-10-31,Deaths,Not fully vaccinated,122
+2021,44,2021-10-31,Hospitalizations,Fully vaccinated,332
+2021,44,2021-10-31,Hospitalizations,Not fully vaccinated,644
+2021,45,2021-11-07,Cases,Fully vaccinated,10509
+2021,45,2021-11-07,Cases,Not fully vaccinated,13132
+2021,45,2021-11-07,Deaths,Fully vaccinated,106
+2021,45,2021-11-07,Deaths,Not fully vaccinated,149
+2021,45,2021-11-07,Hospitalizations,Fully vaccinated,405
+2021,45,2021-11-07,Hospitalizations,Not fully vaccinated,780
+2021,46,2021-11-14,Cases,Fully vaccinated,10888
+2021,46,2021-11-14,Cases,Not fully vaccinated,13317
+2021,46,2021-11-14,Deaths,Fully vaccinated,83
+2021,46,2021-11-14,Deaths,Not fully vaccinated,162
+2021,46,2021-11-14,Hospitalizations,Fully vaccinated,349
+2021,46,2021-11-14,Hospitalizations,Not fully vaccinated,801
+2021,47,2021-11-21,Cases,Fully vaccinated,9355
+2021,47,2021-11-21,Cases,Not fully vaccinated,11442
+2021,47,2021-11-21,Deaths,Fully vaccinated,110
+2021,47,2021-11-21,Deaths,Not fully vaccinated,162
+2021,47,2021-11-21,Hospitalizations,Fully vaccinated,405
+2021,47,2021-11-21,Hospitalizations,Not fully vaccinated,817
+2021,48,2021-11-28,Cases,Fully vaccinated,12733
+2021,48,2021-11-28,Cases,Not fully vaccinated,15610
+2021,48,2021-11-28,Deaths,Fully vaccinated,89
+2021,48,2021-11-28,Deaths,Not fully vaccinated,172
+2021,48,2021-11-28,Hospitalizations,Fully vaccinated,400
+2021,48,2021-11-28,Hospitalizations,Not fully vaccinated,966
+2021,49,2021-12-05,Cases,Fully vaccinated,8434
+2021,49,2021-12-05,Cases,Not fully vaccinated,11154
+2021,49,2021-12-05,Deaths,Fully vaccinated,67
+2021,49,2021-12-05,Deaths,Not fully vaccinated,159
+2021,49,2021-12-05,Hospitalizations,Fully vaccinated,288
+2021,49,2021-12-05,Hospitalizations,Not fully vaccinated,850
+2021,50,2021-12-12,Cases,Fully vaccinated,8252
+2021,50,2021-12-12,Cases,Not fully vaccinated,9850
+2021,50,2021-12-12,Deaths,Fully vaccinated,49
+2021,50,2021-12-12,Deaths,Not fully vaccinated,139
+2021,50,2021-12-12,Hospitalizations,Fully vaccinated,246
+2021,50,2021-12-12,Hospitalizations,Not fully vaccinated,712
+2021,51,2021-12-19,Cases,Fully vaccinated,11443
+2021,51,2021-12-19,Cases,Not fully vaccinated,9189
+2021,51,2021-12-19,Deaths,Fully vaccinated,38
+2021,51,2021-12-19,Deaths,Not fully vaccinated,116
+2021,51,2021-12-19,Hospitalizations,Fully vaccinated,223
+2021,51,2021-12-19,Hospitalizations,Not fully vaccinated,601
+2021,52,2021-12-26,Cases,Fully vaccinated,28649
+2021,52,2021-12-26,Cases,Not fully vaccinated,16986
+2021,52,2021-12-26,Deaths,Fully vaccinated,53
+2021,52,2021-12-26,Deaths,Not fully vaccinated,102
+2021,52,2021-12-26,Hospitalizations,Fully vaccinated,383
+2021,52,2021-12-26,Hospitalizations,Not fully vaccinated,599
+2022,01,2022-01-02,Cases,Fully vaccinated,50860
+2022,01,2022-01-02,Cases,Not fully vaccinated,30120
+2022,01,2022-01-02,Deaths,Fully vaccinated,103
+2022,01,2022-01-02,Deaths,Not fully vaccinated,109
+2022,01,2022-01-02,Hospitalizations,Fully vaccinated,693
+2022,01,2022-01-02,Hospitalizations,Not fully vaccinated,826
+2022,02,2022-01-09,Cases,Fully vaccinated,45571
+2022,02,2022-01-09,Cases,Not fully vaccinated,33076
+2022,02,2022-01-09,Deaths,Fully vaccinated,111
+2022,02,2022-01-09,Deaths,Not fully vaccinated,104
+2022,02,2022-01-09,Hospitalizations,Fully vaccinated,701
+2022,02,2022-01-09,Hospitalizations,Not fully vaccinated,805
+2022,03,2022-01-16,Cases,Fully vaccinated,38942
+2022,03,2022-01-16,Cases,Not fully vaccinated,20662
+2022,03,2022-01-16,Deaths,Fully vaccinated,99
+2022,03,2022-01-16,Deaths,Not fully vaccinated,75
+2022,03,2022-01-16,Hospitalizations,Fully vaccinated,770
+2022,03,2022-01-16,Hospitalizations,Not fully vaccinated,721
+2022,04,2022-01-23,Cases,Fully vaccinated,23027
+2022,04,2022-01-23,Cases,Not fully vaccinated,12770
+2022,04,2022-01-23,Deaths,Fully vaccinated,87
+2022,04,2022-01-23,Deaths,Not fully vaccinated,71
+2022,04,2022-01-23,Hospitalizations,Fully vaccinated,645
+2022,04,2022-01-23,Hospitalizations,Not fully vaccinated,575
+2022,05,2022-01-30,Cases,Fully vaccinated,13356
+2022,05,2022-01-30,Cases,Not fully vaccinated,7419
+2022,05,2022-01-30,Deaths,Fully vaccinated,50
+2022,05,2022-01-30,Deaths,Not fully vaccinated,42
+2022,05,2022-01-30,Hospitalizations,Fully vaccinated,429
+2022,05,2022-01-30,Hospitalizations,Not fully vaccinated,397
+2022,06,2022-02-06,Cases,Fully vaccinated,8187
+2022,06,2022-02-06,Cases,Not fully vaccinated,4450
+2022,06,2022-02-06,Deaths,Fully vaccinated,29
+2022,06,2022-02-06,Deaths,Not fully vaccinated,22
+2022,06,2022-02-06,Hospitalizations,Fully vaccinated,360
+2022,06,2022-02-06,Hospitalizations,Not fully vaccinated,264

@@ -1,0 +1,88 @@
+date,geoid,county,region,pop,cases,deaths
+2020-03-23,27001,Aitkin,Northeast,15902,0,NA
+2020-03-23,27003,Anoka,Metro suburbs,353813,7,NA
+2020-03-23,27005,Becker,West Central,34371,0,NA
+2020-03-23,27007,Beltrami,Northwest,46847,0,NA
+2020-03-23,27009,Benton,East Central,40545,1,NA
+2020-03-23,27011,Big Stone,Southwest,4989,1,NA
+2020-03-23,27013,Blue Earth,Southeast,67427,5,NA
+2020-03-23,27015,Brown,Southeast,25111,0,NA
+2020-03-23,27017,Carlton,Northeast,35837,0,NA
+2020-03-23,27019,Carver,Metro suburbs,103551,8,NA
+2020-03-23,27021,Cass,East Central,29519,1,NA
+2020-03-23,27023,Chippewa,Southwest,11924,0,NA
+2020-03-23,27025,Chisago,East Central,55922,2,NA
+2020-03-23,27027,Clay,West Central,63955,2,NA
+2020-03-23,27029,Clearwater,Northwest,8810,0,NA
+2020-03-23,27031,Cook,Northeast,5393,0,NA
+2020-03-23,27033,Cottonwood,Southwest,11277,0,NA
+2020-03-23,27035,Crow Wing,East Central,64889,0,NA
+2020-03-23,27037,Dakota,Metro suburbs,425423,18,NA
+2020-03-23,27039,Dodge,Southeast,20822,2,NA
+2020-03-23,27041,Douglas,West Central,37964,0,NA
+2020-03-23,27043,Faribault,Southeast,13758,0,NA
+2020-03-23,27045,Fillmore,Southeast,21058,3,NA
+2020-03-23,27047,Freeborn,Southeast,30444,0,NA
+2020-03-23,27049,Goodhue,Southeast,46403,0,NA
+2020-03-23,27051,Grant,West Central,6021,0,NA
+2020-03-23,27053,Hennepin,Hennepin/Ramsey,1259428,89,NA
+2020-03-23,27055,Houston,Southeast,18578,0,NA
+2020-03-23,27057,Hubbard,Northwest,21332,0,NA
+2020-03-23,27059,Isanti,East Central,39966,0,NA
+2020-03-23,27061,Itasca,Northeast,45108,0,NA
+2020-03-23,27063,Jackson,Southwest,9911,1,NA
+2020-03-23,27065,Kanabec,East Central,16207,0,NA
+2020-03-23,27067,Kandiyohi,Southwest,42855,0,NA
+2020-03-23,27069,Kittson,Northwest,4248,0,NA
+2020-03-23,27071,Koochiching,Northeast,12440,0,NA
+2020-03-23,27073,Lac qui Parle,Southwest,6658,1,NA
+2020-03-23,27075,Lake,Northeast,10658,0,NA
+2020-03-23,27077,Lake of the Woods,Northwest,3758,0,NA
+2020-03-23,27079,Le Sueur,Southeast,28494,1,NA
+2020-03-23,27081,Lincoln,Southwest,5673,0,NA
+2020-03-23,27083,Lyon,Southwest,25629,0,NA
+2020-03-23,27087,Mahnomen,Northwest,5519,0,NA
+2020-03-23,27089,Marshall,Northwest,9390,0,NA
+2020-03-23,27091,Martin,Southeast,19785,8,NA
+2020-03-23,27085,McLeod,Southwest,35873,0,NA
+2020-03-23,27093,Meeker,Southwest,23141,0,NA
+2020-03-23,27095,Mille Lacs,East Central,26139,0,NA
+2020-03-23,27097,Morrison,East Central,33169,0,NA
+2020-03-23,27099,Mower,Southeast,40011,6,NA
+2020-03-23,27101,Murray,Southwest,8276,0,NA
+2020-03-23,27103,Nicollet,Southeast,34220,3,NA
+2020-03-23,27105,Nobles,Southwest,21924,0,NA
+2020-03-23,27107,Norman,Northwest,6475,0,NA
+2020-03-23,27109,Olmsted,Southeast,156277,16,NA
+2020-03-23,27111,Otter Tail,West Central,58812,0,NA
+2020-03-23,27113,Pennington,Northwest,14178,0,NA
+2020-03-23,27115,Pine,East Central,29483,0,NA
+2020-03-23,27117,Pipestone,Southwest,9047,0,NA
+2020-03-23,27119,Polk,Northwest,31529,0,NA
+2020-03-23,27121,Pope,West Central,11097,0,NA
+2020-03-23,27123,Ramsey,Hennepin/Ramsey,550210,24,NA
+2020-03-23,27125,Red Lake,Northwest,3999,0,NA
+2020-03-23,27127,Redwood,Southwest,15249,0,NA
+2020-03-23,27129,Renville,Southwest,14612,1,NA
+2020-03-23,27131,Rice,Southeast,66523,2,NA
+2020-03-23,27133,Rock,Southwest,9414,0,NA
+2020-03-23,27135,Roseau,Northwest,15150,0,NA
+2020-03-23,27139,Scott,Metro suburbs,147381,5,NA
+2020-03-23,27141,Sherburne,East Central,96036,1,NA
+2020-03-23,27143,Sibley,Southeast,15028,0,NA
+2020-03-23,27137,St. Louis,Northeast,199754,2,NA
+2020-03-23,27145,Stearns,East Central,159256,5,NA
+2020-03-23,27147,Steele,Southeast,36803,3,NA
+2020-03-23,27149,Stevens,West Central,9753,0,NA
+2020-03-23,27151,Swift,Southwest,9345,0,NA
+2020-03-23,27153,Todd,East Central,24582,0,NA
+2020-03-23,27155,Traverse,West Central,3308,0,NA
+2020-03-23,27157,Wabasha,Southeast,21645,1,NA
+2020-03-23,27159,Wadena,East Central,13773,0,NA
+2020-03-23,27161,Waseca,Southeast,18691,2,NA
+2020-03-23,27163,Washington,Metro suburbs,259201,10,NA
+2020-03-23,27165,Watonwan,Southeast,10980,0,NA
+2020-03-23,27167,Wilkin,West Central,6254,0,NA
+2020-03-23,27169,Winona,Southeast,50825,0,NA
+2020-03-23,27171,Wright,East Central,136349,3,NA
+2020-03-23,27173,Yellow Medicine,Southwest,9795,0,NA

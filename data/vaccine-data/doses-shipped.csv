@@ -1,0 +1,1939 @@
+product,doses_shipped,filed_date,report_date,is_ltc
+Moderna,2410660,2022-03-29,2022-03-30,General population
+Pfizer,4656860,2022-03-29,2022-03-30,General population
+Johnson & Johnson,311800,2022-03-29,2022-03-30,General population
+Moderna,1879360,2022-03-29,2022-03-30,Long-term care
+Pfizer,2675160,2022-03-29,2022-03-30,Long-term care
+Johnson & Johnson,190800,2022-03-29,2022-03-30,Long-term care
+Moderna,2408460,2022-03-28,2022-03-29,General population
+Pfizer,4656860,2022-03-28,2022-03-29,General population
+Johnson & Johnson,311800,2022-03-28,2022-03-29,General population
+Moderna,1877560,2022-03-28,2022-03-29,Long-term care
+Pfizer,2672960,2022-03-28,2022-03-29,Long-term care
+Johnson & Johnson,190700,2022-03-28,2022-03-29,Long-term care
+Moderna,2408160,2022-03-25,2022-03-28,General population
+Pfizer,4652260,2022-03-25,2022-03-28,General population
+Johnson & Johnson,311800,2022-03-25,2022-03-28,General population
+Moderna,1876260,2022-03-25,2022-03-28,Long-term care
+Pfizer,2669260,2022-03-25,2022-03-28,Long-term care
+Johnson & Johnson,190400,2022-03-25,2022-03-28,Long-term care
+Moderna,2407860,2022-03-24,2022-03-25,General population
+Pfizer,4651960,2022-03-24,2022-03-25,General population
+Johnson & Johnson,311800,2022-03-24,2022-03-25,General population
+Moderna,1873460,2022-03-24,2022-03-25,Long-term care
+Pfizer,2662960,2022-03-24,2022-03-25,Long-term care
+Johnson & Johnson,190000,2022-03-24,2022-03-25,Long-term care
+Moderna,2406960,2022-03-23,2022-03-24,General population
+Pfizer,4651060,2022-03-23,2022-03-24,General population
+Johnson & Johnson,311800,2022-03-23,2022-03-24,General population
+Moderna,1872260,2022-03-23,2022-03-24,Long-term care
+Pfizer,2661460,2022-03-23,2022-03-24,Long-term care
+Johnson & Johnson,190000,2022-03-23,2022-03-24,Long-term care
+Moderna,2404060,2022-03-22,2022-03-23,General population
+Pfizer,4648960,2022-03-22,2022-03-23,General population
+Johnson & Johnson,311800,2022-03-22,2022-03-23,General population
+Moderna,1869560,2022-03-22,2022-03-23,Long-term care
+Pfizer,2660260,2022-03-22,2022-03-23,Long-term care
+Johnson & Johnson,189600,2022-03-22,2022-03-23,Long-term care
+Moderna,2402960,2022-03-21,2022-03-22,General population
+Pfizer,4648360,2022-03-21,2022-03-22,General population
+Johnson & Johnson,311800,2022-03-21,2022-03-22,General population
+Moderna,1868460,2022-03-21,2022-03-22,Long-term care
+Pfizer,2659660,2022-03-21,2022-03-22,Long-term care
+Johnson & Johnson,189600,2022-03-21,2022-03-22,Long-term care
+Moderna,2402260,2022-03-18,2022-03-21,General population
+Pfizer,4647060,2022-03-18,2022-03-21,General population
+Johnson & Johnson,311800,2022-03-18,2022-03-21,General population
+Moderna,1868360,2022-03-18,2022-03-21,Long-term care
+Pfizer,2652260,2022-03-18,2022-03-21,Long-term care
+Johnson & Johnson,189600,2022-03-18,2022-03-21,Long-term care
+Moderna,2401660,2022-03-17,2022-03-18,General population
+Pfizer,4645460,2022-03-17,2022-03-18,General population
+Johnson & Johnson,311800,2022-03-17,2022-03-18,General population
+Moderna,1866860,2022-03-17,2022-03-18,Long-term care
+Pfizer,2649160,2022-03-17,2022-03-18,Long-term care
+Johnson & Johnson,189500,2022-03-17,2022-03-18,Long-term care
+Moderna,2401260,2022-03-16,2022-03-17,General population
+Pfizer,4642860,2022-03-16,2022-03-17,General population
+Johnson & Johnson,311800,2022-03-16,2022-03-17,General population
+Moderna,1864460,2022-03-16,2022-03-17,Long-term care
+Pfizer,2645560,2022-03-16,2022-03-17,Long-term care
+Johnson & Johnson,189300,2022-03-16,2022-03-17,Long-term care
+Moderna,2399960,2022-03-15,2022-03-16,General population
+Pfizer,4642360,2022-03-15,2022-03-16,General population
+Johnson & Johnson,311800,2022-03-15,2022-03-16,General population
+Moderna,1860560,2022-03-15,2022-03-16,Long-term care
+Pfizer,2644560,2022-03-15,2022-03-16,Long-term care
+Johnson & Johnson,189200,2022-03-15,2022-03-16,Long-term care
+Moderna,2399360,2022-03-14,2022-03-15,General population
+Pfizer,4641760,2022-03-14,2022-03-15,General population
+Johnson & Johnson,311800,2022-03-14,2022-03-15,General population
+Moderna,1858400,2022-03-14,2022-03-15,Long-term care
+Pfizer,2642860,2022-03-14,2022-03-15,Long-term care
+Johnson & Johnson,189200,2022-03-14,2022-03-15,Long-term care
+Moderna,2398660,2022-03-11,2022-03-14,General population
+Pfizer,4640760,2022-03-11,2022-03-14,General population
+Johnson & Johnson,311800,2022-03-11,2022-03-14,General population
+Moderna,1857700,2022-03-11,2022-03-14,Long-term care
+Pfizer,2637760,2022-03-11,2022-03-14,Long-term care
+Johnson & Johnson,189200,2022-03-11,2022-03-14,Long-term care
+Moderna,2398660,2022-03-10,2022-03-11,General population
+Pfizer,4639960,2022-03-10,2022-03-11,General population
+Johnson & Johnson,311800,2022-03-10,2022-03-11,General population
+Moderna,1855600,2022-03-10,2022-03-11,Long-term care
+Pfizer,2634860,2022-03-10,2022-03-11,Long-term care
+Johnson & Johnson,189200,2022-03-10,2022-03-11,Long-term care
+Moderna,2398260,2022-03-09,2022-03-10,General population
+Pfizer,4638460,2022-03-09,2022-03-10,General population
+Johnson & Johnson,311800,2022-03-09,2022-03-10,General population
+Moderna,1854500,2022-03-09,2022-03-10,Long-term care
+Pfizer,2631960,2022-03-09,2022-03-10,Long-term care
+Johnson & Johnson,189200,2022-03-09,2022-03-10,Long-term care
+Moderna,2396460,2022-03-08,2022-03-09,General population
+Pfizer,4638160,2022-03-08,2022-03-09,General population
+Johnson & Johnson,311800,2022-03-08,2022-03-09,General population
+Moderna,1851600,2022-03-08,2022-03-09,Long-term care
+Pfizer,2629760,2022-03-08,2022-03-09,Long-term care
+Johnson & Johnson,189200,2022-03-08,2022-03-09,Long-term care
+Moderna,2395260,2022-03-07,2022-03-08,General population
+Pfizer,4636160,2022-03-07,2022-03-08,General population
+Johnson & Johnson,311800,2022-03-07,2022-03-08,General population
+Moderna,1849700,2022-03-07,2022-03-08,Long-term care
+Pfizer,2629460,2022-03-07,2022-03-08,Long-term care
+Johnson & Johnson,188900,2022-03-07,2022-03-08,Long-term care
+Moderna,2394660,2022-03-04,2022-03-05,General population
+Pfizer,4635260,2022-03-04,2022-03-05,General population
+Johnson & Johnson,311800,2022-03-04,2022-03-05,General population
+Moderna,1849500,2022-03-04,2022-03-05,Long-term care
+Pfizer,2625860,2022-03-04,2022-03-05,Long-term care
+Johnson & Johnson,188900,2022-03-04,2022-03-05,Long-term care
+Moderna,2394660,2022-03-03,2022-03-04,General population
+Pfizer,4633660,2022-03-03,2022-03-04,General population
+Johnson & Johnson,311800,2022-03-03,2022-03-04,General population
+Moderna,1847600,2022-03-03,2022-03-04,Long-term care
+Pfizer,2621160,2022-03-03,2022-03-04,Long-term care
+Johnson & Johnson,188900,2022-03-03,2022-03-04,Long-term care
+Moderna,2394660,2022-03-02,2022-03-03,General population
+Pfizer,4627260,2022-03-02,2022-03-03,General population
+Johnson & Johnson,311800,2022-03-02,2022-03-03,General population
+Moderna,1845400,2022-03-02,2022-03-03,Long-term care
+Pfizer,2619360,2022-03-02,2022-03-03,Long-term care
+Johnson & Johnson,188900,2022-03-02,2022-03-03,Long-term care
+Moderna,2391360,2022-03-01,2022-03-02,General population
+Pfizer,4624660,2022-03-01,2022-03-02,General population
+Johnson & Johnson,311800,2022-03-01,2022-03-02,General population
+Moderna,1840600,2022-03-01,2022-03-02,Long-term care
+Pfizer,2615860,2022-03-01,2022-03-02,Long-term care
+Johnson & Johnson,188900,2022-03-01,2022-03-02,Long-term care
+Moderna,2390460,2022-02-28,2022-03-01,General population
+Pfizer,4624260,2022-02-28,2022-03-01,General population
+Johnson & Johnson,311800,2022-02-28,2022-03-01,General population
+Moderna,1839700,2022-02-28,2022-03-01,Long-term care
+Pfizer,2614660,2022-02-28,2022-03-01,Long-term care
+Johnson & Johnson,188900,2022-02-28,2022-03-01,Long-term care
+Moderna,2390260,2022-02-25,2022-02-26,General population
+Pfizer,4620360,2022-02-25,2022-02-26,General population
+Johnson & Johnson,311800,2022-02-25,2022-02-26,General population
+Moderna,1838900,2022-02-25,2022-02-26,Long-term care
+Pfizer,2608960,2022-02-25,2022-02-26,Long-term care
+Johnson & Johnson,188900,2022-02-25,2022-02-26,Long-term care
+Moderna,2390160,2022-02-24,2022-02-25,General population
+Pfizer,4615660,2022-02-24,2022-02-25,General population
+Johnson & Johnson,311800,2022-02-24,2022-02-25,General population
+Moderna,1835800,2022-02-24,2022-02-25,Long-term care
+Pfizer,2606260,2022-02-24,2022-02-25,Long-term care
+Johnson & Johnson,188900,2022-02-24,2022-02-25,Long-term care
+Moderna,2380960,2022-02-23,2022-02-24,General population
+Pfizer,4609360,2022-02-23,2022-02-24,General population
+Johnson & Johnson,311800,2022-02-23,2022-02-24,General population
+Moderna,1834200,2022-02-23,2022-02-24,Long-term care
+Pfizer,2597860,2022-02-23,2022-02-24,Long-term care
+Johnson & Johnson,188900,2022-02-23,2022-02-24,Long-term care
+Moderna,2380960,2022-02-22,2022-02-23,General population
+Pfizer,4609360,2022-02-22,2022-02-23,General population
+Johnson & Johnson,311800,2022-02-22,2022-02-23,General population
+Moderna,1824900,2022-02-22,2022-02-23,Long-term care
+Pfizer,2597760,2022-02-22,2022-02-23,Long-term care
+Johnson & Johnson,188500,2022-02-22,2022-02-23,Long-term care
+Moderna,2380760,2022-02-17,2022-02-18,General population
+Pfizer,4599460,2022-02-17,2022-02-18,General population
+Johnson & Johnson,311800,2022-02-17,2022-02-18,General population
+Moderna,1821100,2022-02-17,2022-02-18,Long-term care
+Pfizer,2582360,2022-02-17,2022-02-18,Long-term care
+Johnson & Johnson,188400,2022-02-17,2022-02-18,Long-term care
+Moderna,2378860,2022-02-16,2022-02-17,General population
+Pfizer,4598160,2022-02-16,2022-02-17,General population
+Johnson & Johnson,311800,2022-02-16,2022-02-17,General population
+Moderna,1818400,2022-02-16,2022-02-17,Long-term care
+Pfizer,2577560,2022-02-16,2022-02-17,Long-term care
+Johnson & Johnson,188400,2022-02-16,2022-02-17,Long-term care
+Moderna,2374160,2022-02-15,2022-02-16,General population
+Pfizer,4590160,2022-02-15,2022-02-16,General population
+Johnson & Johnson,311800,2022-02-15,2022-02-16,General population
+Moderna,1813300,2022-02-15,2022-02-16,Long-term care
+Pfizer,2576660,2022-02-15,2022-02-16,Long-term care
+Johnson & Johnson,188300,2022-02-15,2022-02-16,Long-term care
+Moderna,2374060,2022-02-14,2022-02-15,General population
+Pfizer,4587960,2022-02-14,2022-02-15,General population
+Johnson & Johnson,311800,2022-02-14,2022-02-15,General population
+Moderna,1811700,2022-02-14,2022-02-15,Long-term care
+Pfizer,2574860,2022-02-14,2022-02-15,Long-term care
+Johnson & Johnson,188100,2022-02-14,2022-02-15,Long-term care
+Moderna,2372560,2022-02-11,2022-02-14,General population
+Pfizer,4583760,2022-02-11,2022-02-14,General population
+Johnson & Johnson,311800,2022-02-11,2022-02-14,General population
+Moderna,1810500,2022-02-11,2022-02-14,Long-term care
+Pfizer,2568460,2022-02-11,2022-02-14,Long-term care
+Johnson & Johnson,188000,2022-02-11,2022-02-14,Long-term care
+Moderna,2372160,2022-02-10,2022-02-11,General population
+Pfizer,4580860,2022-02-10,2022-02-11,General population
+Johnson & Johnson,311800,2022-02-10,2022-02-11,General population
+Moderna,1807100,2022-02-10,2022-02-11,Long-term care
+Pfizer,2560660,2022-02-10,2022-02-11,Long-term care
+Johnson & Johnson,187700,2022-02-10,2022-02-11,Long-term care
+Moderna,2371760,2022-02-09,2022-02-10,General population
+Pfizer,4572760,2022-02-09,2022-02-10,General population
+Johnson & Johnson,311800,2022-02-09,2022-02-10,General population
+Moderna,1804300,2022-02-09,2022-02-10,Long-term care
+Pfizer,2557560,2022-02-09,2022-02-10,Long-term care
+Johnson & Johnson,187700,2022-02-09,2022-02-10,Long-term care
+Moderna,2368760,2022-02-08,2022-02-09,General population
+Pfizer,4571560,2022-02-08,2022-02-09,General population
+Johnson & Johnson,311800,2022-02-08,2022-02-09,General population
+Moderna,1798300,2022-02-08,2022-02-09,Long-term care
+Pfizer,2551960,2022-02-08,2022-02-09,Long-term care
+Johnson & Johnson,187600,2022-02-08,2022-02-09,Long-term care
+Moderna,2365160,2022-02-07,2022-02-08,General population
+Pfizer,4560160,2022-02-07,2022-02-08,General population
+Johnson & Johnson,311800,2022-02-07,2022-02-08,General population
+Moderna,1791300,2022-02-07,2022-02-08,Long-term care
+Pfizer,2544360,2022-02-07,2022-02-08,Long-term care
+Johnson & Johnson,187200,2022-02-07,2022-02-08,Long-term care
+Moderna,2356860,2022-02-04,2022-02-05,General population
+Pfizer,4557060,2022-02-04,2022-02-05,General population
+Johnson & Johnson,311800,2022-02-04,2022-02-05,General population
+Moderna,1782500,2022-02-04,2022-02-05,Long-term care
+Pfizer,2538360,2022-02-04,2022-02-05,Long-term care
+Johnson & Johnson,186500,2022-02-04,2022-02-05,Long-term care
+Moderna,2356860,2022-02-03,2022-02-04,General population
+Pfizer,4557060,2022-02-03,2022-02-04,General population
+Johnson & Johnson,311800,2022-02-03,2022-02-04,General population
+Moderna,1782500,2022-02-03,2022-02-04,Long-term care
+Pfizer,2533960,2022-02-03,2022-02-04,Long-term care
+Johnson & Johnson,186500,2022-02-03,2022-02-04,Long-term care
+Moderna,2356860,2022-02-02,2022-02-03,General population
+Pfizer,4549260,2022-02-02,2022-02-03,General population
+Johnson & Johnson,311800,2022-02-02,2022-02-03,General population
+Moderna,1782500,2022-02-02,2022-02-03,Long-term care
+Pfizer,2530360,2022-02-02,2022-02-03,Long-term care
+Johnson & Johnson,186500,2022-02-02,2022-02-03,Long-term care
+Moderna,2356160,2022-02-01,2022-02-02,General population
+Pfizer,4540660,2022-02-01,2022-02-02,General population
+Johnson & Johnson,311800,2022-02-01,2022-02-02,General population
+Moderna,1777200,2022-02-01,2022-02-02,Long-term care
+Pfizer,2524460,2022-02-01,2022-02-02,Long-term care
+Johnson & Johnson,186400,2022-02-01,2022-02-02,Long-term care
+Moderna,2350160,2022-01-31,2022-02-01,General population
+Pfizer,4538860,2022-01-31,2022-02-01,General population
+Johnson & Johnson,311800,2022-01-31,2022-02-01,General population
+Moderna,1775500,2022-01-31,2022-02-01,Long-term care
+Pfizer,2518460,2022-01-31,2022-02-01,Long-term care
+Johnson & Johnson,186200,2022-01-31,2022-02-01,Long-term care
+Moderna,2348160,2022-01-27,2022-01-28,General population
+Pfizer,4531960,2022-01-27,2022-01-28,General population
+Johnson & Johnson,311800,2022-01-27,2022-01-28,General population
+Moderna,1768700,2022-01-27,2022-01-28,Long-term care
+Pfizer,2502260,2022-01-27,2022-01-28,Long-term care
+Johnson & Johnson,185400,2022-01-27,2022-01-28,Long-term care
+Moderna,2347960,2022-01-26,2022-01-27,General population
+Pfizer,4523860,2022-01-26,2022-01-27,General population
+Johnson & Johnson,311800,2022-01-26,2022-01-27,General population
+Moderna,1766600,2022-01-26,2022-01-27,Long-term care
+Pfizer,2491560,2022-01-26,2022-01-27,Long-term care
+Johnson & Johnson,185400,2022-01-26,2022-01-27,Long-term care
+Moderna,2344560,2022-01-24,2022-01-26,General population
+Pfizer,4521760,2022-01-24,2022-01-26,General population
+Johnson & Johnson,311800,2022-01-24,2022-01-26,General population
+Moderna,1757800,2022-01-24,2022-01-26,Long-term care
+Pfizer,2487360,2022-01-24,2022-01-26,Long-term care
+Johnson & Johnson,185200,2022-01-24,2022-01-26,Long-term care
+Moderna,2336560,2022-01-24,2022-01-25,General population
+Pfizer,4513460,2022-01-24,2022-01-25,General population
+Johnson & Johnson,311800,2022-01-24,2022-01-25,General population
+Moderna,1755000,2022-01-24,2022-01-25,Long-term care
+Pfizer,2485760,2022-01-24,2022-01-25,Long-term care
+Johnson & Johnson,185000,2022-01-24,2022-01-25,Long-term care
+Moderna,2335160,2022-01-21,2022-01-24,General population
+Pfizer,4507160,2022-01-21,2022-01-24,General population
+Johnson & Johnson,311800,2022-01-21,2022-01-24,General population
+Moderna,1754200,2022-01-21,2022-01-24,Long-term care
+Pfizer,2464660,2022-01-21,2022-01-24,Long-term care
+Johnson & Johnson,185000,2022-01-21,2022-01-24,Long-term care
+Moderna,2333960,2022-01-20,2022-01-21,General population
+Pfizer,4504660,2022-01-20,2022-01-21,General population
+Johnson & Johnson,311800,2022-01-20,2022-01-21,General population
+Moderna,1750400,2022-01-20,2022-01-21,Long-term care
+Pfizer,2449760,2022-01-20,2022-01-21,Long-term care
+Johnson & Johnson,183500,2022-01-20,2022-01-21,Long-term care
+Moderna,2332760,2022-01-19,2022-01-20,General population
+Pfizer,4486860,2022-01-19,2022-01-20,General population
+Johnson & Johnson,311800,2022-01-19,2022-01-20,General population
+Moderna,1747200,2022-01-19,2022-01-20,Long-term care
+Pfizer,2445460,2022-01-19,2022-01-20,Long-term care
+Johnson & Johnson,183100,2022-01-19,2022-01-20,Long-term care
+Moderna,2320660,2022-01-18,2022-01-19,General population
+Pfizer,4472660,2022-01-18,2022-01-19,General population
+Johnson & Johnson,311800,2022-01-18,2022-01-19,General population
+Moderna,1721900,2022-01-18,2022-01-19,Long-term care
+Pfizer,2437310,2022-01-18,2022-01-19,Long-term care
+Johnson & Johnson,182500,2022-01-18,2022-01-19,Long-term care
+Moderna,2320660,2022-01-14,2022-01-18,General population
+Pfizer,4465260,2022-01-14,2022-01-18,General population
+Johnson & Johnson,311800,2022-01-14,2022-01-18,General population
+Moderna,1721900,2022-01-14,2022-01-18,Long-term care
+Pfizer,2412110,2022-01-14,2022-01-18,Long-term care
+Johnson & Johnson,182500,2022-01-14,2022-01-18,Long-term care
+Moderna,2319060,2022-01-13,2022-01-14,General population
+Pfizer,4457760,2022-01-13,2022-01-14,General population
+Johnson & Johnson,311800,2022-01-13,2022-01-14,General population
+Moderna,1720000,2022-01-13,2022-01-14,Long-term care
+Pfizer,2402610,2022-01-13,2022-01-14,Long-term care
+Johnson & Johnson,182500,2022-01-13,2022-01-14,Long-term care
+Moderna,2316860,2022-01-12,2022-01-13,General population
+Pfizer,4456860,2022-01-12,2022-01-13,General population
+Johnson & Johnson,311800,2022-01-12,2022-01-13,General population
+Moderna,1716100,2022-01-12,2022-01-13,Long-term care
+Pfizer,2395230,2022-01-12,2022-01-13,Long-term care
+Johnson & Johnson,182200,2022-01-12,2022-01-13,Long-term care
+Moderna,2313660,2022-01-11,2022-01-12,General population
+Pfizer,4443060,2022-01-11,2022-01-12,General population
+Johnson & Johnson,311800,2022-01-11,2022-01-12,General population
+Moderna,1711000,2022-01-11,2022-01-12,Long-term care
+Pfizer,2390160,2022-01-11,2022-01-12,Long-term care
+Johnson & Johnson,182200,2022-01-11,2022-01-12,Long-term care
+Moderna,2311660,2022-01-10,2022-01-11,General population
+Pfizer,4424860,2022-01-10,2022-01-11,General population
+Johnson & Johnson,311800,2022-01-10,2022-01-11,General population
+Moderna,1705000,2022-01-10,2022-01-11,Long-term care
+Pfizer,2377960,2022-01-10,2022-01-11,Long-term care
+Johnson & Johnson,181700,2022-01-10,2022-01-11,Long-term care
+Moderna,2311660,2022-01-07,2022-01-10,General population
+Pfizer,4419360,2022-01-07,2022-01-10,General population
+Johnson & Johnson,311800,2022-01-07,2022-01-10,General population
+Moderna,1704700,2022-01-07,2022-01-10,Long-term care
+Pfizer,2340310,2022-01-07,2022-01-10,Long-term care
+Johnson & Johnson,181700,2022-01-07,2022-01-10,Long-term care
+Moderna,2308260,2022-01-06,2022-01-07,General population
+Pfizer,4401660,2022-01-06,2022-01-07,General population
+Johnson & Johnson,311800,2022-01-06,2022-01-07,General population
+Moderna,1690900,2022-01-06,2022-01-07,Long-term care
+Pfizer,2325410,2022-01-06,2022-01-07,Long-term care
+Johnson & Johnson,181500,2022-01-06,2022-01-07,Long-term care
+Moderna,2290960,2022-01-05,2022-01-06,General population
+Pfizer,4397260,2022-01-05,2022-01-06,General population
+Johnson & Johnson,311800,2022-01-05,2022-01-06,General population
+Moderna,1680200,2022-01-05,2022-01-06,Long-term care
+Pfizer,2319560,2022-01-05,2022-01-06,Long-term care
+Johnson & Johnson,181200,2022-01-05,2022-01-06,Long-term care
+Moderna,2289060,2022-01-04,2022-01-05,General population
+Pfizer,4325160,2022-01-04,2022-01-05,General population
+Johnson & Johnson,311800,2022-01-04,2022-01-05,General population
+Moderna,1665500,2022-01-04,2022-01-05,Long-term care
+Pfizer,2301180,2022-01-04,2022-01-05,Long-term care
+Johnson & Johnson,181000,2022-01-04,2022-01-05,Long-term care
+Moderna,2288460,2022-01-03,2022-01-04,General population
+Pfizer,4325160,2022-01-03,2022-01-04,General population
+Johnson & Johnson,311800,2022-01-03,2022-01-04,General population
+Moderna,1661500,2022-01-03,2022-01-04,Long-term care
+Pfizer,2301180,2022-01-03,2022-01-04,Long-term care
+Johnson & Johnson,181000,2022-01-03,2022-01-04,Long-term care
+Moderna,2288460,2021-12-30,2022-01-03,General population
+Pfizer,4325160,2021-12-30,2022-01-03,General population
+Johnson & Johnson,311800,2021-12-30,2022-01-03,General population
+Moderna,1661500,2021-12-30,2022-01-03,Long-term care
+Pfizer,2301180,2021-12-30,2022-01-03,Long-term care
+Johnson & Johnson,181000,2021-12-30,2022-01-03,Long-term care
+Moderna,2288460,2021-12-29,2021-12-30,General population
+Pfizer,4325160,2021-12-29,2021-12-30,General population
+Johnson & Johnson,311800,2021-12-29,2021-12-30,General population
+Moderna,1661500,2021-12-29,2021-12-30,Long-term care
+Pfizer,2296500,2021-12-29,2021-12-30,Long-term care
+Johnson & Johnson,181000,2021-12-29,2021-12-30,Long-term care
+Moderna,2286460,2021-12-21,2021-12-29,General population
+Pfizer,4320890,2021-12-21,2021-12-29,General population
+Johnson & Johnson,311800,2021-12-21,2021-12-29,General population
+Moderna,1655500,2021-12-21,2021-12-29,Long-term care
+Pfizer,2284800,2021-12-21,2021-12-29,Long-term care
+Johnson & Johnson,181000,2021-12-21,2021-12-29,Long-term care
+Moderna,2270960,2021-12-21,2021-12-28,General population
+Pfizer,4294070,2021-12-21,2021-12-28,General population
+Johnson & Johnson,311800,2021-12-21,2021-12-28,General population
+Moderna,1641800,2021-12-21,2021-12-28,Long-term care
+Pfizer,2259170,2021-12-21,2021-12-28,Long-term care
+Johnson & Johnson,180200,2021-12-21,2021-12-28,Long-term care
+Moderna,2270960,2021-12-21,2021-12-27,General population
+Pfizer,4294070,2021-12-21,2021-12-27,General population
+Johnson & Johnson,311800,2021-12-21,2021-12-27,General population
+Moderna,1641800,2021-12-21,2021-12-27,Long-term care
+Pfizer,2252970,2021-12-21,2021-12-27,Long-term care
+Johnson & Johnson,180200,2021-12-21,2021-12-27,Long-term care
+Moderna,2270960,2021-12-21,2021-12-23,General population
+Pfizer,4294070,2021-12-21,2021-12-23,General population
+Johnson & Johnson,311800,2021-12-21,2021-12-23,General population
+Moderna,1641800,2021-12-21,2021-12-23,Long-term care
+Pfizer,2251800,2021-12-21,2021-12-23,Long-term care
+Johnson & Johnson,180200,2021-12-21,2021-12-23,Long-term care
+Moderna,2260760,2021-12-20,2021-12-21,General population
+Pfizer,993270,2021-12-20,2021-12-21,General population
+Johnson & Johnson,311800,2021-12-20,2021-12-21,General population
+Moderna,1611300,2021-12-20,2021-12-21,Long-term care
+Pfizer,2040390,2021-12-20,2021-12-21,Long-term care
+Johnson & Johnson,179900,2021-12-20,2021-12-21,Long-term care
+Moderna,2257860,2021-12-17,2021-12-20,General population
+Pfizer,993170,2021-12-17,2021-12-20,General population
+Johnson & Johnson,311600,2021-12-17,2021-12-20,General population
+Moderna,1605800,2021-12-17,2021-12-20,Long-term care
+Pfizer,2198740,2021-12-17,2021-12-20,Long-term care
+Johnson & Johnson,178900,2021-12-17,2021-12-20,Long-term care
+Moderna,2257260,2021-12-16,2021-12-17,General population
+Pfizer,4247320,2021-12-16,2021-12-17,General population
+Johnson & Johnson,311600,2021-12-16,2021-12-17,General population
+Moderna,1601800,2021-12-16,2021-12-17,Long-term care
+Pfizer,2186840,2021-12-16,2021-12-17,Long-term care
+Johnson & Johnson,178600,2021-12-16,2021-12-17,Long-term care
+Moderna,2255460,2021-12-15,2021-12-16,General population
+Pfizer,4212730,2021-12-15,2021-12-16,General population
+Johnson & Johnson,311500,2021-12-15,2021-12-16,General population
+Moderna,1596000,2021-12-15,2021-12-16,Long-term care
+Pfizer,2151720,2021-12-15,2021-12-16,Long-term care
+Johnson & Johnson,191400,2021-12-15,2021-12-16,Long-term care
+Moderna,2239060,2021-12-14,2021-12-15,General population
+Pfizer,4150150,2021-12-14,2021-12-15,General population
+Johnson & Johnson,310300,2021-12-14,2021-12-15,General population
+Moderna,1570200,2021-12-14,2021-12-15,Long-term care
+Pfizer,2140290,2021-12-14,2021-12-15,Long-term care
+Johnson & Johnson,176100,2021-12-14,2021-12-15,Long-term care
+Moderna,2239060,2021-12-13,2021-12-14,General population
+Pfizer,4150150,2021-12-13,2021-12-14,General population
+Johnson & Johnson,310300,2021-12-13,2021-12-14,General population
+Moderna,1570200,2021-12-13,2021-12-14,Long-term care
+Pfizer,2140290,2021-12-13,2021-12-14,Long-term care
+Johnson & Johnson,176100,2021-12-13,2021-12-14,Long-term care
+Moderna,2233060,2021-12-10,2021-12-13,General population
+Pfizer,4108300,2021-12-10,2021-12-13,General population
+Johnson & Johnson,308300,2021-12-10,2021-12-13,General population
+Moderna,1554800,2021-12-10,2021-12-13,Long-term care
+Pfizer,2096650,2021-12-10,2021-12-13,Long-term care
+Johnson & Johnson,174500,2021-12-10,2021-12-13,Long-term care
+Moderna,2233060,2021-12-08,2021-12-10,General population
+Pfizer,4108300,2021-12-08,2021-12-10,General population
+Johnson & Johnson,308300,2021-12-08,2021-12-10,General population
+Moderna,1554800,2021-12-08,2021-12-10,Long-term care
+Pfizer,2096650,2021-12-08,2021-12-10,Long-term care
+Johnson & Johnson,174500,2021-12-08,2021-12-10,Long-term care
+Moderna,2226560,2021-12-08,2021-12-09,General population
+Pfizer,4076710,2021-12-08,2021-12-09,General population
+Johnson & Johnson,307300,2021-12-08,2021-12-09,General population
+Moderna,1549800,2021-12-08,2021-12-09,Long-term care
+Pfizer,2055100,2021-12-08,2021-12-09,Long-term care
+Johnson & Johnson,174100,2021-12-08,2021-12-09,Long-term care
+Moderna,2124800,2021-12-07,2021-12-08,General population
+Pfizer,3762195,2021-12-07,2021-12-08,General population
+Johnson & Johnson,293100,2021-12-07,2021-12-08,General population
+Moderna,1601860,2021-12-07,2021-12-08,Long-term care
+Pfizer,2168405,2021-12-07,2021-12-08,Long-term care
+Johnson & Johnson,184000,2021-12-07,2021-12-08,Long-term care
+Moderna,2124800,2021-12-06,2021-12-07,General population
+Pfizer,3762195,2021-12-06,2021-12-07,General population
+Johnson & Johnson,293100,2021-12-06,2021-12-07,General population
+Moderna,1601860,2021-12-06,2021-12-07,Long-term care
+Pfizer,2168405,2021-12-06,2021-12-07,Long-term care
+Johnson & Johnson,184000,2021-12-06,2021-12-07,Long-term care
+Moderna,2124800,2021-12-03,2021-12-06,General population
+Pfizer,3762195,2021-12-03,2021-12-06,General population
+Johnson & Johnson,293100,2021-12-03,2021-12-06,General population
+Moderna,1597460,2021-12-03,2021-12-06,Long-term care
+Pfizer,2168405,2021-12-03,2021-12-06,Long-term care
+Johnson & Johnson,183600,2021-12-03,2021-12-06,Long-term care
+Moderna,2122300,2021-12-02,2021-12-03,General population
+Pfizer,3762195,2021-12-02,2021-12-03,General population
+Johnson & Johnson,293100,2021-12-02,2021-12-03,General population
+Moderna,1589460,2021-12-02,2021-12-03,Long-term care
+Pfizer,2153465,2021-12-02,2021-12-03,Long-term care
+Johnson & Johnson,181300,2021-12-02,2021-12-03,Long-term care
+Moderna,2106800,2021-12-01,2021-12-02,General population
+Pfizer,3675795,2021-12-01,2021-12-02,General population
+Johnson & Johnson,289100,2021-12-01,2021-12-02,General population
+Moderna,1574260,2021-12-01,2021-12-02,Long-term care
+Pfizer,2141075,2021-12-01,2021-12-02,Long-term care
+Johnson & Johnson,177800,2021-12-01,2021-12-02,Long-term care
+Moderna,2089500,2021-11-29,2021-12-01,General population
+Pfizer,3675795,2021-11-29,2021-12-01,General population
+Johnson & Johnson,286600,2021-11-29,2021-12-01,General population
+Moderna,1549260,2021-11-29,2021-12-01,Long-term care
+Pfizer,2134925,2021-11-29,2021-12-01,Long-term care
+Johnson & Johnson,177800,2021-11-29,2021-12-01,Long-term care
+Moderna,2089500,2021-11-29,2021-11-30,General population
+Pfizer,3675795,2021-11-29,2021-11-30,General population
+Johnson & Johnson,286600,2021-11-29,2021-11-30,General population
+Moderna,1549260,2021-11-29,2021-11-30,Long-term care
+Pfizer,2134925,2021-11-29,2021-11-30,Long-term care
+Johnson & Johnson,177800,2021-11-29,2021-11-30,Long-term care
+Moderna,2078100,2021-11-24,2021-11-26,General population
+Pfizer,3642845,2021-11-24,2021-11-26,General population
+Johnson & Johnson,285000,2021-11-24,2021-11-26,General population
+Moderna,1549260,2021-11-24,2021-11-26,Long-term care
+Pfizer,2111075,2021-11-24,2021-11-26,Long-term care
+Johnson & Johnson,176400,2021-11-24,2021-11-26,Long-term care
+Moderna,2077100,2021-11-23,2021-11-24,General population
+Pfizer,3642845,2021-11-23,2021-11-24,General population
+Johnson & Johnson,285000,2021-11-23,2021-11-24,General population
+Moderna,1549260,2021-11-23,2021-11-24,Long-term care
+Pfizer,2111075,2021-11-23,2021-11-24,Long-term care
+Johnson & Johnson,175000,2021-11-23,2021-11-24,Long-term care
+Moderna,2052700,2021-11-22,2021-11-23,General population
+Pfizer,3937765,2021-11-22,2021-11-23,General population
+Johnson & Johnson,280500,2021-11-22,2021-11-23,General population
+Moderna,1537560,2021-11-22,2021-11-23,Long-term care
+Pfizer,2056465,2021-11-22,2021-11-23,Long-term care
+Johnson & Johnson,175000,2021-11-22,2021-11-23,Long-term care
+Moderna,2051700,2021-11-19,2021-11-22,General population
+Pfizer,3542425,2021-11-19,2021-11-22,General population
+Johnson & Johnson,280400,2021-11-19,2021-11-22,General population
+Moderna,1525860,2021-11-19,2021-11-22,Long-term care
+Pfizer,2014455,2021-11-19,2021-11-22,Long-term care
+Johnson & Johnson,173500,2021-11-19,2021-11-22,Long-term care
+Moderna,2047500,2021-11-18,2021-11-19,General population
+Pfizer,3530275,2021-11-18,2021-11-19,General population
+Johnson & Johnson,280300,2021-11-18,2021-11-19,General population
+Moderna,1513960,2021-11-18,2021-11-19,Long-term care
+Pfizer,1975775,2021-11-18,2021-11-19,Long-term care
+Johnson & Johnson,169600,2021-11-18,2021-11-19,Long-term care
+Moderna,2042100,2021-11-17,2021-11-18,General population
+Pfizer,3517225,2021-11-17,2021-11-18,General population
+Johnson & Johnson,279600,2021-11-17,2021-11-18,General population
+Moderna,1495560,2021-11-17,2021-11-18,Long-term care
+Pfizer,1951745,2021-11-17,2021-11-18,Long-term care
+Johnson & Johnson,166700,2021-11-17,2021-11-18,Long-term care
+Moderna,2022900,2021-11-16,2021-11-17,General population
+Pfizer,3511015,2021-11-16,2021-11-17,General population
+Johnson & Johnson,277400,2021-11-16,2021-11-17,General population
+Moderna,1485860,2021-11-16,2021-11-17,Long-term care
+Pfizer,1936285,2021-11-16,2021-11-17,Long-term care
+Johnson & Johnson,165800,2021-11-16,2021-11-17,Long-term care
+Moderna,2017100,2021-11-15,2021-11-16,General population
+Pfizer,3495505,2021-11-15,2021-11-16,General population
+Johnson & Johnson,273200,2021-11-15,2021-11-16,General population
+Moderna,1478760,2021-11-15,2021-11-16,Long-term care
+Pfizer,1919315,2021-11-15,2021-11-16,Long-term care
+Johnson & Johnson,165100,2021-11-15,2021-11-16,Long-term care
+Moderna,2004860,2021-11-12,2021-11-15,General population
+Pfizer,3474095,2021-11-12,2021-11-15,General population
+Johnson & Johnson,271400,2021-11-12,2021-11-15,General population
+Moderna,1473860,2021-11-12,2021-11-15,Long-term care
+Pfizer,1916975,2021-11-12,2021-11-15,Long-term care
+Johnson & Johnson,165000,2021-11-12,2021-11-15,Long-term care
+Moderna,1994360,2021-11-10,2021-11-12,General population
+Pfizer,3400905,2021-11-10,2021-11-12,General population
+Johnson & Johnson,268900,2021-11-10,2021-11-12,General population
+Moderna,1451060,2021-11-10,2021-11-12,Long-term care
+Pfizer,1850535,2021-11-10,2021-11-12,Long-term care
+Johnson & Johnson,159900,2021-11-10,2021-11-12,Long-term care
+Moderna,1994360,2021-11-10,2021-11-11,General population
+Pfizer,3400905,2021-11-10,2021-11-11,General population
+Johnson & Johnson,268900,2021-11-10,2021-11-11,General population
+Moderna,1451060,2021-11-10,2021-11-11,Long-term care
+Pfizer,1850535,2021-11-10,2021-11-11,Long-term care
+Johnson & Johnson,159900,2021-11-10,2021-11-11,Long-term care
+Moderna,1993940,2021-11-09,2021-11-10,General population
+Pfizer,3242565,2021-11-09,2021-11-10,General population
+Johnson & Johnson,268900,2021-11-09,2021-11-10,General population
+Moderna,1433840,2021-11-09,2021-11-10,Long-term care
+Pfizer,1759785,2021-11-09,2021-11-10,Long-term care
+Johnson & Johnson,159700,2021-11-09,2021-11-10,Long-term care
+Moderna,1985540,2021-11-08,2021-11-09,General population
+Pfizer,3364485,2021-11-08,2021-11-09,General population
+Johnson & Johnson,267000,2021-11-08,2021-11-09,General population
+Moderna,1416340,2021-11-08,2021-11-09,Long-term care
+Pfizer,1797405,2021-11-08,2021-11-09,Long-term care
+Johnson & Johnson,159700,2021-11-08,2021-11-09,Long-term care
+Moderna,1967060,2021-11-05,2021-11-08,General population
+Pfizer,3347385,2021-11-05,2021-11-08,General population
+Johnson & Johnson,266900,2021-11-05,2021-11-08,General population
+Moderna,1413540,2021-11-05,2021-11-08,Long-term care
+Pfizer,1748505,2021-11-05,2021-11-08,Long-term care
+Johnson & Johnson,157800,2021-11-05,2021-11-08,Long-term care
+Moderna,1966640,2021-11-04,2021-11-05,General population
+Pfizer,3347385,2021-11-04,2021-11-05,General population
+Johnson & Johnson,266300,2021-11-04,2021-11-05,General population
+Moderna,1382880,2021-11-04,2021-11-05,Long-term care
+Pfizer,1748505,2021-11-04,2021-11-05,Long-term care
+Johnson & Johnson,157800,2021-11-04,2021-11-05,Long-term care
+Moderna,1962860,2021-11-03,2021-11-04,General population
+Pfizer,3223485,2021-11-03,2021-11-04,General population
+Johnson & Johnson,265400,2021-11-03,2021-11-04,General population
+Moderna,1311240,2021-11-03,2021-11-04,Long-term care
+Pfizer,1596360,2021-11-03,2021-11-04,Long-term care
+Johnson & Johnson,146400,2021-11-03,2021-11-04,Long-term care
+Moderna,1956280,2021-11-02,2021-11-03,General population
+Pfizer,3223485,2021-11-02,2021-11-03,General population
+Johnson & Johnson,265300,2021-11-02,2021-11-03,General population
+Moderna,1285760,2021-11-02,2021-11-03,Long-term care
+Pfizer,1586610,2021-11-02,2021-11-03,Long-term care
+Johnson & Johnson,145900,2021-11-02,2021-11-03,Long-term care
+Moderna,1943680,2021-11-01,2021-11-02,General population
+Pfizer,3223485,2021-11-01,2021-11-02,General population
+Johnson & Johnson,263100,2021-11-01,2021-11-02,General population
+Moderna,1271200,2021-11-01,2021-11-02,Long-term care
+Pfizer,1586610,2021-11-01,2021-11-02,Long-term care
+Johnson & Johnson,145400,2021-11-01,2021-11-02,Long-term care
+Moderna,1942980,2021-10-29,2021-11-01,General population
+Pfizer,3221145,2021-10-29,2021-11-01,General population
+Johnson & Johnson,263000,2021-10-29,2021-11-01,General population
+Moderna,1268540,2021-10-29,2021-11-01,Long-term care
+Pfizer,1586160,2021-10-29,2021-11-01,Long-term care
+Johnson & Johnson,145400,2021-10-29,2021-11-01,Long-term care
+Moderna,1932200,2021-10-28,2021-10-29,General population
+Pfizer,3219975,2021-10-28,2021-10-29,General population
+Johnson & Johnson,262500,2021-10-28,2021-10-29,General population
+Moderna,1244460,2021-10-28,2021-10-29,Long-term care
+Pfizer,1575000,2021-10-28,2021-10-29,Long-term care
+Johnson & Johnson,145400,2021-10-28,2021-10-29,Long-term care
+Moderna,1926140,2021-10-27,2021-10-28,General population
+Pfizer,3189555,2021-10-27,2021-10-28,General population
+Johnson & Johnson,261100,2021-10-27,2021-10-28,General population
+Moderna,1238240,2021-10-27,2021-10-28,Long-term care
+Pfizer,1539810,2021-10-27,2021-10-28,Long-term care
+Johnson & Johnson,140200,2021-10-27,2021-10-28,Long-term care
+Moderna,1910120,2021-10-26,2021-10-27,General population
+Pfizer,3187215,2021-10-26,2021-10-27,General population
+Johnson & Johnson,258600,2021-10-26,2021-10-27,General population
+Moderna,1221520,2021-10-26,2021-10-27,Long-term care
+Pfizer,1528290,2021-10-26,2021-10-27,Long-term care
+Johnson & Johnson,139400,2021-10-26,2021-10-27,Long-term care
+Moderna,1906360,2021-10-25,2021-10-26,General population
+Pfizer,3182535,2021-10-25,2021-10-26,General population
+Johnson & Johnson,257500,2021-10-25,2021-10-26,General population
+Moderna,1204840,2021-10-25,2021-10-26,Long-term care
+Pfizer,1531110,2021-10-25,2021-10-26,Long-term care
+Johnson & Johnson,136700,2021-10-25,2021-10-26,Long-term care
+Moderna,1904400,2021-10-22,2021-10-25,General population
+Pfizer,3176685,2021-10-22,2021-10-25,General population
+Johnson & Johnson,257500,2021-10-22,2021-10-25,General population
+Moderna,1200280,2021-10-22,2021-10-25,Long-term care
+Pfizer,1520190,2021-10-22,2021-10-25,Long-term care
+Johnson & Johnson,136600,2021-10-22,2021-10-25,Long-term care
+Moderna,1903020,2021-10-21,2021-10-22,General population
+Pfizer,3150945,2021-10-21,2021-10-22,General population
+Johnson & Johnson,256900,2021-10-21,2021-10-22,General population
+Moderna,1168220,2021-10-21,2021-10-22,Long-term care
+Pfizer,1510830,2021-10-21,2021-10-22,Long-term care
+Johnson & Johnson,126600,2021-10-21,2021-10-22,Long-term care
+Moderna,1902020,2021-10-20,2021-10-21,General population
+Pfizer,3142755,2021-10-20,2021-10-21,General population
+Johnson & Johnson,256900,2021-10-20,2021-10-21,General population
+Moderna,1156760,2021-10-20,2021-10-21,Long-term care
+Pfizer,1494270,2021-10-20,2021-10-21,Long-term care
+Johnson & Johnson,126200,2021-10-20,2021-10-21,Long-term care
+Moderna,1888520,2021-10-19,2021-10-20,General population
+Pfizer,3136905,2021-10-19,2021-10-20,General population
+Johnson & Johnson,253400,2021-10-19,2021-10-20,General population
+Moderna,1138840,2021-10-19,2021-10-20,Long-term care
+Pfizer,1489590,2021-10-19,2021-10-20,Long-term care
+Johnson & Johnson,125600,2021-10-19,2021-10-20,Long-term care
+Moderna,1887160,2021-10-18,2021-10-19,General population
+Pfizer,3127545,2021-10-18,2021-10-19,General population
+Johnson & Johnson,252800,2021-10-18,2021-10-19,General population
+Moderna,1125300,2021-10-18,2021-10-19,Long-term care
+Pfizer,1481580,2021-10-18,2021-10-19,Long-term care
+Johnson & Johnson,125200,2021-10-18,2021-10-19,Long-term care
+Moderna,1881240,2021-10-15,2021-10-18,General population
+Pfizer,3120525,2021-10-15,2021-10-18,General population
+Johnson & Johnson,252000,2021-10-15,2021-10-18,General population
+Moderna,1123660,2021-10-15,2021-10-18,Long-term care
+Pfizer,1479240,2021-10-15,2021-10-18,Long-term care
+Johnson & Johnson,125200,2021-10-15,2021-10-18,Long-term care
+Moderna,1879860,2021-10-13,2021-10-14,General population
+Pfizer,3077235,2021-10-13,2021-10-14,General population
+Johnson & Johnson,251400,2021-10-13,2021-10-14,General population
+Moderna,1116520,2021-10-13,2021-10-14,Long-term care
+Pfizer,1435320,2021-10-13,2021-10-14,Long-term care
+Johnson & Johnson,123800,2021-10-13,2021-10-14,Long-term care
+Moderna,1872140,2021-10-12,2021-10-13,General population
+Pfizer,3077235,2021-10-12,2021-10-13,General population
+Johnson & Johnson,250500,2021-10-12,2021-10-13,General population
+Moderna,1109760,2021-10-12,2021-10-13,Long-term care
+Pfizer,1425510,2021-10-12,2021-10-13,Long-term care
+Johnson & Johnson,123800,2021-10-12,2021-10-13,Long-term care
+Moderna,1871060,2021-10-08,2021-10-12,General population
+Pfizer,3076065,2021-10-08,2021-10-12,General population
+Johnson & Johnson,250100,2021-10-08,2021-10-12,General population
+Moderna,1106980,2021-10-08,2021-10-12,Long-term care
+Pfizer,1421910,2021-10-08,2021-10-12,Long-term care
+Johnson & Johnson,123700,2021-10-08,2021-10-12,Long-term care
+Moderna,1870780,2021-10-08,2021-10-11,General population
+Pfizer,3052665,2021-10-08,2021-10-11,General population
+Johnson & Johnson,250100,2021-10-08,2021-10-11,General population
+Moderna,1106560,2021-10-08,2021-10-11,Long-term care
+Pfizer,1417230,2021-10-08,2021-10-11,Long-term care
+Johnson & Johnson,123700,2021-10-08,2021-10-11,Long-term care
+Moderna,1870180,2021-10-07,2021-10-08,General population
+Pfizer,3026925,2021-10-07,2021-10-08,General population
+Johnson & Johnson,249500,2021-10-07,2021-10-08,General population
+Moderna,1105700,2021-10-07,2021-10-08,Long-term care
+Pfizer,1381950,2021-10-07,2021-10-08,Long-term care
+Johnson & Johnson,123600,2021-10-07,2021-10-08,Long-term care
+Moderna,1869740,2021-10-06,2021-10-07,General population
+Pfizer,3024585,2021-10-06,2021-10-07,General population
+Johnson & Johnson,248800,2021-10-06,2021-10-07,General population
+Moderna,1101300,2021-10-06,2021-10-07,Long-term care
+Pfizer,1367010,2021-10-06,2021-10-07,Long-term care
+Johnson & Johnson,123400,2021-10-06,2021-10-07,Long-term care
+Moderna,1857400,2021-10-04,2021-10-06,General population
+Pfizer,2996505,2021-10-04,2021-10-06,General population
+Johnson & Johnson,246600,2021-10-04,2021-10-06,General population
+Moderna,1091000,2021-10-04,2021-10-06,Long-term care
+Pfizer,1359360,2021-10-04,2021-10-06,Long-term care
+Johnson & Johnson,120400,2021-10-04,2021-10-06,Long-term care
+Moderna,1857400,2021-10-04,2021-10-05,General population
+Pfizer,2996505,2021-10-04,2021-10-05,General population
+Johnson & Johnson,246600,2021-10-04,2021-10-05,General population
+Moderna,1091000,2021-10-04,2021-10-05,Long-term care
+Pfizer,1359360,2021-10-04,2021-10-05,Long-term care
+Johnson & Johnson,120400,2021-10-04,2021-10-05,Long-term care
+Moderna,1856860,2021-10-01,2021-10-04,General population
+Pfizer,2981295,2021-10-01,2021-10-04,General population
+Johnson & Johnson,245500,2021-10-01,2021-10-04,General population
+Moderna,1089460,2021-10-01,2021-10-04,Long-term care
+Pfizer,1323900,2021-10-01,2021-10-04,Long-term care
+Johnson & Johnson,120400,2021-10-01,2021-10-04,Long-term care
+Moderna,1854180,2021-09-30,2021-10-01,General population
+Pfizer,2949705,2021-09-30,2021-10-01,General population
+Johnson & Johnson,243700,2021-09-30,2021-10-01,General population
+Moderna,1081100,2021-09-30,2021-10-01,Long-term care
+Pfizer,1284300,2021-09-30,2021-10-01,Long-term care
+Johnson & Johnson,120000,2021-09-30,2021-10-01,Long-term care
+Moderna,1854180,2021-09-29,2021-09-30,General population
+Pfizer,2949705,2021-09-29,2021-09-30,General population
+Johnson & Johnson,243700,2021-09-29,2021-09-30,General population
+Moderna,1081100,2021-09-29,2021-09-30,Long-term care
+Pfizer,1284300,2021-09-29,2021-09-30,Long-term care
+Johnson & Johnson,120000,2021-09-29,2021-09-30,Long-term care
+Moderna,1854180,2021-09-28,2021-09-29,General population
+Pfizer,2949705,2021-09-28,2021-09-29,General population
+Johnson & Johnson,243700,2021-09-28,2021-09-29,General population
+Moderna,1079360,2021-09-28,2021-09-29,Long-term care
+Pfizer,1283130,2021-09-28,2021-09-29,Long-term care
+Johnson & Johnson,120000,2021-09-28,2021-09-29,Long-term care
+Moderna,1841440,2021-09-27,2021-09-28,General population
+Pfizer,2946195,2021-09-27,2021-09-28,General population
+Johnson & Johnson,242000,2021-09-27,2021-09-28,General population
+Moderna,1077440,2021-09-27,2021-09-28,Long-term care
+Pfizer,1280790,2021-09-27,2021-09-28,Long-term care
+Johnson & Johnson,118500,2021-09-27,2021-09-28,Long-term care
+Moderna,1841440,2021-09-24,2021-09-27,General population
+Pfizer,2933325,2021-09-24,2021-09-27,General population
+Johnson & Johnson,242000,2021-09-24,2021-09-27,General population
+Moderna,1076880,2021-09-24,2021-09-27,Long-term care
+Pfizer,1280790,2021-09-24,2021-09-27,Long-term care
+Johnson & Johnson,118500,2021-09-24,2021-09-27,Long-term care
+Moderna,1838220,2021-09-23,2021-09-24,General population
+Pfizer,2922795,2021-09-23,2021-09-24,General population
+Johnson & Johnson,240900,2021-09-23,2021-09-24,General population
+Moderna,1070020,2021-09-23,2021-09-24,Long-term care
+Pfizer,1269090,2021-09-23,2021-09-24,Long-term care
+Johnson & Johnson,117800,2021-09-23,2021-09-24,Long-term care
+Moderna,1838220,2021-09-22,2021-09-23,General population
+Pfizer,2922795,2021-09-22,2021-09-23,General population
+Johnson & Johnson,240900,2021-09-22,2021-09-23,General population
+Moderna,1063440,2021-09-22,2021-09-23,Long-term care
+Pfizer,1266750,2021-09-22,2021-09-23,Long-term care
+Johnson & Johnson,117800,2021-09-22,2021-09-23,Long-term care
+Moderna,1830940,2021-09-21,2021-09-22,General population
+Pfizer,2918115,2021-09-21,2021-09-22,General population
+Johnson & Johnson,237800,2021-09-21,2021-09-22,General population
+Moderna,1058260,2021-09-21,2021-09-22,Long-term care
+Pfizer,1263240,2021-09-21,2021-09-22,Long-term care
+Johnson & Johnson,117800,2021-09-21,2021-09-22,Long-term care
+Moderna,1828440,2021-09-20,2021-09-21,General population
+Pfizer,2914605,2021-09-20,2021-09-21,General population
+Johnson & Johnson,237800,2021-09-20,2021-09-21,General population
+Moderna,1057260,2021-09-20,2021-09-21,Long-term care
+Pfizer,1258560,2021-09-20,2021-09-21,Long-term care
+Johnson & Johnson,117800,2021-09-20,2021-09-21,Long-term care
+Moderna,1827640,2021-09-16,2021-09-20,General population
+Pfizer,2897055,2021-09-16,2021-09-20,General population
+Johnson & Johnson,236400,2021-09-16,2021-09-20,General population
+Moderna,1054780,2021-09-16,2021-09-20,Long-term care
+Pfizer,1233990,2021-09-16,2021-09-20,Long-term care
+Johnson & Johnson,117700,2021-09-16,2021-09-20,Long-term care
+Moderna,1827640,2021-09-16,2021-09-17,General population
+Pfizer,2897055,2021-09-16,2021-09-17,General population
+Johnson & Johnson,236400,2021-09-16,2021-09-17,General population
+Moderna,1054780,2021-09-16,2021-09-17,Long-term care
+Pfizer,1233990,2021-09-16,2021-09-17,Long-term care
+Johnson & Johnson,117700,2021-09-16,2021-09-17,Long-term care
+Moderna,1826240,2021-09-15,2021-09-16,General population
+Pfizer,2884185,2021-09-15,2021-09-16,General population
+Johnson & Johnson,234900,2021-09-15,2021-09-16,General population
+Moderna,1050620,2021-09-15,2021-09-16,Long-term care
+Pfizer,1230480,2021-09-15,2021-09-16,Long-term care
+Johnson & Johnson,116800,2021-09-15,2021-09-16,Long-term care
+Moderna,1824160,2021-09-14,2021-09-15,General population
+Pfizer,2884185,2021-09-14,2021-09-15,General population
+Johnson & Johnson,229100,2021-09-14,2021-09-15,General population
+Moderna,1044900,2021-09-14,2021-09-15,Long-term care
+Pfizer,1225800,2021-09-14,2021-09-15,Long-term care
+Johnson & Johnson,116800,2021-09-14,2021-09-15,Long-term care
+Moderna,1818940,2021-09-10,2021-09-14,General population
+Pfizer,2880675,2021-09-10,2021-09-14,General population
+Johnson & Johnson,227100,2021-09-10,2021-09-14,General population
+Moderna,1037820,2021-09-10,2021-09-14,Long-term care
+Pfizer,1225800,2021-09-10,2021-09-14,Long-term care
+Johnson & Johnson,116800,2021-09-10,2021-09-14,Long-term care
+Moderna,1818940,2021-09-10,2021-09-13,General population
+Pfizer,2878335,2021-09-10,2021-09-13,General population
+Johnson & Johnson,222800,2021-09-10,2021-09-13,General population
+Moderna,1035860,2021-09-10,2021-09-13,Long-term care
+Pfizer,1221120,2021-09-10,2021-09-13,Long-term care
+Johnson & Johnson,116800,2021-09-10,2021-09-13,Long-term care
+Moderna,1818140,2021-09-09,2021-09-10,General population
+Pfizer,2870145,2021-09-09,2021-09-10,General population
+Johnson & Johnson,222800,2021-09-09,2021-09-10,General population
+Moderna,1033640,2021-09-09,2021-09-10,Long-term care
+Pfizer,1196550,2021-09-09,2021-09-10,Long-term care
+Johnson & Johnson,116800,2021-09-09,2021-09-10,Long-term care
+Moderna,1816360,2021-09-08,2021-09-09,General population
+Pfizer,2870145,2021-09-08,2021-09-09,General population
+Johnson & Johnson,222800,2021-09-08,2021-09-09,General population
+Moderna,1026040,2021-09-08,2021-09-09,Long-term care
+Pfizer,1196550,2021-09-08,2021-09-09,Long-term care
+Johnson & Johnson,116800,2021-09-08,2021-09-09,Long-term care
+Moderna,1812660,2021-09-07,2021-09-08,General population
+Pfizer,2864295,2021-09-07,2021-09-08,General population
+Johnson & Johnson,222800,2021-09-07,2021-09-08,General population
+Moderna,1019800,2021-09-07,2021-09-08,Long-term care
+Pfizer,1194210,2021-09-07,2021-09-08,Long-term care
+Johnson & Johnson,116800,2021-09-07,2021-09-08,Long-term care
+Moderna,1812660,2021-09-03,2021-09-07,General population
+Pfizer,2863125,2021-09-03,2021-09-07,General population
+Johnson & Johnson,222800,2021-09-03,2021-09-07,General population
+Moderna,1019800,2021-09-03,2021-09-07,Long-term care
+Pfizer,1188360,2021-09-03,2021-09-07,Long-term care
+Johnson & Johnson,116800,2021-09-03,2021-09-07,Long-term care
+Moderna,1811020,2021-09-02,2021-09-03,General population
+Pfizer,2844405,2021-09-02,2021-09-03,General population
+Johnson & Johnson,222800,2021-09-02,2021-09-03,General population
+Moderna,1016700,2021-09-02,2021-09-03,Long-term care
+Pfizer,1174320,2021-09-02,2021-09-03,Long-term care
+Johnson & Johnson,116800,2021-09-02,2021-09-03,Long-term care
+Moderna,1810480,2021-09-01,2021-09-02,General population
+Pfizer,2826855,2021-09-01,2021-09-02,General population
+Johnson & Johnson,222800,2021-09-01,2021-09-02,General population
+Moderna,1010740,2021-09-01,2021-09-02,Long-term care
+Pfizer,1166130,2021-09-01,2021-09-02,Long-term care
+Johnson & Johnson,116800,2021-09-01,2021-09-02,Long-term care
+Moderna,1808780,2021-08-31,2021-09-01,General population
+Pfizer,2808135,2021-08-31,2021-09-01,General population
+Johnson & Johnson,222800,2021-08-31,2021-09-01,General population
+Moderna,1001180,2021-08-31,2021-09-01,Long-term care
+Pfizer,1159110,2021-08-31,2021-09-01,Long-term care
+Johnson & Johnson,116800,2021-08-31,2021-09-01,Long-term care
+Moderna,1803560,2021-08-30,2021-08-31,General population
+Pfizer,2803455,2021-08-30,2021-08-31,General population
+Johnson & Johnson,222800,2021-08-30,2021-08-31,General population
+Moderna,998520,2021-08-30,2021-08-31,Long-term care
+Pfizer,1157940,2021-08-30,2021-08-31,Long-term care
+Johnson & Johnson,116800,2021-08-30,2021-08-31,Long-term care
+Moderna,1803560,2021-08-27,2021-08-30,General population
+Pfizer,2778885,2021-08-27,2021-08-30,General population
+Johnson & Johnson,222800,2021-08-27,2021-08-30,General population
+Moderna,997400,2021-08-27,2021-08-30,Long-term care
+Pfizer,1153260,2021-08-27,2021-08-30,Long-term care
+Johnson & Johnson,116800,2021-08-27,2021-08-30,Long-term care
+Moderna,1802620,2021-08-26,2021-08-27,General population
+Pfizer,2777715,2021-08-26,2021-08-27,General population
+Johnson & Johnson,222800,2021-08-26,2021-08-27,General population
+Moderna,994240,2021-08-26,2021-08-27,Long-term care
+Pfizer,1147410,2021-08-26,2021-08-27,Long-term care
+Johnson & Johnson,116800,2021-08-26,2021-08-27,Long-term care
+Moderna,1798840,2021-08-25,2021-08-26,General population
+Pfizer,2749635,2021-08-25,2021-08-26,General population
+Johnson & Johnson,222800,2021-08-25,2021-08-26,General population
+Moderna,989120,2021-08-25,2021-08-26,Long-term care
+Pfizer,1108800,2021-08-25,2021-08-26,Long-term care
+Johnson & Johnson,116800,2021-08-25,2021-08-26,Long-term care
+Moderna,1798300,2021-08-24,2021-08-25,General population
+Pfizer,2741625,2021-08-24,2021-08-25,General population
+Johnson & Johnson,222800,2021-08-24,2021-08-25,General population
+Moderna,979360,2021-08-24,2021-08-25,Long-term care
+Pfizer,1103340,2021-08-24,2021-08-25,Long-term care
+Johnson & Johnson,116800,2021-08-24,2021-08-25,Long-term care
+Moderna,1795600,2021-08-23,2021-08-24,General population
+Pfizer,2741625,2021-08-23,2021-08-24,General population
+Johnson & Johnson,222800,2021-08-23,2021-08-24,General population
+Moderna,975360,2021-08-23,2021-08-24,Long-term care
+Pfizer,1103340,2021-08-23,2021-08-24,Long-term care
+Johnson & Johnson,116800,2021-08-23,2021-08-24,Long-term care
+Moderna,1794760,2021-08-20,2021-08-23,General population
+Pfizer,2737755,2021-08-20,2021-08-23,General population
+Johnson & Johnson,222800,2021-08-20,2021-08-23,General population
+Moderna,975360,2021-08-20,2021-08-23,Long-term care
+Pfizer,1103340,2021-08-20,2021-08-23,Long-term care
+Johnson & Johnson,116800,2021-08-20,2021-08-23,Long-term care
+Moderna,1792800,2021-08-19,2021-08-20,General population
+Pfizer,2730015,2021-08-19,2021-08-20,General population
+Johnson & Johnson,222800,2021-08-19,2021-08-20,General population
+Moderna,969060,2021-08-19,2021-08-20,Long-term care
+Pfizer,1088400,2021-08-19,2021-08-20,Long-term care
+Johnson & Johnson,116800,2021-08-19,2021-08-20,Long-term care
+Moderna,1782720,2021-08-18,2021-08-19,General population
+Pfizer,2718765,2021-08-18,2021-08-19,General population
+Johnson & Johnson,222800,2021-08-18,2021-08-19,General population
+Moderna,967100,2021-08-18,2021-08-19,Long-term care
+Pfizer,1045920,2021-08-18,2021-08-19,Long-term care
+Johnson & Johnson,116800,2021-08-18,2021-08-19,Long-term care
+Moderna,1782720,2021-08-17,2021-08-18,General population
+Pfizer,2695815,2021-08-17,2021-08-18,General population
+Johnson & Johnson,222800,2021-08-17,2021-08-18,General population
+Moderna,933780,2021-08-17,2021-08-18,Long-term care
+Pfizer,1032420,2021-08-17,2021-08-18,Long-term care
+Johnson & Johnson,116800,2021-08-17,2021-08-18,Long-term care
+Moderna,1775860,2021-08-16,2021-08-17,General population
+Pfizer,2680065,2021-08-16,2021-08-17,General population
+Johnson & Johnson,222800,2021-08-16,2021-08-17,General population
+Moderna,918380,2021-08-16,2021-08-17,Long-term care
+Pfizer,1027470,2021-08-16,2021-08-17,Long-term care
+Johnson & Johnson,116800,2021-08-16,2021-08-17,Long-term care
+Moderna,1771660,2021-08-13,2021-08-16,General population
+Pfizer,2657565,2021-08-13,2021-08-16,General population
+Johnson & Johnson,222800,2021-08-13,2021-08-16,General population
+Moderna,909420,2021-08-13,2021-08-16,Long-term care
+Pfizer,1008720,2021-08-13,2021-08-16,Long-term care
+Johnson & Johnson,116800,2021-08-13,2021-08-16,Long-term care
+Moderna,1770960,2021-08-12,2021-08-13,General population
+Pfizer,2657565,2021-08-12,2021-08-13,General population
+Johnson & Johnson,222800,2021-08-12,2021-08-13,General population
+Moderna,905780,2021-08-12,2021-08-13,Long-term care
+Pfizer,1005570,2021-08-12,2021-08-13,Long-term care
+Johnson & Johnson,116800,2021-08-12,2021-08-13,Long-term care
+Moderna,1770960,2021-08-11,2021-08-12,General population
+Pfizer,2656215,2021-08-11,2021-08-12,General population
+Johnson & Johnson,222800,2021-08-11,2021-08-12,General population
+Moderna,895600,2021-08-11,2021-08-12,Long-term care
+Pfizer,965520,2021-08-11,2021-08-12,Long-term care
+Johnson & Johnson,116800,2021-08-11,2021-08-12,Long-term care
+Moderna,1770960,2021-08-10,2021-08-11,General population
+Pfizer,2656215,2021-08-10,2021-08-11,General population
+Johnson & Johnson,222800,2021-08-10,2021-08-11,General population
+Moderna,885900,2021-08-10,2021-08-11,Long-term care
+Pfizer,961020,2021-08-10,2021-08-11,Long-term care
+Johnson & Johnson,116800,2021-08-10,2021-08-11,Long-term care
+Moderna,1770540,2021-08-09,2021-08-10,General population
+Pfizer,2654865,2021-08-09,2021-08-10,General population
+Johnson & Johnson,222800,2021-08-09,2021-08-10,General population
+Moderna,881840,2021-08-09,2021-08-10,Long-term care
+Pfizer,949320,2021-08-09,2021-08-10,Long-term care
+Johnson & Johnson,116800,2021-08-09,2021-08-10,Long-term care
+Moderna,1769420,2021-08-06,2021-08-09,General population
+Pfizer,2642265,2021-08-06,2021-08-09,General population
+Johnson & Johnson,222800,2021-08-06,2021-08-09,General population
+Moderna,880860,2021-08-06,2021-08-09,Long-term care
+Pfizer,947970,2021-08-06,2021-08-09,Long-term care
+Johnson & Johnson,116800,2021-08-06,2021-08-09,Long-term care
+Moderna,1769420,2021-08-05,2021-08-06,General population
+Pfizer,2641365,2021-08-05,2021-08-06,General population
+Johnson & Johnson,222800,2021-08-05,2021-08-06,General population
+Moderna,878900,2021-08-05,2021-08-06,Long-term care
+Pfizer,933570,2021-08-05,2021-08-06,Long-term care
+Johnson & Johnson,116800,2021-08-05,2021-08-06,Long-term care
+Moderna,1769420,2021-08-04,2021-08-05,General population
+Pfizer,2641365,2021-08-04,2021-08-05,General population
+Johnson & Johnson,222800,2021-08-04,2021-08-05,General population
+Moderna,871760,2021-08-04,2021-08-05,Long-term care
+Pfizer,919620,2021-08-04,2021-08-05,Long-term care
+Johnson & Johnson,116800,2021-08-04,2021-08-05,Long-term care
+Moderna,1769420,2021-08-03,2021-08-04,General population
+Pfizer,2639115,2021-08-03,2021-08-04,General population
+Johnson & Johnson,222800,2021-08-03,2021-08-04,General population
+Moderna,862800,2021-08-03,2021-08-04,Long-term care
+Pfizer,916470,2021-08-03,2021-08-04,Long-term care
+Johnson & Johnson,116800,2021-08-03,2021-08-04,Long-term care
+Moderna,1769420,2021-08-02,2021-08-03,General population
+Pfizer,2638215,2021-08-02,2021-08-03,General population
+Johnson & Johnson,222800,2021-08-02,2021-08-03,General population
+Moderna,859440,2021-08-02,2021-08-03,Long-term care
+Pfizer,911520,2021-08-02,2021-08-03,Long-term care
+Johnson & Johnson,116800,2021-08-02,2021-08-03,Long-term care
+Moderna,1769420,2021-07-30,2021-08-02,General population
+Pfizer,2638215,2021-07-30,2021-08-02,General population
+Johnson & Johnson,222800,2021-07-30,2021-08-02,General population
+Moderna,859020,2021-07-30,2021-08-02,Long-term care
+Pfizer,911520,2021-07-30,2021-08-02,Long-term care
+Johnson & Johnson,116800,2021-07-30,2021-08-02,Long-term care
+Moderna,1769420,2021-07-29,2021-07-30,General population
+Pfizer,2638215,2021-07-29,2021-07-30,General population
+Johnson & Johnson,222800,2021-07-29,2021-07-30,General population
+Moderna,852720,2021-07-29,2021-07-30,Long-term care
+Pfizer,897570,2021-07-29,2021-07-30,Long-term care
+Johnson & Johnson,116800,2021-07-29,2021-07-30,Long-term care
+Moderna,1769420,2021-07-28,2021-07-29,General population
+Pfizer,2638215,2021-07-28,2021-07-29,General population
+Johnson & Johnson,222800,2021-07-28,2021-07-29,General population
+Moderna,850280,2021-07-28,2021-07-29,Long-term care
+Pfizer,886770,2021-07-28,2021-07-29,Long-term care
+Johnson & Johnson,116800,2021-07-28,2021-07-29,Long-term care
+Moderna,1769420,2021-07-26,2021-07-28,General population
+Pfizer,2638215,2021-07-26,2021-07-28,General population
+Johnson & Johnson,222800,2021-07-26,2021-07-28,General population
+Moderna,840140,2021-07-26,2021-07-28,Long-term care
+Pfizer,881370,2021-07-26,2021-07-28,Long-term care
+Johnson & Johnson,116800,2021-07-26,2021-07-28,Long-term care
+Moderna,1769420,2021-07-26,2021-07-27,General population
+Pfizer,2638215,2021-07-26,2021-07-27,General population
+Johnson & Johnson,222800,2021-07-26,2021-07-27,General population
+Moderna,837920,2021-07-26,2021-07-27,Long-term care
+Pfizer,880020,2021-07-26,2021-07-27,Long-term care
+Johnson & Johnson,116800,2021-07-26,2021-07-27,Long-term care
+Moderna,1767200,2021-07-23,2021-07-26,General population
+Pfizer,2638215,2021-07-23,2021-07-26,General population
+Johnson & Johnson,222800,2021-07-23,2021-07-26,General population
+Moderna,836140,2021-07-23,2021-07-26,Long-term care
+Pfizer,873720,2021-07-23,2021-07-26,Long-term care
+Johnson & Johnson,116800,2021-07-23,2021-07-26,Long-term care
+Moderna,1767200,2021-07-22,2021-07-23,General population
+Pfizer,2638215,2021-07-22,2021-07-23,General population
+Johnson & Johnson,222800,2021-07-22,2021-07-23,General population
+Moderna,831480,2021-07-22,2021-07-23,Long-term care
+Pfizer,867420,2021-07-22,2021-07-23,Long-term care
+Johnson & Johnson,116800,2021-07-22,2021-07-23,Long-term care
+Moderna,1767200,2021-07-20,2021-07-22,General population
+Pfizer,2638215,2021-07-20,2021-07-22,General population
+Johnson & Johnson,222800,2021-07-20,2021-07-22,General population
+Moderna,821360,2021-07-20,2021-07-22,Long-term care
+Pfizer,857070,2021-07-20,2021-07-22,Long-term care
+Johnson & Johnson,116800,2021-07-20,2021-07-22,Long-term care
+Moderna,1767200,2021-07-20,2021-07-21,General population
+Pfizer,2638215,2021-07-20,2021-07-21,General population
+Johnson & Johnson,222800,2021-07-20,2021-07-21,General population
+Moderna,811980,2021-07-20,2021-07-21,Long-term care
+Pfizer,855720,2021-07-20,2021-07-21,Long-term care
+Johnson & Johnson,116800,2021-07-20,2021-07-21,Long-term care
+Moderna,1767200,2021-07-19,2021-07-20,General population
+Pfizer,2637315,2021-07-19,2021-07-20,General population
+Johnson & Johnson,222800,2021-07-19,2021-07-20,General population
+Moderna,808640,2021-07-19,2021-07-20,Long-term care
+Pfizer,852120,2021-07-19,2021-07-20,Long-term care
+Johnson & Johnson,116800,2021-07-19,2021-07-20,Long-term care
+Moderna,1767200,2021-07-16,2021-07-19,General population
+Pfizer,2637315,2021-07-16,2021-07-19,General population
+Johnson & Johnson,222800,2021-07-16,2021-07-19,General population
+Moderna,807840,2021-07-16,2021-07-19,Long-term care
+Pfizer,848070,2021-07-16,2021-07-19,Long-term care
+Johnson & Johnson,116800,2021-07-16,2021-07-19,Long-term care
+Moderna,1767200,2021-07-15,2021-07-16,General population
+Pfizer,2637315,2021-07-15,2021-07-16,General population
+Johnson & Johnson,222800,2021-07-15,2021-07-16,General population
+Moderna,806140,2021-07-15,2021-07-16,Long-term care
+Pfizer,839970,2021-07-15,2021-07-16,Long-term care
+Johnson & Johnson,116800,2021-07-15,2021-07-16,Long-term care
+Moderna,1767200,2021-07-13,2021-07-15,General population
+Pfizer,2637315,2021-07-13,2021-07-15,General population
+Johnson & Johnson,222800,2021-07-13,2021-07-15,General population
+Moderna,798320,2021-07-13,2021-07-15,Long-term care
+Pfizer,838620,2021-07-13,2021-07-15,Long-term care
+Johnson & Johnson,116800,2021-07-13,2021-07-15,Long-term care
+Moderna,1767200,2021-07-13,2021-07-14,General population
+Pfizer,2637315,2021-07-13,2021-07-14,General population
+Johnson & Johnson,222800,2021-07-13,2021-07-14,General population
+Moderna,798320,2021-07-13,2021-07-14,Long-term care
+Pfizer,838620,2021-07-13,2021-07-14,Long-term care
+Johnson & Johnson,116800,2021-07-13,2021-07-14,Long-term care
+Moderna,1767000,2021-07-12,2021-07-13,General population
+Pfizer,2635965,2021-07-12,2021-07-13,General population
+Johnson & Johnson,222800,2021-07-12,2021-07-13,General population
+Moderna,796140,2021-07-12,2021-07-13,Long-term care
+Pfizer,837270,2021-07-12,2021-07-13,Long-term care
+Johnson & Johnson,116800,2021-07-12,2021-07-13,Long-term care
+Moderna,1764840,2021-07-09,2021-07-12,General population
+Pfizer,2635965,2021-07-09,2021-07-12,General population
+Johnson & Johnson,222800,2021-07-09,2021-07-12,General population
+Moderna,794880,2021-07-09,2021-07-12,Long-term care
+Pfizer,833220,2021-07-09,2021-07-12,Long-term care
+Johnson & Johnson,116800,2021-07-09,2021-07-12,Long-term care
+Moderna,1764840,2021-07-08,2021-07-09,General population
+Pfizer,2635965,2021-07-08,2021-07-09,General population
+Johnson & Johnson,222800,2021-07-08,2021-07-09,General population
+Moderna,794540,2021-07-08,2021-07-09,Long-term care
+Pfizer,826920,2021-07-08,2021-07-09,Long-term care
+Johnson & Johnson,116800,2021-07-08,2021-07-09,Long-term care
+Moderna,1764840,2021-07-07,2021-07-08,General population
+Pfizer,2635965,2021-07-07,2021-07-08,General population
+Johnson & Johnson,222800,2021-07-07,2021-07-08,General population
+Moderna,786740,2021-07-07,2021-07-08,Long-term care
+Pfizer,826920,2021-07-07,2021-07-08,Long-term care
+Johnson & Johnson,116800,2021-07-07,2021-07-08,Long-term care
+Moderna,1763740,2021-07-06,2021-07-07,General population
+Pfizer,2635965,2021-07-06,2021-07-07,General population
+Johnson & Johnson,222800,2021-07-06,2021-07-07,General population
+Moderna,784340,2021-07-06,2021-07-07,Long-term care
+Pfizer,826920,2021-07-06,2021-07-07,Long-term care
+Johnson & Johnson,116800,2021-07-06,2021-07-07,Long-term care
+Moderna,1763740,2021-07-03,2021-07-06,General population
+Pfizer,2635065,2021-07-03,2021-07-06,General population
+Johnson & Johnson,222800,2021-07-03,2021-07-06,General population
+Moderna,784340,2021-07-03,2021-07-06,Long-term care
+Pfizer,821970,2021-07-03,2021-07-06,Long-term care
+Johnson & Johnson,116800,2021-07-03,2021-07-06,Long-term care
+Moderna,1763740,2021-07-02,2021-07-03,General population
+Pfizer,2635065,2021-07-02,2021-07-03,General population
+Johnson & Johnson,222800,2021-07-02,2021-07-03,General population
+Moderna,784340,2021-07-02,2021-07-03,Long-term care
+Pfizer,821970,2021-07-02,2021-07-03,Long-term care
+Johnson & Johnson,116800,2021-07-02,2021-07-03,Long-term care
+Moderna,1763740,2021-07-01,2021-07-02,General population
+Pfizer,2635065,2021-07-01,2021-07-02,General population
+Johnson & Johnson,222800,2021-07-01,2021-07-02,General population
+Moderna,780120,2021-07-01,2021-07-02,Long-term care
+Pfizer,817020,2021-07-01,2021-07-02,Long-term care
+Johnson & Johnson,116800,2021-07-01,2021-07-02,Long-term care
+Moderna,1763740,2021-06-30,2021-07-01,General population
+Pfizer,2635065,2021-06-30,2021-07-01,General population
+Johnson & Johnson,222800,2021-06-30,2021-07-01,General population
+Moderna,772020,2021-06-30,2021-07-01,Long-term care
+Pfizer,816570,2021-06-30,2021-07-01,Long-term care
+Johnson & Johnson,116800,2021-06-30,2021-07-01,Long-term care
+Moderna,1763740,2021-06-29,2021-06-30,General population
+Pfizer,2635065,2021-06-29,2021-06-30,General population
+Johnson & Johnson,222800,2021-06-29,2021-06-30,General population
+Moderna,771140,2021-06-29,2021-06-30,Long-term care
+Pfizer,816570,2021-06-29,2021-06-30,Long-term care
+Johnson & Johnson,116800,2021-06-29,2021-06-30,Long-term care
+Moderna,1763740,2021-06-28,2021-06-29,General population
+Pfizer,2635065,2021-06-28,2021-06-29,General population
+Johnson & Johnson,222800,2021-06-28,2021-06-29,General population
+Moderna,770500,2021-06-28,2021-06-29,Long-term care
+Pfizer,816570,2021-06-28,2021-06-29,Long-term care
+Johnson & Johnson,116800,2021-06-28,2021-06-29,Long-term care
+Moderna,1763160,2021-06-27,2021-06-28,General population
+Pfizer,2635065,2021-06-27,2021-06-28,General population
+Johnson & Johnson,222800,2021-06-27,2021-06-28,General population
+Moderna,770500,2021-06-27,2021-06-28,Long-term care
+Pfizer,816570,2021-06-27,2021-06-28,Long-term care
+Johnson & Johnson,116800,2021-06-27,2021-06-28,Long-term care
+Moderna,1760580,2021-06-26,2021-06-27,General population
+Pfizer,2635065,2021-06-26,2021-06-27,General population
+Johnson & Johnson,222800,2021-06-26,2021-06-27,General population
+Moderna,769100,2021-06-26,2021-06-27,Long-term care
+Pfizer,816570,2021-06-26,2021-06-27,Long-term care
+Johnson & Johnson,116800,2021-06-26,2021-06-27,Long-term care
+Moderna,1760580,2021-06-25,2021-06-26,General population
+Pfizer,2633265,2021-06-25,2021-06-26,General population
+Johnson & Johnson,222800,2021-06-25,2021-06-26,General population
+Moderna,769100,2021-06-25,2021-06-26,Long-term care
+Pfizer,810090,2021-06-25,2021-06-26,Long-term care
+Johnson & Johnson,116800,2021-06-25,2021-06-26,Long-term care
+Moderna,1760580,2021-06-23,2021-06-25,General population
+Pfizer,2633265,2021-06-23,2021-06-25,General population
+Johnson & Johnson,222800,2021-06-23,2021-06-25,General population
+Moderna,758680,2021-06-23,2021-06-25,Long-term care
+Pfizer,792000,2021-06-23,2021-06-25,Long-term care
+Johnson & Johnson,116800,2021-06-23,2021-06-25,Long-term care
+Moderna,1760580,2021-06-23,2021-06-24,General population
+Pfizer,2633265,2021-06-23,2021-06-24,General population
+Johnson & Johnson,222800,2021-06-23,2021-06-24,General population
+Moderna,758680,2021-06-23,2021-06-24,Long-term care
+Pfizer,792000,2021-06-23,2021-06-24,Long-term care
+Johnson & Johnson,116800,2021-06-23,2021-06-24,Long-term care
+Moderna,1760580,2021-06-22,2021-06-23,General population
+Pfizer,2633265,2021-06-22,2021-06-23,General population
+Johnson & Johnson,222800,2021-06-22,2021-06-23,General population
+Moderna,758440,2021-06-22,2021-06-23,Long-term care
+Pfizer,790830,2021-06-22,2021-06-23,Long-term care
+Johnson & Johnson,116800,2021-06-22,2021-06-23,Long-term care
+Moderna,1760580,2021-06-21,2021-06-22,General population
+Pfizer,2633265,2021-06-21,2021-06-22,General population
+Johnson & Johnson,222800,2021-06-21,2021-06-22,General population
+Moderna,756940,2021-06-21,2021-06-22,Long-term care
+Pfizer,789660,2021-06-21,2021-06-22,Long-term care
+Johnson & Johnson,116800,2021-06-21,2021-06-22,Long-term care
+Moderna,1760580,2021-06-20,2021-06-21,General population
+Pfizer,2633265,2021-06-20,2021-06-21,General population
+Johnson & Johnson,222800,2021-06-20,2021-06-21,General population
+Moderna,756940,2021-06-20,2021-06-21,Long-term care
+Pfizer,789660,2021-06-20,2021-06-21,Long-term care
+Johnson & Johnson,116800,2021-06-20,2021-06-21,Long-term care
+Moderna,1760180,2021-06-19,2021-06-20,General population
+Pfizer,2633265,2021-06-19,2021-06-20,General population
+Johnson & Johnson,222800,2021-06-19,2021-06-20,General population
+Moderna,756740,2021-06-19,2021-06-20,Long-term care
+Pfizer,789660,2021-06-19,2021-06-20,Long-term care
+Johnson & Johnson,116800,2021-06-19,2021-06-20,Long-term care
+Moderna,1760180,2021-06-17,2021-06-19,General population
+Pfizer,2630745,2021-06-17,2021-06-19,General population
+Johnson & Johnson,222800,2021-06-17,2021-06-19,General population
+Moderna,756740,2021-06-17,2021-06-19,Long-term care
+Pfizer,787320,2021-06-17,2021-06-19,Long-term care
+Johnson & Johnson,116800,2021-06-17,2021-06-19,Long-term care
+Moderna,1758380,2021-06-16,2021-06-18,General population
+Pfizer,2630745,2021-06-16,2021-06-18,General population
+Johnson & Johnson,222800,2021-06-16,2021-06-18,General population
+Moderna,754640,2021-06-16,2021-06-18,Long-term care
+Pfizer,779490,2021-06-16,2021-06-18,Long-term care
+Johnson & Johnson,116800,2021-06-16,2021-06-18,Long-term care
+Moderna,1758380,2021-06-16,2021-06-17,General population
+Pfizer,2630295,2021-06-16,2021-06-17,General population
+Johnson & Johnson,222800,2021-06-16,2021-06-17,General population
+Moderna,749220,2021-06-16,2021-06-17,Long-term care
+Pfizer,771120,2021-06-16,2021-06-17,Long-term care
+Johnson & Johnson,116800,2021-06-16,2021-06-17,Long-term care
+Moderna,1758380,2021-06-15,2021-06-16,General population
+Pfizer,2630295,2021-06-15,2021-06-16,General population
+Johnson & Johnson,222800,2021-06-15,2021-06-16,General population
+Moderna,748320,2021-06-15,2021-06-16,Long-term care
+Pfizer,767610,2021-06-15,2021-06-16,Long-term care
+Johnson & Johnson,116800,2021-06-15,2021-06-16,Long-term care
+Moderna,1758080,2021-06-14,2021-06-15,General population
+Pfizer,2630295,2021-06-14,2021-06-15,General population
+Johnson & Johnson,222800,2021-06-14,2021-06-15,General population
+Moderna,748180,2021-06-14,2021-06-15,Long-term care
+Pfizer,767610,2021-06-14,2021-06-15,Long-term care
+Johnson & Johnson,116800,2021-06-14,2021-06-15,Long-term care
+Moderna,1758080,2021-06-13,2021-06-14,General population
+Pfizer,2630295,2021-06-13,2021-06-14,General population
+Johnson & Johnson,222800,2021-06-13,2021-06-14,General population
+Moderna,748180,2021-06-13,2021-06-14,Long-term care
+Pfizer,766440,2021-06-13,2021-06-14,Long-term care
+Johnson & Johnson,116800,2021-06-13,2021-06-14,Long-term care
+Moderna,1755000,2021-06-12,2021-06-13,General population
+Pfizer,2630295,2021-06-12,2021-06-13,General population
+Johnson & Johnson,222800,2021-06-12,2021-06-13,General population
+Moderna,747740,2021-06-12,2021-06-13,Long-term care
+Pfizer,766440,2021-06-12,2021-06-13,Long-term care
+Johnson & Johnson,116800,2021-06-12,2021-06-13,Long-term care
+Moderna,1755000,2021-06-11,2021-06-12,General population
+Pfizer,2627955,2021-06-11,2021-06-12,General population
+Johnson & Johnson,222800,2021-06-11,2021-06-12,General population
+Moderna,747740,2021-06-11,2021-06-12,Long-term care
+Pfizer,764100,2021-06-11,2021-06-12,Long-term care
+Johnson & Johnson,116800,2021-06-11,2021-06-12,Long-term care
+Moderna,1755000,2021-06-10,2021-06-11,General population
+Pfizer,2627955,2021-06-10,2021-06-11,General population
+Johnson & Johnson,222800,2021-06-10,2021-06-11,General population
+Moderna,746520,2021-06-10,2021-06-11,Long-term care
+Pfizer,760530,2021-06-10,2021-06-11,Long-term care
+Johnson & Johnson,116800,2021-06-10,2021-06-11,Long-term care
+Moderna,1755000,2021-06-09,2021-06-10,General population
+Pfizer,2627955,2021-06-09,2021-06-10,General population
+Johnson & Johnson,222800,2021-06-09,2021-06-10,General population
+Moderna,741700,2021-06-09,2021-06-10,Long-term care
+Pfizer,756570,2021-06-09,2021-06-10,Long-term care
+Johnson & Johnson,116800,2021-06-09,2021-06-10,Long-term care
+Moderna,1755000,2021-06-08,2021-06-09,General population
+Pfizer,2627955,2021-06-08,2021-06-09,General population
+Johnson & Johnson,222800,2021-06-08,2021-06-09,General population
+Moderna,741500,2021-06-08,2021-06-09,Long-term care
+Pfizer,756570,2021-06-08,2021-06-09,Long-term care
+Johnson & Johnson,116800,2021-06-08,2021-06-09,Long-term care
+Moderna,1755000,2021-06-07,2021-06-08,General population
+Pfizer,2627955,2021-06-07,2021-06-08,General population
+Johnson & Johnson,222800,2021-06-07,2021-06-08,General population
+Moderna,741120,2021-06-07,2021-06-08,Long-term care
+Pfizer,756570,2021-06-07,2021-06-08,Long-term care
+Johnson & Johnson,116800,2021-06-07,2021-06-08,Long-term care
+Moderna,1755000,2021-06-06,2021-06-07,General population
+Pfizer,2627955,2021-06-06,2021-06-07,General population
+Johnson & Johnson,222800,2021-06-06,2021-06-07,General population
+Moderna,741120,2021-06-06,2021-06-07,Long-term care
+Pfizer,756570,2021-06-06,2021-06-07,Long-term care
+Johnson & Johnson,116800,2021-06-06,2021-06-07,Long-term care
+Moderna,1737600,2021-06-05,2021-06-06,General population
+Pfizer,2627955,2021-06-05,2021-06-06,General population
+Johnson & Johnson,222800,2021-06-05,2021-06-06,General population
+Moderna,740560,2021-06-05,2021-06-06,Long-term care
+Pfizer,746820,2021-06-05,2021-06-06,Long-term care
+Johnson & Johnson,116800,2021-06-05,2021-06-06,Long-term care
+Moderna,1737600,2021-06-04,2021-06-05,General population
+Pfizer,2618415,2021-06-04,2021-06-05,General population
+Johnson & Johnson,222800,2021-06-04,2021-06-05,General population
+Moderna,740560,2021-06-04,2021-06-05,Long-term care
+Pfizer,739170,2021-06-04,2021-06-05,Long-term care
+Johnson & Johnson,116800,2021-06-04,2021-06-05,Long-term care
+Moderna,1737600,2021-06-03,2021-06-04,General population
+Pfizer,2618415,2021-06-03,2021-06-04,General population
+Johnson & Johnson,222800,2021-06-03,2021-06-04,General population
+Moderna,739480,2021-06-03,2021-06-04,Long-term care
+Pfizer,731250,2021-06-03,2021-06-04,Long-term care
+Johnson & Johnson,115200,2021-06-03,2021-06-04,Long-term care
+Moderna,1737600,2021-06-02,2021-06-03,General population
+Pfizer,2618415,2021-06-02,2021-06-03,General population
+Johnson & Johnson,222800,2021-06-02,2021-06-03,General population
+Moderna,732000,2021-06-02,2021-06-03,Long-term care
+Pfizer,714870,2021-06-02,2021-06-03,Long-term care
+Johnson & Johnson,114700,2021-06-02,2021-06-03,Long-term care
+Moderna,1728360,2021-06-01,2021-06-02,General population
+Pfizer,2616075,2021-06-01,2021-06-02,General population
+Johnson & Johnson,221400,2021-06-01,2021-06-02,General population
+Moderna,724760,2021-06-01,2021-06-02,Long-term care
+Pfizer,707310,2021-06-01,2021-06-02,Long-term care
+Johnson & Johnson,112800,2021-06-01,2021-06-02,Long-term care
+Moderna,1728360,2021-05-29,2021-06-01,General population
+Pfizer,2588625,2021-05-29,2021-06-01,General population
+Johnson & Johnson,221400,2021-05-29,2021-06-01,General population
+Moderna,724160,2021-05-29,2021-06-01,Long-term care
+Pfizer,706680,2021-05-29,2021-06-01,Long-term care
+Johnson & Johnson,112800,2021-05-29,2021-06-01,Long-term care
+Moderna,1728360,2021-05-29,2021-05-30,General population
+Pfizer,2588625,2021-05-29,2021-05-30,General population
+Johnson & Johnson,221400,2021-05-29,2021-05-30,General population
+Moderna,724160,2021-05-29,2021-05-30,Long-term care
+Pfizer,706680,2021-05-29,2021-05-30,Long-term care
+Johnson & Johnson,112800,2021-05-29,2021-05-30,Long-term care
+Moderna,1728360,2021-05-28,2021-05-29,General population
+Pfizer,2588625,2021-05-28,2021-05-29,General population
+Johnson & Johnson,221400,2021-05-28,2021-05-29,General population
+Moderna,724160,2021-05-28,2021-05-29,Long-term care
+Pfizer,706680,2021-05-28,2021-05-29,Long-term care
+Johnson & Johnson,112800,2021-05-28,2021-05-29,Long-term care
+Moderna,1728360,2021-05-27,2021-05-28,General population
+Pfizer,2588625,2021-05-27,2021-05-28,General population
+Johnson & Johnson,221400,2021-05-27,2021-05-28,General population
+Moderna,710520,2021-05-27,2021-05-28,Long-term care
+Pfizer,685620,2021-05-27,2021-05-28,Long-term care
+Johnson & Johnson,109400,2021-05-27,2021-05-28,Long-term care
+Moderna,1728360,2021-05-26,2021-05-27,General population
+Pfizer,2588625,2021-05-26,2021-05-27,General population
+Johnson & Johnson,221400,2021-05-26,2021-05-27,General population
+Moderna,693340,2021-05-26,2021-05-27,Long-term care
+Pfizer,669240,2021-05-26,2021-05-27,Long-term care
+Johnson & Johnson,108300,2021-05-26,2021-05-27,Long-term care
+Moderna,1726560,2021-05-25,2021-05-26,General population
+Pfizer,2588625,2021-05-25,2021-05-26,General population
+Johnson & Johnson,221300,2021-05-25,2021-05-26,General population
+Moderna,685020,2021-05-25,2021-05-26,Long-term care
+Pfizer,669240,2021-05-25,2021-05-26,Long-term care
+Johnson & Johnson,106600,2021-05-25,2021-05-26,Long-term care
+Moderna,1726560,2021-05-24,2021-05-25,General population
+Pfizer,2572245,2021-05-24,2021-05-25,General population
+Johnson & Johnson,206600,2021-05-24,2021-05-25,General population
+Moderna,677800,2021-05-24,2021-05-25,Long-term care
+Pfizer,663390,2021-05-24,2021-05-25,Long-term care
+Johnson & Johnson,103500,2021-05-24,2021-05-25,Long-term care
+Moderna,1726560,2021-05-23,2021-05-24,General population
+Pfizer,2572245,2021-05-23,2021-05-24,General population
+Johnson & Johnson,206600,2021-05-23,2021-05-24,General population
+Moderna,677800,2021-05-23,2021-05-24,Long-term care
+Pfizer,663390,2021-05-23,2021-05-24,Long-term care
+Johnson & Johnson,103500,2021-05-23,2021-05-24,Long-term care
+Moderna,1706860,2021-05-22,2021-05-23,General population
+Pfizer,2572245,2021-05-22,2021-05-23,General population
+Johnson & Johnson,202000,2021-05-22,2021-05-23,General population
+Moderna,677520,2021-05-22,2021-05-23,Long-term care
+Pfizer,663390,2021-05-22,2021-05-23,Long-term care
+Johnson & Johnson,103400,2021-05-22,2021-05-23,Long-term care
+Moderna,1706860,2021-05-21,2021-05-22,General population
+Pfizer,2516085,2021-05-21,2021-05-22,General population
+Johnson & Johnson,202000,2021-05-21,2021-05-22,General population
+Moderna,677520,2021-05-21,2021-05-22,Long-term care
+Pfizer,661050,2021-05-21,2021-05-22,Long-term care
+Johnson & Johnson,103400,2021-05-21,2021-05-22,Long-term care
+Moderna,1706860,2021-05-20,2021-05-21,General population
+Pfizer,2516085,2021-05-20,2021-05-21,General population
+Johnson & Johnson,202000,2021-05-20,2021-05-21,General population
+Moderna,671660,2021-05-20,2021-05-21,Long-term care
+Pfizer,645840,2021-05-20,2021-05-21,Long-term care
+Johnson & Johnson,101800,2021-05-20,2021-05-21,Long-term care
+Moderna,1706760,2021-05-19,2021-05-20,General population
+Pfizer,2510235,2021-05-19,2021-05-20,General population
+Johnson & Johnson,202000,2021-05-19,2021-05-20,General population
+Moderna,658380,2021-05-19,2021-05-20,Long-term care
+Pfizer,599040,2021-05-19,2021-05-20,Long-term care
+Johnson & Johnson,100500,2021-05-19,2021-05-20,Long-term care
+Moderna,1706760,2021-05-18,2021-05-19,General population
+Pfizer,2510235,2021-05-18,2021-05-19,General population
+Johnson & Johnson,202000,2021-05-18,2021-05-19,General population
+Moderna,636960,2021-05-18,2021-05-19,Long-term care
+Pfizer,594360,2021-05-18,2021-05-19,Long-term care
+Johnson & Johnson,98000,2021-05-18,2021-05-19,Long-term care
+Moderna,1706360,2021-05-17,2021-05-18,General population
+Pfizer,2444715,2021-05-17,2021-05-18,General population
+Johnson & Johnson,201600,2021-05-17,2021-05-18,General population
+Moderna,727960,2021-05-17,2021-05-18,Long-term care
+Pfizer,593190,2021-05-17,2021-05-18,Long-term care
+Johnson & Johnson,96400,2021-05-17,2021-05-18,Long-term care
+Moderna,1679600,2021-05-16,2021-05-17,General population
+Pfizer,2437695,2021-05-16,2021-05-17,General population
+Johnson & Johnson,201400,2021-05-16,2021-05-17,General population
+Moderna,631560,2021-05-16,2021-05-17,Long-term care
+Pfizer,593190,2021-05-16,2021-05-17,Long-term care
+Johnson & Johnson,96400,2021-05-16,2021-05-17,Long-term care
+Moderna,1670300,2021-05-15,2021-05-16,General population
+Pfizer,2379195,2021-05-15,2021-05-16,General population
+Johnson & Johnson,201400,2021-05-15,2021-05-16,General population
+Moderna,631460,2021-05-15,2021-05-16,Long-term care
+Pfizer,593190,2021-05-15,2021-05-16,Long-term care
+Johnson & Johnson,96400,2021-05-15,2021-05-16,Long-term care
+Moderna,1670300,2021-05-14,2021-05-15,General population
+Pfizer,2379195,2021-05-14,2021-05-15,General population
+Johnson & Johnson,201400,2021-05-14,2021-05-15,General population
+Moderna,631460,2021-05-14,2021-05-15,Long-term care
+Pfizer,592020,2021-05-14,2021-05-15,Long-term care
+Johnson & Johnson,96400,2021-05-14,2021-05-15,Long-term care
+Moderna,1670300,2021-05-13,2021-05-14,General population
+Pfizer,2376855,2021-05-13,2021-05-14,General population
+Johnson & Johnson,201400,2021-05-13,2021-05-14,General population
+Moderna,628100,2021-05-13,2021-05-14,Long-term care
+Pfizer,568620,2021-05-13,2021-05-14,Long-term care
+Johnson & Johnson,94700,2021-05-13,2021-05-14,Long-term care
+Moderna,1670100,2021-05-12,2021-05-13,General population
+Pfizer,2352285,2021-05-12,2021-05-13,General population
+Johnson & Johnson,201200,2021-05-12,2021-05-13,General population
+Moderna,617660,2021-05-12,2021-05-13,Long-term care
+Pfizer,554580,2021-05-12,2021-05-13,Long-term care
+Johnson & Johnson,92500,2021-05-12,2021-05-13,Long-term care
+Moderna,1670100,2021-05-11,2021-05-12,General population
+Pfizer,2349945,2021-05-11,2021-05-12,General population
+Johnson & Johnson,201200,2021-05-11,2021-05-12,General population
+Moderna,613420,2021-05-11,2021-05-12,Long-term care
+Pfizer,554580,2021-05-11,2021-05-12,Long-term care
+Johnson & Johnson,92100,2021-05-11,2021-05-12,Long-term care
+Moderna,1605700,2021-05-10,2021-05-11,General population
+Pfizer,2270385,2021-05-10,2021-05-11,General population
+Johnson & Johnson,201200,2021-05-10,2021-05-11,General population
+Moderna,597480,2021-05-10,2021-05-11,Long-term care
+Pfizer,538590,2021-05-10,2021-05-11,Long-term care
+Johnson & Johnson,91500,2021-05-10,2021-05-11,Long-term care
+Moderna,1605700,2021-05-09,2021-05-10,General population
+Pfizer,2270385,2021-05-09,2021-05-10,General population
+Johnson & Johnson,201100,2021-05-09,2021-05-10,General population
+Moderna,597480,2021-05-09,2021-05-10,Long-term care
+Pfizer,538590,2021-05-09,2021-05-10,Long-term care
+Johnson & Johnson,91500,2021-05-09,2021-05-10,Long-term care
+Moderna,1554500,2021-05-08,2021-05-09,General population
+Pfizer,2270385,2021-05-08,2021-05-09,General population
+Johnson & Johnson,192400,2021-05-08,2021-05-09,General population
+Moderna,586840,2021-05-08,2021-05-09,Long-term care
+Pfizer,538590,2021-05-08,2021-05-09,Long-term care
+Johnson & Johnson,91500,2021-05-08,2021-05-09,Long-term care
+Moderna,1554500,2021-05-07,2021-05-08,General population
+Pfizer,2190825,2021-05-07,2021-05-08,General population
+Johnson & Johnson,192400,2021-05-07,2021-05-08,General population
+Moderna,586840,2021-05-07,2021-05-08,Long-term care
+Pfizer,526500,2021-05-07,2021-05-08,Long-term care
+Johnson & Johnson,91500,2021-05-07,2021-05-08,Long-term care
+Moderna,1554500,2021-05-06,2021-05-07,General population
+Pfizer,2190825,2021-05-06,2021-05-07,General population
+Johnson & Johnson,192400,2021-05-06,2021-05-07,General population
+Moderna,585180,2021-05-06,2021-05-07,Long-term care
+Pfizer,491400,2021-05-06,2021-05-07,Long-term care
+Johnson & Johnson,91200,2021-05-06,2021-05-07,Long-term care
+Moderna,1554500,2021-05-05,2021-05-06,General population
+Pfizer,2183805,2021-05-05,2021-05-06,General population
+Johnson & Johnson,192400,2021-05-05,2021-05-06,General population
+Moderna,569460,2021-05-05,2021-05-06,Long-term care
+Pfizer,480870,2021-05-05,2021-05-06,Long-term care
+Johnson & Johnson,90800,2021-05-05,2021-05-06,Long-term care
+Moderna,1551200,2021-05-04,2021-05-05,General population
+Pfizer,2183805,2021-05-04,2021-05-05,General population
+Johnson & Johnson,192400,2021-05-04,2021-05-05,General population
+Moderna,559500,2021-05-04,2021-05-05,Long-term care
+Pfizer,480870,2021-05-04,2021-05-05,Long-term care
+Johnson & Johnson,85700,2021-05-04,2021-05-05,Long-term care
+Moderna,1551200,2021-05-03,2021-05-04,General population
+Pfizer,2125305,2021-05-03,2021-05-04,General population
+Johnson & Johnson,192400,2021-05-03,2021-05-04,General population
+Moderna,546500,2021-05-03,2021-05-04,Long-term care
+Pfizer,478530,2021-05-03,2021-05-04,Long-term care
+Johnson & Johnson,84600,2021-05-03,2021-05-04,Long-term care
+Moderna,1524500,2021-05-02,2021-05-03,General population
+Pfizer,2125305,2021-05-02,2021-05-03,General population
+Johnson & Johnson,179400,2021-05-02,2021-05-03,General population
+Moderna,537200,2021-05-02,2021-05-03,Long-term care
+Pfizer,478530,2021-05-02,2021-05-03,Long-term care
+Johnson & Johnson,84600,2021-05-02,2021-05-03,Long-term care
+Moderna,1511000,2021-05-01,2021-05-02,General population
+Pfizer,2037555,2021-05-01,2021-05-02,General population
+Johnson & Johnson,179400,2021-05-01,2021-05-02,General population
+Moderna,532900,2021-05-01,2021-05-02,Long-term care
+Pfizer,476190,2021-05-01,2021-05-02,Long-term care
+Johnson & Johnson,84000,2021-05-01,2021-05-02,Long-term care
+Moderna,1511000,2021-04-30,2021-05-01,General population
+Pfizer,2037555,2021-04-30,2021-05-01,General population
+Johnson & Johnson,179400,2021-04-30,2021-05-01,General population
+Moderna,532900,2021-04-30,2021-05-01,Long-term care
+Pfizer,476190,2021-04-30,2021-05-01,Long-term care
+Johnson & Johnson,84000,2021-04-30,2021-05-01,Long-term care
+Moderna,1493600,2021-04-29,2021-04-30,General population
+Pfizer,2037555,2021-04-29,2021-04-30,General population
+Johnson & Johnson,179400,2021-04-29,2021-04-30,General population
+Moderna,532600,2021-04-29,2021-04-30,Long-term care
+Pfizer,448110,2021-04-29,2021-04-30,Long-term care
+Johnson & Johnson,80800,2021-04-29,2021-04-30,Long-term care
+Moderna,1489700,2021-04-28,2021-04-29,General population
+Pfizer,2036385,2021-04-28,2021-04-29,General population
+Johnson & Johnson,179400,2021-04-28,2021-04-29,General population
+Moderna,521200,2021-04-28,2021-04-29,Long-term care
+Pfizer,435240,2021-04-28,2021-04-29,Long-term care
+Johnson & Johnson,80800,2021-04-28,2021-04-29,Long-term care
+Moderna,1489100,2021-04-27,2021-04-28,General population
+Pfizer,2018835,2021-04-27,2021-04-28,General population
+Johnson & Johnson,179400,2021-04-27,2021-04-28,General population
+Moderna,519600,2021-04-27,2021-04-28,Long-term care
+Pfizer,416520,2021-04-27,2021-04-28,Long-term care
+Johnson & Johnson,80800,2021-04-27,2021-04-28,Long-term care
+Moderna,1443900,2021-04-26,2021-04-27,General population
+Pfizer,1942785,2021-04-26,2021-04-27,General population
+Johnson & Johnson,179400,2021-04-26,2021-04-27,General population
+Moderna,499900,2021-04-26,2021-04-27,Long-term care
+Pfizer,416520,2021-04-26,2021-04-27,Long-term care
+Johnson & Johnson,80800,2021-04-26,2021-04-27,Long-term care
+Moderna,1430200,2021-04-25,2021-04-26,General population
+Pfizer,1942785,2021-04-25,2021-04-26,General population
+Johnson & Johnson,179400,2021-04-25,2021-04-26,General population
+Moderna,495600,2021-04-25,2021-04-26,Long-term care
+Pfizer,416520,2021-04-25,2021-04-26,Long-term care
+Johnson & Johnson,80800,2021-04-25,2021-04-26,Long-term care
+Moderna,1391300,2021-04-24,2021-04-25,General population
+Pfizer,1942785,2021-04-24,2021-04-25,General population
+Johnson & Johnson,179400,2021-04-24,2021-04-25,General population
+Moderna,495600,2021-04-24,2021-04-25,Long-term care
+Pfizer,416520,2021-04-24,2021-04-25,Long-term care
+Johnson & Johnson,80800,2021-04-24,2021-04-25,Long-term care
+Moderna,1391300,2021-04-23,2021-04-24,General population
+Pfizer,1870245,2021-04-23,2021-04-24,General population
+Johnson & Johnson,179400,2021-04-23,2021-04-24,General population
+Moderna,495600,2021-04-23,2021-04-24,Long-term care
+Pfizer,410670,2021-04-23,2021-04-24,Long-term care
+Johnson & Johnson,80800,2021-04-23,2021-04-24,Long-term care
+Moderna,1391200,2021-04-22,2021-04-23,General population
+Pfizer,1863225,2021-04-22,2021-04-23,General population
+Johnson & Johnson,179400,2021-04-22,2021-04-23,General population
+Moderna,493400,2021-04-22,2021-04-23,Long-term care
+Pfizer,389610,2021-04-22,2021-04-23,Long-term care
+Johnson & Johnson,80800,2021-04-22,2021-04-23,Long-term care
+Moderna,1386400,2021-04-21,2021-04-22,General population
+Pfizer,1863225,2021-04-21,2021-04-22,General population
+Johnson & Johnson,179400,2021-04-21,2021-04-22,General population
+Moderna,485900,2021-04-21,2021-04-22,Long-term care
+Pfizer,365040,2021-04-21,2021-04-22,Long-term care
+Johnson & Johnson,80800,2021-04-21,2021-04-22,Long-term care
+Moderna,1385100,2021-04-20,2021-04-21,General population
+Pfizer,1839825,2021-04-20,2021-04-21,General population
+Johnson & Johnson,179400,2021-04-20,2021-04-21,General population
+Moderna,470300,2021-04-20,2021-04-21,Long-term care
+Pfizer,351000,2021-04-20,2021-04-21,Long-term care
+Johnson & Johnson,80800,2021-04-20,2021-04-21,Long-term care
+Moderna,1341700,2021-04-19,2021-04-20,General population
+Pfizer,1767285,2021-04-19,2021-04-20,General population
+Johnson & Johnson,179400,2021-04-19,2021-04-20,General population
+Moderna,459200,2021-04-19,2021-04-20,Long-term care
+Pfizer,351000,2021-04-19,2021-04-20,Long-term care
+Johnson & Johnson,80800,2021-04-19,2021-04-20,Long-term care
+Moderna,1337500,2021-04-18,2021-04-19,General population
+Pfizer,1767285,2021-04-18,2021-04-19,General population
+Johnson & Johnson,179400,2021-04-18,2021-04-19,General population
+Moderna,459200,2021-04-18,2021-04-19,Long-term care
+Pfizer,351000,2021-04-18,2021-04-19,Long-term care
+Johnson & Johnson,80800,2021-04-18,2021-04-19,Long-term care
+Moderna,1277900,2021-04-17,2021-04-18,General population
+Pfizer,1667835,2021-04-17,2021-04-18,General population
+Johnson & Johnson,179400,2021-04-17,2021-04-18,General population
+Moderna,459200,2021-04-17,2021-04-18,Long-term care
+Pfizer,335790,2021-04-17,2021-04-18,Long-term care
+Johnson & Johnson,80800,2021-04-17,2021-04-18,Long-term care
+Moderna,1277900,2021-04-16,2021-04-17,General population
+Pfizer,1667835,2021-04-16,2021-04-17,General population
+Johnson & Johnson,179400,2021-04-16,2021-04-17,General population
+Moderna,457700,2021-04-16,2021-04-17,Long-term care
+Pfizer,332280,2021-04-16,2021-04-17,Long-term care
+Johnson & Johnson,79000,2021-04-16,2021-04-17,Long-term care
+Moderna,1277200,2021-04-15,2021-04-16,General population
+Pfizer,1667835,2021-04-15,2021-04-16,General population
+Johnson & Johnson,179400,2021-04-15,2021-04-16,General population
+Moderna,452300,2021-04-15,2021-04-16,Long-term care
+Pfizer,320730,2021-04-15,2021-04-16,Long-term care
+Johnson & Johnson,79000,2021-04-15,2021-04-16,Long-term care
+Moderna,1273500,2021-04-14,2021-04-15,General population
+Pfizer,1667835,2021-04-14,2021-04-15,General population
+Johnson & Johnson,179400,2021-04-14,2021-04-15,General population
+Moderna,445700,2021-04-14,2021-04-15,Long-term care
+Pfizer,320730,2021-04-14,2021-04-15,Long-term care
+Johnson & Johnson,79000,2021-04-14,2021-04-15,Long-term care
+Moderna,1237400,2021-04-13,2021-04-14,General population
+Pfizer,1650285,2021-04-13,2021-04-14,General population
+Johnson & Johnson,179400,2021-04-13,2021-04-14,General population
+Moderna,432700,2021-04-13,2021-04-14,Long-term care
+Pfizer,320730,2021-04-13,2021-04-14,Long-term care
+Johnson & Johnson,79000,2021-04-13,2021-04-14,Long-term care
+Moderna,1178600,2021-04-12,2021-04-13,General population
+Pfizer,1582425,2021-04-12,2021-04-13,General population
+Johnson & Johnson,179100,2021-04-12,2021-04-13,General population
+Moderna,424700,2021-04-12,2021-04-13,Long-term care
+Pfizer,257400,2021-04-12,2021-04-13,Long-term care
+Johnson & Johnson,78400,2021-04-12,2021-04-13,Long-term care
+Moderna,1167300,2021-04-11,2021-04-12,General population
+Pfizer,1541475,2021-04-11,2021-04-12,General population
+Johnson & Johnson,171300,2021-04-11,2021-04-12,General population
+Moderna,424700,2021-04-11,2021-04-12,Long-term care
+Pfizer,255060,2021-04-11,2021-04-12,Long-term care
+Johnson & Johnson,75000,2021-04-11,2021-04-12,Long-term care
+Moderna,1167300,2021-04-10,2021-04-11,General population
+Pfizer,1541475,2021-04-10,2021-04-11,General population
+Johnson & Johnson,171300,2021-04-10,2021-04-11,General population
+Moderna,424700,2021-04-10,2021-04-11,Long-term care
+Pfizer,255060,2021-04-10,2021-04-11,Long-term care
+Johnson & Johnson,75000,2021-04-10,2021-04-11,Long-term care
+Moderna,1167300,2021-04-09,2021-04-10,General population
+Pfizer,1495845,2021-04-09,2021-04-10,General population
+Johnson & Johnson,171300,2021-04-09,2021-04-10,General population
+Moderna,424700,2021-04-09,2021-04-10,Long-term care
+Pfizer,251550,2021-04-09,2021-04-10,Long-term care
+Johnson & Johnson,75000,2021-04-09,2021-04-10,Long-term care
+Moderna,1167300,2021-04-08,2021-04-09,General population
+Pfizer,1495845,2021-04-08,2021-04-09,General population
+Johnson & Johnson,170300,2021-04-08,2021-04-09,General population
+Moderna,423400,2021-04-08,2021-04-09,Long-term care
+Pfizer,237510,2021-04-08,2021-04-09,Long-term care
+Johnson & Johnson,68300,2021-04-08,2021-04-09,Long-term care
+Moderna,1161300,2021-04-07,2021-04-08,General population
+Pfizer,1491165,2021-04-07,2021-04-08,General population
+Johnson & Johnson,170300,2021-04-07,2021-04-08,General population
+Moderna,416500,2021-04-07,2021-04-08,Long-term care
+Pfizer,224640,2021-04-07,2021-04-08,Long-term care
+Johnson & Johnson,57800,2021-04-07,2021-04-08,Long-term care
+Moderna,1160200,2021-04-06,2021-04-07,General population
+Pfizer,1486485,2021-04-06,2021-04-07,General population
+Johnson & Johnson,169900,2021-04-06,2021-04-07,General population
+Moderna,407900,2021-04-06,2021-04-07,Long-term care
+Pfizer,224640,2021-04-06,2021-04-07,Long-term care
+Johnson & Johnson,41700,2021-04-06,2021-04-07,Long-term care
+Moderna,1100800,2021-04-05,2021-04-06,General population
+Pfizer,1411605,2021-04-05,2021-04-06,General population
+Johnson & Johnson,93000,2021-04-05,2021-04-06,General population
+Moderna,407900,2021-04-05,2021-04-06,Long-term care
+Pfizer,224640,2021-04-05,2021-04-06,Long-term care
+Johnson & Johnson,41400,2021-04-05,2021-04-06,Long-term care
+Moderna,1093600,2021-04-03,2021-04-05,General population
+Pfizer,1390545,2021-04-03,2021-04-05,General population
+Johnson & Johnson,89600,2021-04-03,2021-04-05,General population
+Moderna,407900,2021-04-03,2021-04-05,Long-term care
+Pfizer,219960,2021-04-03,2021-04-05,Long-term care
+Johnson & Johnson,41400,2021-04-03,2021-04-05,Long-term care
+Moderna,1093600,2021-04-02,2021-04-03,General population
+Pfizer,1347255,2021-04-02,2021-04-03,General population
+Johnson & Johnson,89600,2021-04-02,2021-04-03,General population
+Moderna,407900,2021-04-02,2021-04-03,Long-term care
+Pfizer,208260,2021-04-02,2021-04-03,Long-term care
+Johnson & Johnson,41400,2021-04-02,2021-04-03,Long-term care
+Moderna,1069600,2021-04-01,2021-04-02,General population
+Pfizer,1347255,2021-04-01,2021-04-02,General population
+Johnson & Johnson,89600,2021-04-01,2021-04-02,General population
+Moderna,407900,2021-04-01,2021-04-02,Long-term care
+Pfizer,190710,2021-04-01,2021-04-02,Long-term care
+Johnson & Johnson,41400,2021-04-01,2021-04-02,Long-term care
+Moderna,1069100,2021-03-31,2021-04-01,General population
+Pfizer,1342575,2021-03-31,2021-04-01,General population
+Johnson & Johnson,89600,2021-03-31,2021-04-01,General population
+Moderna,384900,2021-03-31,2021-04-01,Long-term care
+Pfizer,164190,2021-03-31,2021-04-01,Long-term care
+Johnson & Johnson,35000,2021-03-31,2021-04-01,Long-term care
+Moderna,1064400,2021-03-30,2021-03-31,General population
+Pfizer,1341405,2021-03-30,2021-03-31,General population
+Johnson & Johnson,77200,2021-03-30,2021-03-31,General population
+Moderna,384900,2021-03-30,2021-03-31,Long-term care
+Pfizer,164190,2021-03-30,2021-03-31,Long-term care
+Johnson & Johnson,18100,2021-03-30,2021-03-31,Long-term care
+Moderna,972200,2021-03-29,2021-03-30,General population
+Pfizer,1310985,2021-03-29,2021-03-30,General population
+Johnson & Johnson,75300,2021-03-29,2021-03-30,General population
+Moderna,384900,2021-03-29,2021-03-30,Long-term care
+Pfizer,164190,2021-03-29,2021-03-30,Long-term care
+Johnson & Johnson,17600,2021-03-29,2021-03-30,Long-term care
+Moderna,963600,2021-03-28,2021-03-29,General population
+Pfizer,1248975,2021-03-28,2021-03-29,General population
+Johnson & Johnson,71400,2021-03-28,2021-03-29,General population
+Moderna,384900,2021-03-28,2021-03-29,Long-term care
+Pfizer,164190,2021-03-28,2021-03-29,Long-term care
+Johnson & Johnson,17600,2021-03-28,2021-03-29,Long-term care
+Moderna,962200,2021-03-27,2021-03-28,General population
+Pfizer,1222065,2021-03-27,2021-03-28,General population
+Johnson & Johnson,57800,2021-03-27,2021-03-28,General population
+Moderna,382400,2021-03-27,2021-03-28,Long-term care
+Pfizer,140400,2021-03-27,2021-03-28,Long-term care
+Johnson & Johnson,17200,2021-03-27,2021-03-28,Long-term care
+Moderna,962200,2021-03-26,2021-03-27,General population
+Pfizer,1190475,2021-03-26,2021-03-27,General population
+Johnson & Johnson,57800,2021-03-26,2021-03-27,General population
+Moderna,382400,2021-03-26,2021-03-27,Long-term care
+Pfizer,136890,2021-03-26,2021-03-27,Long-term care
+Johnson & Johnson,17200,2021-03-26,2021-03-27,Long-term care
+Moderna,962100,2021-03-25,2021-03-26,General population
+Pfizer,1190475,2021-03-25,2021-03-26,General population
+Johnson & Johnson,57800,2021-03-25,2021-03-26,General population
+Moderna,382400,2021-03-25,2021-03-26,Long-term care
+Pfizer,136890,2021-03-25,2021-03-26,Long-term care
+Johnson & Johnson,17200,2021-03-25,2021-03-26,Long-term care
+Moderna,956100,2021-03-24,2021-03-25,General population
+Pfizer,1190475,2021-03-24,2021-03-25,General population
+Johnson & Johnson,57800,2021-03-24,2021-03-25,General population
+Moderna,372300,2021-03-24,2021-03-25,Long-term care
+Pfizer,125190,2021-03-24,2021-03-25,Long-term care
+Johnson & Johnson,16700,2021-03-24,2021-03-25,Long-term care
+Moderna,940500,2021-03-23,2021-03-24,General population
+Pfizer,1188135,2021-03-23,2021-03-24,General population
+Johnson & Johnson,57800,2021-03-23,2021-03-24,General population
+Moderna,362100,2021-03-23,2021-03-24,Long-term care
+Pfizer,109980,2021-03-23,2021-03-24,Long-term care
+Johnson & Johnson,15700,2021-03-23,2021-03-24,Long-term care
+Moderna,853600,2021-03-22,2021-03-23,General population
+Pfizer,1119105,2021-03-22,2021-03-23,General population
+Johnson & Johnson,55000,2021-03-22,2021-03-23,General population
+Moderna,357700,2021-03-22,2021-03-23,Long-term care
+Pfizer,109980,2021-03-22,2021-03-23,Long-term care
+Johnson & Johnson,15100,2021-03-22,2021-03-23,Long-term care
+Moderna,831000,2021-03-21,2021-03-22,General population
+Pfizer,1119105,2021-03-21,2021-03-22,General population
+Johnson & Johnson,47500,2021-03-21,2021-03-22,General population
+Moderna,355700,2021-03-21,2021-03-22,Long-term care
+Pfizer,108810,2021-03-21,2021-03-22,Long-term care
+Johnson & Johnson,15100,2021-03-21,2021-03-22,Long-term care
+Moderna,829700,2021-03-20,2021-03-21,General population
+Pfizer,1093365,2021-03-20,2021-03-21,General population
+Johnson & Johnson,47500,2021-03-20,2021-03-21,General population
+Moderna,355700,2021-03-20,2021-03-21,Long-term care
+Pfizer,108810,2021-03-20,2021-03-21,Long-term care
+Johnson & Johnson,15100,2021-03-20,2021-03-21,Long-term care
+Moderna,829700,2021-03-19,2021-03-20,General population
+Pfizer,1052415,2021-03-19,2021-03-20,General population
+Johnson & Johnson,47500,2021-03-19,2021-03-20,General population
+Moderna,355700,2021-03-19,2021-03-20,Long-term care
+Pfizer,108810,2021-03-19,2021-03-20,Long-term care
+Johnson & Johnson,15100,2021-03-19,2021-03-20,Long-term care
+Moderna,829700,2021-03-18,2021-03-19,General population
+Pfizer,1052415,2021-03-18,2021-03-19,General population
+Johnson & Johnson,47500,2021-03-18,2021-03-19,General population
+Moderna,355200,2021-03-18,2021-03-19,Long-term care
+Pfizer,104130,2021-03-18,2021-03-19,Long-term care
+Johnson & Johnson,15100,2021-03-18,2021-03-19,Long-term care
+Moderna,828200,2021-03-17,2021-03-18,General population
+Pfizer,1052415,2021-03-17,2021-03-18,General population
+Johnson & Johnson,45700,2021-03-17,2021-03-18,General population
+Moderna,355100,2021-03-17,2021-03-18,Long-term care
+Pfizer,97110,2021-03-17,2021-03-18,Long-term care
+Johnson & Johnson,14700,2021-03-17,2021-03-18,Long-term care
+Moderna,826300,2021-03-16,2021-03-17,General population
+Pfizer,1052415,2021-03-16,2021-03-17,General population
+Johnson & Johnson,45200,2021-03-16,2021-03-17,General population
+Moderna,344100,2021-03-16,2021-03-17,Long-term care
+Pfizer,88920,2021-03-16,2021-03-17,Long-term care
+Johnson & Johnson,13200,2021-03-16,2021-03-17,Long-term care
+Moderna,754700,2021-03-15,2021-03-16,General population
+Pfizer,1034865,2021-03-15,2021-03-16,General population
+Johnson & Johnson,45200,2021-03-15,2021-03-16,General population
+Moderna,329100,2021-03-15,2021-03-16,Long-term care
+Pfizer,88920,2021-03-15,2021-03-16,Long-term care
+Johnson & Johnson,13200,2021-03-15,2021-03-16,Long-term care
+Moderna,753400,2021-03-14,2021-03-15,General population
+Pfizer,986895,2021-03-14,2021-03-15,General population
+Johnson & Johnson,45200,2021-03-14,2021-03-15,General population
+Moderna,328600,2021-03-14,2021-03-15,Long-term care
+Pfizer,88920,2021-03-14,2021-03-15,Long-term care
+Johnson & Johnson,13200,2021-03-14,2021-03-15,Long-term care
+Moderna,744900,2021-03-13,2021-03-14,General population
+Pfizer,942435,2021-03-13,2021-03-14,General population
+Johnson & Johnson,45200,2021-03-13,2021-03-14,General population
+Moderna,322000,2021-03-13,2021-03-14,Long-term care
+Pfizer,88920,2021-03-13,2021-03-14,Long-term care
+Johnson & Johnson,11300,2021-03-13,2021-03-14,Long-term care
+Moderna,744900,2021-03-12,2021-03-13,General population
+Pfizer,924885,2021-03-12,2021-03-13,General population
+Johnson & Johnson,45200,2021-03-12,2021-03-13,General population
+Moderna,322000,2021-03-12,2021-03-13,Long-term care
+Pfizer,88920,2021-03-12,2021-03-13,Long-term care
+Johnson & Johnson,11300,2021-03-12,2021-03-13,Long-term care
+Moderna,744800,2021-03-11,2021-03-12,General population
+Pfizer,924885,2021-03-11,2021-03-12,General population
+Johnson & Johnson,45200,2021-03-11,2021-03-12,General population
+Moderna,321000,2021-03-11,2021-03-12,Long-term care
+Pfizer,83070,2021-03-11,2021-03-12,Long-term care
+Johnson & Johnson,11300,2021-03-11,2021-03-12,Long-term care
+Moderna,738900,2021-03-10,2021-03-11,General population
+Pfizer,924885,2021-03-10,2021-03-11,General population
+Johnson & Johnson,45200,2021-03-10,2021-03-11,General population
+Moderna,320800,2021-03-10,2021-03-11,Long-term care
+Pfizer,49140,2021-03-10,2021-03-11,Long-term care
+Johnson & Johnson,11300,2021-03-10,2021-03-11,Long-term care
+Moderna,736800,2021-03-09,2021-03-10,General population
+Pfizer,917865,2021-03-09,2021-03-10,General population
+Johnson & Johnson,45200,2021-03-09,2021-03-10,General population
+Moderna,298800,2021-03-09,2021-03-10,Long-term care
+Pfizer,45630,2021-03-09,2021-03-10,Long-term care
+Johnson & Johnson,11300,2021-03-09,2021-03-10,Long-term care
+Moderna,648300,2021-03-08,2021-03-09,General population
+Pfizer,892125,2021-03-08,2021-03-09,General population
+Johnson & Johnson,44600,2021-03-08,2021-03-09,General population
+Moderna,286500,2021-03-08,2021-03-09,Long-term care
+Pfizer,45630,2021-03-08,2021-03-09,Long-term care
+Johnson & Johnson,11300,2021-03-08,2021-03-09,Long-term care
+Moderna,648300,2021-03-07,2021-03-08,General population
+Pfizer,864045,2021-03-07,2021-03-08,General population
+Johnson & Johnson,44600,2021-03-07,2021-03-08,General population
+Moderna,286000,2021-03-07,2021-03-08,Long-term care
+Pfizer,45630,2021-03-07,2021-03-08,Long-term care
+Johnson & Johnson,11300,2021-03-07,2021-03-08,Long-term care
+Moderna,648300,2021-03-06,2021-03-07,General population
+Pfizer,864045,2021-03-06,2021-03-07,General population
+Johnson & Johnson,44600,2021-03-06,2021-03-07,General population
+Moderna,286000,2021-03-06,2021-03-07,Long-term care
+Pfizer,45630,2021-03-06,2021-03-07,Long-term care
+Johnson & Johnson,11300,2021-03-06,2021-03-07,Long-term care
+Moderna,648300,2021-03-05,2021-03-06,General population
+Pfizer,816075,2021-03-05,2021-03-06,General population
+J&J,44600,2021-03-05,2021-03-06,General population
+Moderna,286000,2021-03-05,2021-03-06,Long-term care
+Pfizer,37440,2021-03-05,2021-03-06,Long-term care
+J&J,11300,2021-03-05,2021-03-06,Long-term care
+Moderna,648100,2021-03-04,2021-03-05,General population
+Pfizer,816075,2021-03-04,2021-03-05,General population
+Moderna,284900,2021-03-04,2021-03-05,Long-term care
+Pfizer,37440,2021-03-04,2021-03-05,Long-term care
+Moderna,639900,2021-03-03,2021-03-04,General population
+Pfizer,816075,2021-03-03,2021-03-04,General population
+Moderna,280400,2021-03-03,2021-03-04,Long-term care
+Pfizer,18720,2021-03-03,2021-03-04,Long-term care
+Moderna,635000,2021-03-02,2021-03-03,General population
+Pfizer,804375,2021-03-02,2021-03-03,General population
+Moderna,258300,2021-03-02,2021-03-03,Long-term care
+Pfizer,12870,2021-03-02,2021-03-03,Long-term care
+Moderna,530700,2021-03-01,2021-03-02,General population
+Pfizer,765765,2021-03-01,2021-03-02,General population
+Moderna,257300,2021-03-01,2021-03-02,Long-term care
+Pfizer,12870,2021-03-01,2021-03-02,Long-term care
+Moderna,525500,2021-02-28,2021-03-01,General population
+Pfizer,759915,2021-02-28,2021-03-01,General population
+Moderna,256300,2021-02-28,2021-03-01,Long-term care
+Pfizer,11700,2021-02-28,2021-03-01,Long-term care
+Moderna,525500,2021-02-27,2021-02-28,General population
+Pfizer,755235,2021-02-27,2021-02-28,General population
+Moderna,256300,2021-02-27,2021-02-28,Long-term care
+Pfizer,11700,2021-02-27,2021-02-28,Long-term care
+Moderna,525500,2021-02-26,2021-02-27,General population
+Pfizer,713115,2021-02-26,2021-02-27,General population
+Moderna,256300,2021-02-26,2021-02-27,Long-term care
+Pfizer,11700,2021-02-26,2021-02-27,Long-term care
+Moderna,525200,2021-02-25,2021-02-26,General population
+Pfizer,713115,2021-02-25,2021-02-26,General population
+Moderna,247400,2021-02-25,2021-02-26,Long-term care
+Pfizer,11700,2021-02-25,2021-02-26,Long-term care
+Moderna,502400,2021-02-24,2021-02-25,General population
+Pfizer,713115,2021-02-24,2021-02-25,General population
+Moderna,231000,2021-02-24,2021-02-25,Long-term care
+Pfizer,11700,2021-02-24,2021-02-25,Long-term care
+Moderna,489500,2021-02-23,2021-02-24,General population
+Pfizer,704925,2021-02-23,2021-02-24,General population
+Moderna,230400,2021-02-23,2021-02-24,Long-term care
+Pfizer,10530,2021-02-23,2021-02-24,Long-term care
+Moderna,373200,2021-02-22,2021-02-23,General population
+Pfizer,661635,2021-02-22,2021-02-23,General population
+Moderna,225550,2021-02-22,2021-02-23,Long-term care
+Pfizer,9360,2021-02-22,2021-02-23,Long-term care
+Moderna,369100,2021-02-21,2021-02-22,General population
+Pfizer,658125,2021-02-21,2021-02-22,General population
+Moderna,225550,2021-02-21,2021-02-22,Long-term care
+Pfizer,0,2021-02-21,2021-02-22,Long-term care
+Moderna,366700,2021-02-20,2021-02-21,General population
+Pfizer,617175,2021-02-20,2021-02-21,General population
+Moderna,225550,2021-02-20,2021-02-21,Long-term care
+Pfizer,0,2021-02-20,2021-02-21,Long-term care
+Moderna,366700,2021-02-19,2021-02-20,General population
+Pfizer,617175,2021-02-19,2021-02-20,General population
+Moderna,225550,2021-02-19,2021-02-20,Long-term care
+Pfizer,0,2021-02-19,2021-02-20,Long-term care
+Moderna,366700,2021-02-18,2021-02-19,General population
+Pfizer,604500,2021-02-18,2021-02-19,General population
+Moderna,225550,2021-02-18,2021-02-19,Long-term care
+Pfizer,0,2021-02-18,2021-02-19,Long-term care
+Moderna,366700,2021-02-17,2021-02-18,General population
+Pfizer,604500,2021-02-17,2021-02-18,General population
+Moderna,225550,2021-02-17,2021-02-18,Long-term care
+Pfizer,0,2021-02-17,2021-02-18,Long-term care
+Moderna,366700,2021-02-16,2021-02-17,General population
+Pfizer,569400,2021-02-16,2021-02-17,General population
+Moderna,225550,2021-02-16,2021-02-17,Long-term care
+Pfizer,0,2021-02-16,2021-02-17,Long-term care
+Moderna,366700,2021-02-15,2021-02-16,General population
+Pfizer,569400,2021-02-15,2021-02-16,General population
+Moderna,225550,2021-02-15,2021-02-16,Long-term care
+Pfizer,0,2021-02-15,2021-02-16,Long-term care
+Moderna,366700,2021-02-14,2021-02-15,General population
+Pfizer,569400,2021-02-14,2021-02-15,General population
+Moderna,221950,2021-02-14,2021-02-15,Long-term care
+Pfizer,0,2021-02-14,2021-02-15,Long-term care
+Moderna,366700,2021-02-13,2021-02-14,General population
+Pfizer,569400,2021-02-13,2021-02-14,General population
+Moderna,218450,2021-02-13,2021-02-14,Long-term care
+Pfizer,0,2021-02-13,2021-02-14,Long-term care
+Moderna,366700,2021-02-12,2021-02-13,General population
+Pfizer,546975,2021-02-12,2021-02-13,General population
+Moderna,216700,2021-02-12,2021-02-13,Long-term care
+Pfizer,0,2021-02-12,2021-02-13,Long-term care
+Moderna,366600,2021-02-11,2021-02-12,General population
+Pfizer,546975,2021-02-11,2021-02-12,General population
+Moderna,212000,2021-02-11,2021-02-12,Long-term care
+Pfizer,0,2021-02-11,2021-02-12,Long-term care
+Moderna,363800,2021-02-10,2021-02-11,General population
+Pfizer,541125,2021-02-10,2021-02-11,General population
+Moderna,211800,2021-02-10,2021-02-11,Long-term care
+Pfizer,0,2021-02-10,2021-02-11,Long-term care
+Moderna,325200,2021-02-09,2021-02-10,General population
+Pfizer,540150,2021-02-09,2021-02-10,General population
+Moderna,205200,2021-02-09,2021-02-10,Long-term care
+Pfizer,0,2021-02-09,2021-02-10,Long-term care
+Moderna,282900,2021-02-08,2021-02-09,General population
+Pfizer,506025,2021-02-08,2021-02-09,General population
+Moderna,187500,2021-02-08,2021-02-09,Long-term care
+Pfizer,0,2021-02-08,2021-02-09,Long-term care
+Moderna,282900,2021-02-07,2021-02-08,General population
+Pfizer,500175,2021-02-07,2021-02-08,General population
+Moderna,187500,2021-02-07,2021-02-08,Long-term care
+Pfizer,0,2021-02-07,2021-02-08,Long-term care
+Moderna,282800,2021-02-06,2021-02-07,General population
+Pfizer,500175,2021-02-06,2021-02-07,General population
+Moderna,181500,2021-02-06,2021-02-07,Long-term care
+Pfizer,0,2021-02-06,2021-02-07,Long-term care
+Moderna,282800,2021-02-05,2021-02-06,General population
+Pfizer,480675,2021-02-05,2021-02-06,General population
+Moderna,181500,2021-02-05,2021-02-06,Long-term care
+Pfizer,0,2021-02-05,2021-02-06,Long-term care
+Moderna,269000,2021-02-04,2021-02-05,General population
+Pfizer,480675,2021-02-04,2021-02-05,General population
+Moderna,181500,2021-02-04,2021-02-05,Long-term care
+Pfizer,0,2021-02-04,2021-02-05,Long-term care
+Moderna,265400,2021-02-03,2021-02-04,General population
+Pfizer,478725,2021-02-03,2021-02-04,General population
+Moderna,181500,2021-02-03,2021-02-04,Long-term care
+Pfizer,0,2021-02-03,2021-02-04,Long-term care
+Moderna,258600,2021-02-02,2021-02-03,General population
+Pfizer,449475,2021-02-02,2021-02-03,General population
+Moderna,181500,2021-02-02,2021-02-03,Long-term care
+Pfizer,0,2021-02-02,2021-02-03,Long-term care
+Moderna,207900,2021-02-01,2021-02-02,General population
+Pfizer,445575,2021-02-01,2021-02-02,General population
+Moderna,181200,2021-02-01,2021-02-02,Long-term care
+Pfizer,0,2021-02-01,2021-02-02,Long-term care
+Moderna,207600,2021-01-31,2021-02-01,General population
+Pfizer,445575,2021-01-31,2021-02-01,General population
+Moderna,181200,2021-01-31,2021-02-01,Long-term care
+Pfizer,0,2021-01-31,2021-02-01,Long-term care
+Moderna,204900,2021-01-30,2021-01-31,General population
+Pfizer,445575,2021-01-30,2021-01-31,General population
+Moderna,181200,2021-01-30,2021-01-31,Long-term care
+Pfizer,0,2021-01-30,2021-01-31,Long-term care
+Moderna,204900,2021-01-29,2021-01-30,General population
+Pfizer,445575,2021-01-29,2021-01-30,General population
+Moderna,181200,2021-01-29,2021-01-30,Long-term care
+Pfizer,0,2021-01-29,2021-01-30,Long-term care
+Moderna,204900,2021-01-28,2021-01-29,General population
+Pfizer,445575,2021-01-28,2021-01-29,General population
+Moderna,178200,2021-01-28,2021-01-29,Long-term care
+Pfizer,0,2021-01-28,2021-01-29,Long-term care

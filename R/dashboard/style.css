@@ -1,0 +1,9 @@
+p, ul, li {
+	font-family: "Source Serif Pro";
+	font-size: 20px;
+}
+
+h1, h2, h3 {
+	font-family: "Roboto Condensed";
+	font-weight: bold;
+}

@@ -1,0 +1,88 @@
+date,geoid,county,region,pop,cases,deaths
+2020-06-19,27001,Aitkin,Northeast,15902,13,0
+2020-06-19,27003,Anoka,Metro suburbs,353813,1836,96
+2020-06-19,27005,Becker,West Central,34371,48,0
+2020-06-19,27007,Beltrami,Northwest,46847,23,0
+2020-06-19,27009,Benton,East Central,40545,200,3
+2020-06-19,27011,Big Stone,Southwest,4989,14,0
+2020-06-19,27013,Blue Earth,Southeast,67427,174,2
+2020-06-19,27015,Brown,Southeast,25111,21,2
+2020-06-19,27017,Carlton,Northeast,35837,81,0
+2020-06-19,27019,Carver,Metro suburbs,103551,287,1
+2020-06-19,27021,Cass,East Central,29519,12,2
+2020-06-19,27023,Chippewa,Southwest,11924,64,1
+2020-06-19,27025,Chisago,East Central,55922,82,1
+2020-06-19,27027,Clay,West Central,63955,521,37
+2020-06-19,27029,Clearwater,Northwest,8810,6,0
+2020-06-19,27031,Cook,Northeast,5393,1,0
+2020-06-19,27033,Cottonwood,Southwest,11277,118,0
+2020-06-19,27035,Crow Wing,East Central,64889,92,11
+2020-06-19,27037,Dakota,Metro suburbs,425423,1847,81
+2020-06-19,27039,Dodge,Southeast,20822,62,0
+2020-06-19,27041,Douglas,West Central,37964,53,0
+2020-06-19,27043,Faribault,Southeast,13758,30,0
+2020-06-19,27045,Fillmore,Southeast,21058,21,0
+2020-06-19,27047,Freeborn,Southeast,30444,243,0
+2020-06-19,27049,Goodhue,Southeast,46403,101,7
+2020-06-19,27051,Grant,West Central,6021,6,0
+2020-06-19,27053,Hennepin,Hennepin/Ramsey,1259428,10607,740
+2020-06-19,27055,Houston,Southeast,18578,7,0
+2020-06-19,27057,Hubbard,Northwest,21332,5,0
+2020-06-19,27059,Isanti,East Central,39966,52,0
+2020-06-19,27061,Itasca,Northeast,45108,59,12
+2020-06-19,27063,Jackson,Southwest,9911,50,0
+2020-06-19,27065,Kanabec,East Central,16207,13,1
+2020-06-19,27067,Kandiyohi,Southwest,42855,554,1
+2020-06-19,27069,Kittson,Northwest,4248,1,0
+2020-06-19,27071,Koochiching,Northeast,12440,9,0
+2020-06-19,27073,Lac qui Parle,Southwest,6658,4,0
+2020-06-19,27075,Lake,Northeast,10658,4,0
+2020-06-19,27077,Lake of the Woods,Northwest,3758,0,0
+2020-06-19,27079,Le Sueur,Southeast,28494,54,1
+2020-06-19,27081,Lincoln,Southwest,5673,6,0
+2020-06-19,27083,Lyon,Southwest,25629,258,2
+2020-06-19,27087,Mahnomen,Northwest,5519,6,1
+2020-06-19,27089,Marshall,Northwest,9390,12,0
+2020-06-19,27091,Martin,Southeast,19785,147,5
+2020-06-19,27085,McLeod,Southwest,35873,64,0
+2020-06-19,27093,Meeker,Southwest,23141,51,1
+2020-06-19,27095,Mille Lacs,East Central,26139,29,1
+2020-06-19,27097,Morrison,East Central,33169,54,1
+2020-06-19,27099,Mower,Southeast,40011,755,2
+2020-06-19,27101,Murray,Southwest,8276,47,0
+2020-06-19,27103,Nicollet,Southeast,34220,105,12
+2020-06-19,27105,Nobles,Southwest,21924,1628,6
+2020-06-19,27107,Norman,Northwest,6475,18,0
+2020-06-19,27109,Olmsted,Southeast,156277,846,14
+2020-06-19,27111,Otter Tail,West Central,58812,83,1
+2020-06-19,27113,Pennington,Northwest,14178,50,0
+2020-06-19,27115,Pine,East Central,29483,96,0
+2020-06-19,27117,Pipestone,Southwest,9047,14,0
+2020-06-19,27119,Polk,Northwest,31529,67,2
+2020-06-19,27121,Pope,West Central,11097,10,0
+2020-06-19,27123,Ramsey,Hennepin/Ramsey,550210,4180,207
+2020-06-19,27125,Red Lake,Northwest,3999,3,0
+2020-06-19,27127,Redwood,Southwest,15249,12,0
+2020-06-19,27129,Renville,Southwest,14612,12,0
+2020-06-19,27131,Rice,Southeast,66523,740,4
+2020-06-19,27133,Rock,Southwest,9414,26,0
+2020-06-19,27135,Roseau,Northwest,15150,6,0
+2020-06-19,27139,Scott,Metro suburbs,147381,555,4
+2020-06-19,27141,Sherburne,East Central,96036,272,4
+2020-06-19,27143,Sibley,Southeast,15028,28,2
+2020-06-19,27137,St. Louis,Northeast,199754,132,14
+2020-06-19,27145,Stearns,East Central,159256,2126,19
+2020-06-19,27147,Steele,Southeast,36803,183,0
+2020-06-19,27149,Stevens,West Central,9753,2,0
+2020-06-19,27151,Swift,Southwest,9345,20,1
+2020-06-19,27153,Todd,East Central,24582,386,2
+2020-06-19,27155,Traverse,West Central,3308,5,0
+2020-06-19,27157,Wabasha,Southeast,21645,27,0
+2020-06-19,27159,Wadena,East Central,13773,10,0
+2020-06-19,27161,Waseca,Southeast,18691,36,0
+2020-06-19,27163,Washington,Metro suburbs,259201,843,37
+2020-06-19,27165,Watonwan,Southeast,10980,128,0
+2020-06-19,27167,Wilkin,West Central,6254,20,3
+2020-06-19,27169,Winona,Southeast,50825,93,15
+2020-06-19,27171,Wright,East Central,136349,394,2
+2020-06-19,27173,Yellow Medicine,Southwest,9795,14,0

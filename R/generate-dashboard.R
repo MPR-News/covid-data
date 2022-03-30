@@ -1,0 +1,1 @@
+rmarkdown::render(here('R/dashboard.Rmd'), output_dir = here(), quiet = TRUE)

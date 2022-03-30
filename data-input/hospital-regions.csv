@@ -1,0 +1,88 @@
+county,region,GEOID
+Benton,Central,27009
+Cass,Central,27021
+Chisago,Central,27025
+Crow Wing,Central,27035
+Isanti,Central,27059
+Kanabec,Central,27065
+Mille Lacs,Central,27095
+Morrison,Central,27097
+Pine,Central,27115
+Sherburne,Central,27141
+Stearns,Central,27145
+Todd,Central,27153
+Wadena,Central,27159
+Wright,Central,27171
+Anoka,Metro,27003
+Carver,Metro,27019
+Dakota,Metro,27037
+Hennepin,Metro,27053
+Ramsey,Metro,27123
+Scott,Metro,27139
+Washington,Metro,27163
+Aitkin,Northeast,27001
+Carlton,Northeast,27017
+Cook,Northeast,27031
+Itasca,Northeast,27061
+Koochiching,Northeast,27071
+Lake,Northeast,27075
+St. Louis,Northeast,27137
+Becker,Northwest,27005
+Beltrami,Northwest,27007
+Clearwater,Northwest,27029
+Hubbard,Northwest,27057
+Kittson,Northwest,27069
+Lake of the Woods,Northwest,27077
+Mahnomen,Northwest,27087
+Marshall,Northwest,27089
+Norman,Northwest,27107
+Pennington,Northwest,27113
+Polk,Northwest,27119
+Red Lake,Northwest,27125
+Roseau,Northwest,27135
+Blue Earth,South Central,27013
+Brown,South Central,27015
+Faribault,South Central,27043
+Le Sueur,South Central,27079
+Martin,South Central,27091
+McLeod,South Central,27085
+Meeker,South Central,27093
+Nicollet,South Central,27103
+Sibley,South Central,27143
+Waseca,South Central,27161
+Watonwan,South Central,27165
+Dodge,Southeast,27039
+Fillmore,Southeast,27045
+Freeborn,Southeast,27047
+Goodhue,Southeast,27049
+Houston,Southeast,27055
+Mower,Southeast,27099
+Olmsted,Southeast,27109
+Rice,Southeast,27131
+Steele,Southeast,27147
+Wabasha,Southeast,27157
+Winona,Southeast,27169
+Big Stone,Southwest,27011
+Chippewa,Southwest,27023
+Cottonwood,Southwest,27033
+Jackson,Southwest,27063
+Kandiyohi,Southwest,27067
+Lac qui Parle,Southwest,27073
+Lincoln,Southwest,27081
+Lyon,Southwest,27083
+Murray,Southwest,27101
+Nobles,Southwest,27105
+Pipestone,Southwest,27117
+Redwood,Southwest,27127
+Renville,Southwest,27129
+Rock,Southwest,27133
+Swift,Southwest,27151
+Yellow Medicine,Southwest,27173
+Clay,West Central,27027
+Douglas,West Central,27041
+Grant,West Central,27051
+Otter Tail,West Central,27111
+Pope,West Central,27121
+Stevens,West Central,27149
+Traverse,West Central,27155
+Wilkin,West Central,27167
