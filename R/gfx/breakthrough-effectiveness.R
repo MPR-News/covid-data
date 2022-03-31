@@ -1,5 +1,6 @@
-if(!exists("breakthroughs_weighted")) {source(here("R/load-files/download-breakthroughs.R"))}
-
+if(!exists("breakthroughs_weighted")) {
+	breakthroughs_weighted <- read_csv(here("data/breakthroughs/breakthroughs-weighted.csv"))
+	}
 
 p <- breakthroughs_weighted %>%
 	group_by(metric, vax) %>%

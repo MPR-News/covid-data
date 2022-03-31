@@ -1,4 +1,6 @@
-if(!exists("breakthroughs_weighted")) {source(here("R/load-files/download-breakthroughs.R"))}
+if(!exists("breakthroughs_weighted_age")) {
+	breakthroughs_weighted_age <- read_csv(here("data/breakthroughs/breakthroughs-weighted-age.csv"))
+	}
 
 p <- breakthroughs_weighted_age %>%
 	group_by(age, metric, vax) %>%
