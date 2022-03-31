@@ -258,6 +258,8 @@ Below are data from [the Metropolitan Council's analysis of Twin Cities wastewat
 
 ## Report date
 
+### Daily data
+
 Below is a table showing the history of this data dating back to the beginning of the pandemic. 
 
 Note that this data is all by the date the Minnesota Department of Health reported it on [its website](https://www.health.state.mn.us/diseases/coronavirus/situation.html), with some minor adjustments for a few large dumps of backlogged data. It is not based on the date that deaths, hospitalizations, or tests actually occurred.
@@ -292,6 +294,8 @@ covid_trends_report_short %>%
 [Download the raw data](https://github.com/MPR-News/covid-data/raw/master/data/covid_trends_report_short.csv)
 
 ## Actual date
+
+### Daily data
 
 Below is a table showing Minnesota's COVID-19 data by actual date. Numbers in <span style="color: red;">red</span> reflect incomplete data and may rise as more data comes in.
 
