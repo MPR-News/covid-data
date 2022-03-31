@@ -94,3 +94,14 @@ covid_trends_actual <- covid_data_actual %>%
 	mutate(across(new_cases:new_deaths, rollmeanr, 7, fill = NA)) %>%
 	filter(!is.na(new_cases)) %>%
 	write_csv(here("data/covid_trends_actual.csv"))
+
+bind_cols(covid_totals_report %>%
+		  	filter(date == max(date)) %>%
+		  	select(cases = total_positives_reinfections,
+		  		   deaths = total_deaths,
+		  		   vax_onedose = total_vax_onedose,
+		  		   vax_complete = total_vax_complete),
+		  covid_trends_report %>%
+		  	filter(date == max(date)) %>%
+		  	select(positivity)) %>%
+	write_csv(here("data/flourish-data.csv"))

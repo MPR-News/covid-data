@@ -5,7 +5,8 @@ p <- covid_trends_report %>%
 	select(date, name, value) %>% 
 	ggplot(aes(x = date, y= value, color = name)) +
 	geom_line(size = 1.5) + 
-	geom_hline(data = . %>% filter(date == max(date)), aes(yintercept = value, color = name), linetype = 3) +
+	geom_hline(data = . %>% group_by(name) %>% filter(date == max(date)), 
+			   aes(yintercept = value, color = name), linetype = 3) +
 	geom_point(data = . %>% group_by(name) %>% filter(date == max(date)), size = 3) +
 	scale_color_manual(values = covidmn_colors[c(2, 1, 3)]) + 
 	scale_y_continuous(labels = comma_format(scale = 0.001, accuracy = 1, suffix = "K"), sec.axis = dup_axis(), 

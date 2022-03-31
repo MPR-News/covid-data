@@ -28,4 +28,4 @@ p <- covid_trends_actual %>%
 	labs(title = "Change in COVID-19 metrics vs. the past week",
 		 subtitle = "Data by sample date. The most recent week is incomplete and omitted.",
 		 caption = caption)
-fix_ratio(p) %>% image_write(here("images/change-14day-sample.png"))
+fix_ratio(p) %>% image_write(here("images/change-7day-sample.png"))

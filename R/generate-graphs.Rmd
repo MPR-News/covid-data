@@ -54,7 +54,7 @@ source(here("R/gfx/deaths-ltc-years.R"))
 ```
 
 ```{r}
-source(here("R/gfx/change-14day-sample.R"))
+source(here("R/gfx/change-7day-sample.R"))
 ```
 
 ```{r regions}
