@@ -1,4 +1,4 @@
-if(!exists("breakthroughs")) {source(here("R/download-breakthroughs.R"))}
+if(!exists("breakthroughs")) {breakthroughs <- read_csv(here("data/breakthroughs/breakthroughs.csv"))}
 
 p <- breakthroughs %>%
 	group_by(week_start, metric) %>%

@@ -16,7 +16,7 @@ caption <- "Source: MPR News, Minnesota Department of Health. Graphic by David H
 if(file.exists(here("private-tokens.R"))) {source(here("private-tokens.R"))} else {user_agent <- ""; cdc_token <- ""}
 ```
 
-```{r loaddata}
+```{r loaddata, message = FALSE}
 source(here("R/load-data/helper-functions.R")) # Load some functions to help process this code
 source(here("R/load-data/scraping-setup.R")) # 
 source(here("R/load-data/scrape-county-data.R"))
