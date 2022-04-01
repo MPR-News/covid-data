@@ -103,5 +103,6 @@ bind_cols(covid_totals_report %>%
 		  		   vax_complete = total_vax_complete),
 		  covid_trends_report %>%
 		  	filter(date == max(date)) %>%
-		  	select(positivity)) %>%
+		  	select(positivity)) %>% 
+	pivot_longer(everything(), names_to = "variable") %>%
 	write_csv(here("data/flourish-data.csv"))
