@@ -1,6 +1,8 @@
-variable,value
-cases,1430089
-deaths,12410
-vax_onedose,3893564
-vax_complete,3683209
-positivity,0.024926000396965797
+variable,value,label,Date
+cases,1430089,"Total
+cases","Updated April 01, 2022"
+deaths,12410,"Total
+deaths","Updated April 01, 2022"
+vax_onedose,3893564,People with at least 1 vaccine dose,"Updated April 01, 2022"
+vax_complete,3683209,Completed vaccinations,"Updated April 01, 2022"
+positivity,0.024926000396965797,Seven-day positivity rate,"Updated April 01, 2022"

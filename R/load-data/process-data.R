@@ -105,4 +105,8 @@ bind_cols(covid_totals_report %>%
 		  	filter(date == max(date)) %>%
 		  	select(positivity)) %>% 
 	pivot_longer(everything(), names_to = "variable") %>%
+	left_join(tibble(variable = c("cases", "deaths", "vax_onedose", "vax_complete", "positivity"),
+					 label = c("Total\ncases", "Total\ndeaths", "People with at least 1 vaccine dose", "Completed vaccinations", "Seven-day positivity rate")),
+			  by = "variable") %>%
+	mutate(Date = paste0("Updated ", format(current_report_date, "%B %d, %Y"))) %>%
 	write_csv(here("data/flourish-data.csv"))
