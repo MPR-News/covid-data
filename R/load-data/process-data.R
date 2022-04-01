@@ -109,4 +109,6 @@ bind_cols(covid_totals_report %>%
 					 label = c("Total\ncases", "Total\ndeaths", "People with at least 1 vaccine dose", "Completed vaccinations", "Seven-day positivity rate")),
 			  by = "variable") %>%
 	mutate(Date = paste0("Updated ", format(current_report_date, "%B %d, %Y"))) %>%
+	mutate(formatted_value = case_when(variable == "positivity" ~ percent(value, accuracy = .1),
+										 TRUE ~ comma(value, accuracy = 1))) %>%
 	write_csv(here("data/flourish-data.csv"))
