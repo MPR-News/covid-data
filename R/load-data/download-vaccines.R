@@ -127,7 +127,7 @@ vaccine_race_progress <- url_picker("vaccine_race_progress", is_captcha) %>%
 
 vaccine_zip <- url_picker("vaccine_zip", is_captcha) %>%
 	GET(user_agent(user_agent)) %>% 	content() %>%
-	set_names("zip", "people_onedose", "people_complete", "report_date") %>%
+	set_names("zip", "people_onedose", "people_complete", "people_boosted", "report_date") %>%
 	mutate(people_onedose = case_when(people_onedose == "<=5" ~ "5", TRUE ~ people_onedose) %>% as.numeric(),
 		   people_complete = case_when(people_complete == "<=5" ~ "5", TRUE ~ people_complete) %>% as.numeric()) %>%
 	mutate(report_date = date_parser(report_date)) %>%
