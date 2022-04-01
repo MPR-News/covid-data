@@ -206,7 +206,7 @@ list(covid_data_actual %>%
 
 ### Rate of change
 
-![](../images/change-14day-sample.png "Graph of the rate of change in COVID-19 metrics vs. the past week")
+![](../images/change-7day-sample.png "Graph of the rate of change in COVID-19 metrics vs. the past week")
 
 ## Demographics {.tabset}
 
