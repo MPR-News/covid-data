@@ -22,8 +22,8 @@ p <- vaccine_1x_age %>%
 	mutate(age = fct_relevel(age, "5-11", "12-15", "16-17", "18-49", "50-64", "65+")) %>%
 	filter(report_date == max(report_date)) %>%
 	ggplot(aes(x = fct_rev(age))) +
-	geom_col(aes(y = pct_onedose), fill = covidmn_colors[1]) +
-	geom_col(aes(y = pct_complete), fill = covidmn_colors[2]) +
+	geom_col(aes(y = pct_onedose), fill = covidmn_colors[2]) +
+	geom_col(aes(y = pct_complete), fill = covidmn_colors[1]) +
 	geom_col(aes(y = pct_boosted), fill = covidmn_colors[3]) +
 	geom_text(aes(y = pct_onedose, label = percent(pct_onedose, accuracy = .1)), 
 			  hjust = -.1, color = "black", size = 6) +
