@@ -17,7 +17,6 @@ library(magick)
 library(lubridate)
 library(here)
 library(kableExtra)
-library(themempr)
 ```
 
 ```{r loaddata}
