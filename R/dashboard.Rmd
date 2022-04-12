@@ -40,41 +40,37 @@ On `r format(current_report_date, "%B %d, %Y")`, Minnesota reported the followin
 ```{r table_report_date}
 covid_data_report_short %>%
 	filter(date == max(date)) %>%
-	mutate(positivity = percent(positivity, accuracy = .01)) %>%
 	mutate(across(is.numeric, comma, accuracy = 1)) %>%
-	select(new_cases, new_tests, positivity, new_hosp, new_deaths, active_cases, new_vax_onedose, new_vax_complete, new_vax_boosted) %>%
-	set_names("Cases", "Tests", "Positivity rate", "Hospitalizations", "Deaths", "Active cases", "Vaccinations (1+ dose)", "Vaccinations (complete)", "Vaccinations (boosters)") %>%
+	select(new_cases, new_hosp, new_deaths, active_cases, new_vax_onedose, new_vax_complete, new_vax_boosted) %>%
+	set_names("Cases", "Hospitalizations", "Deaths", "Active cases", "Vaccinations (1+ dose)", "Vaccinations (complete)", "Vaccinations (boosters)") %>%
 	pivot_longer(everything(), values_to = "New") %>%
 	# Add totals column
 	left_join(covid_totals_report %>%
 			  	filter(date == max(date)) %>%
-			  	select(total_positives_reinfections, total_tests, total_hosp, total_deaths, total_vax_onedose, total_vax_complete, total_vax_boosted) %>%
+			  	select(total_positives_reinfections, total_hosp, total_deaths, total_vax_onedose, total_vax_complete, total_vax_boosted) %>%
 			  	mutate(across(is.numeric, comma, accuracy = 1)) %>%
-			  	set_names("Cases", "Tests", "Hospitalizations", "Deaths", "Vaccinations (1+ dose)", "Vaccinations (complete)", "Vaccinations (boosters)") %>%
+			  	set_names("Cases", "Hospitalizations", "Deaths", "Vaccinations (1+ dose)", "Vaccinations (complete)", "Vaccinations (boosters)") %>%
 			  	pivot_longer(everything(), values_to = "Total"),
 			  by = "name") %>%
 	# Add 7-day average column
 	left_join(covid_trends_report_short %>%
 			  	filter(date == max(date)) %>%
-			  	select(-date, -day) %>%
-			  	mutate(positivity = percent(positivity, accuracy = .01)) %>%
+			  	select(-date, -day, -new_tests, -positivity) %>%
 			  	mutate(across(is.numeric, comma, accuracy = 1)) %>%
-			  	set_names("Cases", "Tests", "Positivity rate", "Hospitalizations", "Deaths", "Active cases", "Vaccinations (1+ dose)", "Vaccinations (complete)", "Vaccinations (boosters)") %>%
+			  	set_names("Cases", "Hospitalizations", "Deaths", "Active cases", "Vaccinations (1+ dose)", "Vaccinations (complete)", "Vaccinations (boosters)") %>%
 			  	pivot_longer(everything(), values_to = "7-day average"),
 			  by = "name") %>%
 	# Add week-over-week change column
 	left_join(covid_trends_report_short %>%
 			  	filter(date %in% c(max(date), max(date) - 7)) %>% 
-			  	select(-day) %>%
+			  	select(-day, -new_tests, -positivity) %>%
 			  	arrange(date) %>%
-			  	set_names("Date", "Cases", "Tests", "Positivity rate", "Hospitalizations", "Deaths", "Active cases", "Vaccinations (1+ dose)", "Vaccinations (complete)", "Vaccinations (boosters)") %>%
+			  	set_names("Date", "Cases", "Hospitalizations", "Deaths", "Active cases", "Vaccinations (1+ dose)", "Vaccinations (complete)", "Vaccinations (boosters)") %>%
 			  	mutate(across(-Date, ~. - lag(.))) %>%
 			  	filter(!is.na(Cases)) %>%
 			  	select(-Date) %>%
 			  	pivot_longer(everything()) %>%
-			  	mutate(value = case_when(name == "Positivity rate" & value < 0 ~ percent(value, accuracy = .01),
-			  							 name == "Positivity rate" ~ percent(value, accuracy = .01, prefix = "+"),
-			  							 value < 0 ~ comma(value, accuracy = 1),
+			  	mutate(value = case_when(value < 0 ~ comma(value, accuracy = 1),
 			  							 TRUE ~ comma(value, accuracy = 1, prefix = "+"))) %>%
 			  	rename("Past week's change" = "value"),
 			  by = "name") %>%
@@ -99,21 +95,21 @@ Minnesota reports many COVID-19 metrics based on the date the event actually occ
 list(covid_data_actual %>%
 	 	filter(cases_complete == TRUE) %>%
 	 	filter(date == max(date)) %>%
-	 	select(new_cases, new_tests, positivity, new_hosp) %>%
-	 	set_names("Cases", "Tests", "Positivity rate", "Hospitalizations") %>%
+	 	select(new_cases, new_tests, new_hosp) %>%
+	 	set_names("Cases", "Tests", "Hospitalizations") %>%
 	 	pivot_longer(everything(), values_to = "New"),
 	 covid_trends_actual %>%
 	 	filter(cases_complete == TRUE) %>%
 	 	filter(date == max(date)) %>%
-	 	select(new_cases, new_tests, positivity, new_hosp) %>%
-	 	set_names("Cases", "Tests", "Positivity rate", "Hospitalizations") %>%
+	 	select(new_cases, new_tests, new_hosp) %>%
+	 	set_names("Cases", "Tests", "Hospitalizations") %>%
 	 	pivot_longer(everything(), values_to = "7-day average"),
 	 covid_trends_actual %>%
 	 	filter(cases_complete == TRUE) %>%
 	 	filter(date %in% c(max(date), (max(date) - 7))) %>%
 	 	arrange(date) %>%
-	 	select(date, new_cases, new_tests, positivity, new_hosp) %>%
-	 	set_names("Date", "Cases", "Tests", "Positivity rate", "Hospitalizations") %>%
+	 	select(date, new_cases, new_tests, new_hosp) %>%
+	 	set_names("Date", "Cases", "Tests", "Hospitalizations") %>%
 	 	mutate(across(-Date, ~. - lag(.))) %>%
 	 	filter(!is.na(Cases)) %>%
 	 	select(-Date) %>%
@@ -142,8 +138,7 @@ list(covid_data_actual %>%
 				   	select(-Date) %>%
 				   	pivot_longer(everything(), values_to = "Past week's change")) %>%
 			  	reduce(left_join, by = "name")) %>%
-	mutate(across(is.numeric, ~case_when(name == "Positivity rate" ~ percent(., accuracy = .01),
-										 TRUE ~ comma(., accuracy = .01) %>% str_remove_all("\\.0*$")))) %>%
+	mutate(across(is.numeric, ~comma(., accuracy = .01) %>% str_remove_all("\\.0*$"))) %>%
 	kable(col.names = c("", "Most recent", "7-day average", "Past week's change")) %>%
 	kable_styling(c("striped"), full_width = FALSE, font_size = 20) %>%
 	column_spec(1, bold = TRUE)
@@ -162,16 +157,6 @@ list(covid_data_actual %>%
 ### Actual date 
 
 ![](../images/cases-years-sample.png "Graph of new COVID-19 cases in Minnesota by sample date")
-
-## Positivity rate {.tabset}
-
-### Report date
-
-![](../images/positivity-years.png "Graph of new Minnesota COVID-19 positivity rate by report date by year")
-
-### Actual date
-
-![](../images/positivity-years-sample.png "Graph of new Minnesota COVID-19 positivity rate by sample date by year")
 
 ## Hospitalizations {.tabset}
 
@@ -198,10 +183,6 @@ list(covid_data_actual %>%
 ### Origin of today's cases
 
 ![](../images/case-report-day.png "Graph of whem today's newly reported cases were tested")
-
-### Testing volume
-
-![](../images/tests-years-sample.png "Graph of new COVID-19 tests in Minnesota by year")
 
 ### Rate of change
 
