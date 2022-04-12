@@ -42,11 +42,8 @@ source(here("R/gfx/case-report-day.R"))
 ```
 
 ```{r data_by_year}
-source(here("R/gfx/positivity-years.R"))
-source(here("R/gfx/positivity-years-sample.R"))
 source(here("R/gfx/cases-years.R"))
 source(here("R/gfx/cases-years-sample.R"))
-source(here("R/gfx/tests-years-sample.R"))
 source(here("R/gfx/hosp-years.R"))
 source(here("R/gfx/hosp-beds-years.R"))
 source(here("R/gfx/deaths-years.R"))

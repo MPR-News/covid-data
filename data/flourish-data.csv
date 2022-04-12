@@ -1,8 +1,8 @@
 variable,value,label,Date,formatted_value
-cases,1433898,"Total
-cases","Updated April 11, 2022","1,433,898"
-deaths,12447,"Total
-deaths","Updated April 11, 2022","12,447"
-vax_onedose,3899210,People with at least 1 vaccine dose,"Updated April 11, 2022","3,899,210"
-vax_complete,3689725,Completed vaccinations,"Updated April 11, 2022","3,689,725"
-positivity,0.032281678374315274,Seven-day positivity rate,"Updated April 11, 2022",3.2%
+cases,1435232,"Total
+cases","Updated April 12, 2022","1,435,232"
+deaths,12449,"Total
+deaths","Updated April 12, 2022","12,449"
+vax_onedose,3900266,People with at least 1 vaccine dose,"Updated April 12, 2022","3,900,266"
+vax_complete,3691191,Completed vaccinations,"Updated April 12, 2022","3,691,191"
+positivity,0.03459804802056687,Seven-day positivity rate,"Updated April 12, 2022",3.5%
