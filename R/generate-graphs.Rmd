@@ -28,7 +28,7 @@ source(here("R/load-data/scrape-hospitals.R"))
 source(here("R/load-data/scrape-demographics.R"))
 source(here("R/load-data/download-hospital-bed-use.R"))
 source(here("R/load-data/process-hosp-capacity.R"))
-# if(wday(current_report_date) == 2) {source(here("R/load-data/download-breakthroughs.R"))}
+if(wday(current_report_date) == 2) {source(here("R/load-data/download-breakthroughs.R"))}
 source(here("R/load-data/download-vaccines.R"))
 source(here("R/load-data/download-wastewater.R"))
 source(here("R/load-data/process-data.R")) # Load in basic data
@@ -57,6 +57,7 @@ source(here("R/gfx/change-7day-sample.R"))
 ```{r regions}
 source(here("R/inset-map8.R"))
 source(here("R/gfx/cases-by-region-facet.R"))
+source(here("R/gfx/cases-by-region-facet-trunc.R"))
 ```
 
 ```{r demographics}
