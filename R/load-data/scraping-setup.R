@@ -23,8 +23,8 @@ if(is.na(current_report_date)) {stop("Date not acquired")}
 scrape_totals <- function() {
 	total_booster_doses <- readline("total_booster_doses = ") %>% parse_number()
 	tibble(metric = c("cases_removed", 
-					  "total_tests", 
-					  "total_antigen_tests", 
+					  # "total_tests", 
+					  # "total_antigen_tests", 
 					  "total_positives_reinfections", 
 					  "total_antigen_positives", 
 					  "total_positives", 
@@ -34,8 +34,8 @@ scrape_totals <- function() {
 					  "total_hosp", 
 					  "total_icu"),
 		   xpath = c('//*[@id="dailyc"]/div/ul/li/text()[1]', 
-		   		  '//*[@id="testtotal"]/tbody/tr[1]/td', 
-		   		  '//*[@id="testtotal"]/tbody/tr[3]/td',
+		   		  # '//*[@id="testtotal"]/tbody/tr[1]/td', 
+		   		  # '//*[@id="testtotal"]/tbody/tr[3]/td',
 		   		  '//*[@id="casetotal"]/tbody/tr/td',
 		   		  '//*[@id="casebtotal"]/tbody/tr[2]/td/span',
 		   		  '//*[@id="casereinftotal"]/tbody/tr/td',

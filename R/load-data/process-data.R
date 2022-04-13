@@ -1,4 +1,5 @@
 covid_totals_report <-  read_csv(here("data/covid_totals_report.csv")) %>%
+	mutate(date = date_parser(date)) %>%
 	bind_rows(scrape_totals()) %>%
 	mutate(across(contains("total") & where(is.character), parse_number)) %>%
 	mutate(cases_removed = replace_na(cases_removed, 0)) %>%
