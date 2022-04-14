@@ -1,4 +1,10 @@
 product,doses_shipped,filed_date,report_date,is_ltc
+Moderna,2450360,2022-04-12,2022-04-14,General population
+Pfizer,4718360,2022-04-12,2022-04-14,General population
+Johnson & Johnson,311800,2022-04-12,2022-04-14,General population
+Moderna,1953060,2022-04-12,2022-04-14,Long-term care
+Pfizer,2754960,2022-04-12,2022-04-14,Long-term care
+Johnson & Johnson,191700,2022-04-12,2022-04-14,Long-term care
 Moderna,2447660,2022-04-12,2022-04-13,General population
 Pfizer,4707960,2022-04-12,2022-04-13,General population
 Johnson & Johnson,311800,2022-04-12,2022-04-13,General population

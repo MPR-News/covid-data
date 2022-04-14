@@ -57,7 +57,7 @@ source(here("R/gfx/change-7day-sample.R"))
 ```{r regions}
 source(here("R/inset-map8.R"))
 source(here("R/gfx/cases-by-region-facet.R"))
-source(here("R/gfx/cases-by-region-facet-trunc.R"))
+source(here("R/gfx/cases-by-region-trunc.R"))
 ```
 
 ```{r demographics}
