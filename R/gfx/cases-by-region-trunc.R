@@ -33,7 +33,7 @@ p <- combined_county_data %>%
 	theme_covidmn_line() +
 	theme(axis.title = element_blank()) +
 	labs(title = "COVID-19 cases in Minnesota regions",
-		 subtitle = "By date reported to the Minnesota Department of Health",
+		 subtitle = "Per 100,000 residents. By date reported to the MN Department of Health.",
 		 capton = caption) +
-	annotation_custom(grob = ggplotify::as.grob(inset_map8), xmin = current_report_date - 21, xmax = current_report_date - 17, ymin = 10, ymax = 14)
+	annotation_custom(grob = ggplotify::as.grob(inset_map8), xmin = current_report_date - 21, xmax = current_report_date - 17, ymin = 10.5, ymax = 14)
 fix_ratio(p) %>% image_write(here("images/cases-by-region-trunc.png"))

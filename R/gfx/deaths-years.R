@@ -4,6 +4,7 @@ p <- covid_trends_report %>%
 		   display_date = paste0("2020-", yday) %>% as.Date(format = "%Y-%j")) %>%
 	filter(date >= as_date("2020-04-01")) %>%
 	ggplot(aes(x = display_date, y = new_deaths, color = year)) +
+	geom_hline(data = . %>% filter(year == max(year), date == max(date)), aes(yintercept = new_deaths, color = year), linetype = 3) +
 	geom_line(size = 1.5) +
 	geom_text(data = . %>% group_by(year) %>% filter(date == max(date)),
 			  aes(label = year), hjust = -.1, size = 6) +
