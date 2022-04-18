@@ -95,3 +95,9 @@ url_picker_hosp <- function(id, is_captcha) {
 		hospitals_dir %>% filter(name == id) %>% pull(url)
 	}
 }
+
+update_boosters <- function(n) {
+	covid_totals_report <<- covid_totals_report %>%
+		mutate(total_booster_doses = case_when(date == max(date) ~ n, TRUE ~ total_booster_doses)) %>%
+		write_csv(here("data/covid_totals_report.csv"))
+}

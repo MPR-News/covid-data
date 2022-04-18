@@ -48,7 +48,9 @@ vaccine_providers <- url_picker("vaccine_providers", is_captcha) %>%
 	write_csv(here("data/vaccine-data/vaccine_provider.csv"))
 
 vaccine_1x_county <- url_picker("vaccine_1x_county", is_captcha) %>%
-	GET(user_agent(user_agent)) %>% 	content() %>%
+	GET(user_agent(user_agent)) %>% 	
+	content() %>%
+	select(1:6) %>%
 	set_names("county", "people_onedose", "people_complete", "people_boosted", "filed_date", "report_date") %>%
 	mutate(filed_date = mdy(filed_date)) %>%
 	bind_rows(read_csv(here("data/vaccine-data/vaccine-1dose-county.csv")) %>%
@@ -96,10 +98,13 @@ doses_shipped <- url_picker("doses_shipped", is_captcha) %>%
 	write_csv(here("data/vaccine-data/doses-shipped.csv"))
 
 vaccine_1x_age_county <- url_picker("vaccine_1x_age_county", is_captcha) %>%
-	GET(user_agent(user_agent)) %>% 	content() %>%
+	GET(user_agent(user_agent)) %>% 	
+	content() %>%
+	select(1:7) %>%
 	set_names("county", "percent_onedose", "percent_completed", "percent_boosted", "age", "filed_date", "report_date") %>%
 	mutate(across(contains("percent"), ~parse_number(.) / 100)) %>%
-	mutate(filed_date = mdy(filed_date)) %>%
+	mutate(filed_date = date_parser(filed_date),
+		   report_date = date_parser(report_date)) %>%
 	bind_rows(read_csv(here("data/vaccine-data/vaccine-1dose-age-county.csv")) %>%
 			  	# rename("filed_date" = "date_as_of") %>%
 			  	# mutate(across(percent_completed:percent_boosted, ~parse_number(.) / 100)) %>%
