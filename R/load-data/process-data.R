@@ -96,15 +96,12 @@ covid_trends_actual <- covid_data_actual %>%
 	filter(!is.na(new_cases)) %>%
 	write_csv(here("data/covid_trends_actual.csv"))
 
-bind_cols(covid_totals_report %>%
-		  	filter(date == max(date)) %>%
-		  	select(cases = total_positives_reinfections,
-		  		   deaths = total_deaths,
-		  		   vax_onedose = total_vax_onedose,
-		  		   vax_complete = total_vax_complete),
-		  covid_trends_report %>%
-		  	filter(date == max(date)) %>%
-		  	select(positivity)) %>% 
+covid_totals_report %>%
+	filter(date == max(date)) %>%
+	select(cases = total_positives_reinfections,
+		   deaths = total_deaths,
+		   vax_onedose = total_vax_onedose,
+		   vax_complete = total_vax_complete) %>% 
 	pivot_longer(everything(), names_to = "variable") %>%
 	left_join(tibble(variable = c("cases", "deaths", "vax_onedose", "vax_complete", "positivity"),
 					 label = c("Total\ncases", "Total\ndeaths", "People with at least 1 vaccine dose", "Completed vaccinations", "Seven-day positivity rate")),

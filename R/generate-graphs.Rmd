@@ -35,6 +35,10 @@ source(here("R/load-data/process-data.R")) # Load in basic data
 source(here("R/load-data/load-other-data.R"))
 ```
 
+```{r load_existing_data, eval = FALSE, message = FALSE}
+source(here("R/load-data/load-existing-data.R")) # Load the existing data if you don't need to scrape again
+```
+
 ## Generate graphs
 
 ```{r case_origin}
