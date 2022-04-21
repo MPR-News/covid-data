@@ -21,7 +21,7 @@ p <- covid_trends_actual %>%
 		  axis.ticks.x = element_line(),
 		  plot.subtitle = element_markdown(lineheight = 1.1),
 		  legend.position = "none") +
-	labs(title = "New ICU and non-ICU hospitalizations in MN",
+	labs(title = "New ICU and non-ICU COVID hospitalizations in MN",
 		 subtitle = "By admission date, for the last six weeks. The most recent week of<br>data is incomplete and omitted.",
 		 caption = caption,
 		 y = "New admissions")
