@@ -5,7 +5,7 @@ p <- wastewater %>%
 	mutate(copies_7day = rollmeanr(copies_day_person_M_mn, 7, fill = "extend")) %>%
 	ggplot(aes(x = date, y = copies_day_person_M_mn)) +
 	geom_line(size = .3) +
-	geom_line(aes(y = copies_7day), size = 1) +
+	geom_line(aes(y = copies_7day), size = 1.5) +
 	scale_y_continuous(expand = expansion(mult = c(0, 0.05)), sec.axis = dup_axis(), labels = comma_format(suffix = "M")) +
 	scale_x_date(date_breaks = "2 months", date_labels = "%b\n%Y", expand = expansion(mult = .01)) +
 	expand_limits(y = 0) +
