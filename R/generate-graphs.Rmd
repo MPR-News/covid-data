@@ -6,7 +6,7 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, message= FALSE, warning = FALSE)
-options(scipen = 50)
+options(scipen = 50, readr.show_col_types = FALSE)
 source("load-packages.R")
 source("theme_covidmn.R")
 caption <- "Source: MPR News, Minnesota Department of Health. Graphic by David H. Montgomery"
