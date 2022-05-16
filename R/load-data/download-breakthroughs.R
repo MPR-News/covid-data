@@ -15,8 +15,7 @@ GET(url = "https://www.health.state.mn.us/diseases/coronavirus/stats/vbtaarates.
 	user_agent(user_agent),
 	write_disk(tmp <- tempfile()), overwrite = TRUE)
 
-breakthroughs_weighted <- read_excel(tmp) %>%
-	select(1:8) %>%
+breakthroughs_weighted <- read_excel(tmp, range = cell_cols("A:H")) %>%
 	set_names("week", "week_start", "cases_vax", "cases_unvax", "hosp_vax", "hosp_unvax", "deaths_vax", "deaths_unvax") %>%
 	filter(!is.na(cases_vax)) %>%
 	separate(week, c("year", "week"), sep = -2) %>%
