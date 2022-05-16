@@ -3,7 +3,7 @@ p <- covid_trends_actual %>%
 	mutate(wave = case_when(date >= as_date("2020-10-05") & date <= as_date("2020-12-28") ~ "Fall 2020",
 							# date >= as_date("2020-03-28") & date <= as_date("2020-06-23") ~ "Spring 2020",
 							date >= as_date("2021-03-08") & date <= as_date("2021-07-02") ~ "Spring 2021",
-							# date >= as_date("2021-07-04") & date <= as_date("2021-10-04") ~ "Summer 2021",
+							date >= as_date("2021-07-04") & date <= as_date("2021-10-04") ~ "Summer 2021",
 							date >= as_date("2021-12-21") & date <= as_date("2022-03-1") ~ "Omicron",
 							date >= as_date("2022-04-1") ~ "Spring 2022",
 							TRUE ~ NA_character_) %>%
