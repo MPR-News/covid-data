@@ -1,9 +1,14 @@
-if(!exists("breakthroughs")) {breakthroughs <- read_csv(here("data/breakthroughs/breakthroughs.csv"))}
+if(!exists("breakthroughs_weighted_age_adults")) {breakthroughs <- read_csv(here("data/breakthroughs/breakthroughs-weighted-age-adults.csv"))}
 
-p <- breakthroughs %>%
+p <- breakthroughs_weighted_age_adults %>%
+	filter(metric_type == "count", metric != "pop") %>%
+	group_by(week_start, metric, vax_status) %>%
+	summarize(value = sum(value)) %>%
+	group_by(metric, vax_status) %>%
+	mutate(value_3week = rollmeanr(value, 3, fill = "extend")) %>%
 	group_by(week_start, metric) %>%
-	mutate(pct = number / sum(number)) %>%
-	filter(vax == "Fully vaccinated") %>%
+	mutate(pct = 1 - value_3week / sum(value_3week)) %>%
+	filter(vax_status == "unvaxxed") %>%
 	ggplot(aes(x = week_start, y = pct, color = metric)) +
 	geom_line(size = 1.5) +
 	scale_y_continuous(labels = percent_format(accuracy = 1),
@@ -17,6 +22,6 @@ p <- breakthroughs %>%
 		  legend.position = "none",
 		  plot.subtitle = element_markdown(lineheight = 1.1)) +
 	labs(title = "Rising share of COVID breakthroughs in MN",
-		 subtitle = "Share of <span style='color:#56B4E9'>cases</span>, <span style='color:#E69F00'>deaths</span> and <span style='color:#009E73'>hospitalizations</span> that are breakthroughs,<br> among cases 12 years old or older",
+		 subtitle = "Share of <span style='color:#56B4E9'>cases</span>, <span style='color:#E69F00'>deaths</span> and <span style='color:#009E73'>hospitalizations</span> that are breakthroughs,<br> among Minnesotans 18 years old or older",
 		 caption = caption)
 fix_ratio(p) %>% image_write(here("images/breakthrough-share.png"))
