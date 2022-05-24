@@ -20,7 +20,7 @@ p <- combined_county_data %>%
 	mutate(case_odds_30 = 1 - (1 - (new_cases_percap_7day / 100000))^30 ) %>%
 	mutate(case_odds_365 = 1 - (1 - (new_cases_percap_7day / 100000))^365 ) %>%
 	filter(!is.na(region)) %>%
-	filter(date >= max(date) - 21) %>%
+	filter(date >= max(date) - 28) %>%
 	ggplot(aes(x = date, y = new_cases_percap_7day, color = color)) +
 	geom_line(size = 1.5) +
 	geom_text_repel(data = . %>% group_by(region) %>% filter(date == max(date)), aes(label = region, x = date + .5), 
@@ -35,5 +35,5 @@ p <- combined_county_data %>%
 	labs(title = "COVID-19 cases in Minnesota regions",
 		 subtitle = "Per 100,000 residents. By date reported to the MN Department of Health.",
 		 capton = caption) +
-	annotation_custom(grob = ggplotify::as.grob(inset_map8), xmin = current_report_date - 21, xmax = current_report_date - 14, ymin = 31, ymax = 50)
+	annotation_custom(grob = ggplotify::as.grob(inset_map8), xmin = current_report_date - 28, xmax = current_report_date - 21, ymin = 31, ymax = 50)
 fix_ratio(p) %>% image_write(here("images/cases-by-region-trunc.png"))

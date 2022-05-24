@@ -1,4 +1,4 @@
-if(!exists("breakthroughs_weighted_age_adults")) {breakthroughs <- read_csv(here("data/breakthroughs/breakthroughs-weighted-age-adults.csv"))}
+if(!exists("breakthroughs_weighted_age_adults")) {breakthroughs_weighted_age_adults <- read_csv(here("data/breakthroughs/breakthroughs-weighted-age-adults.csv"))}
 
 p <- breakthroughs_weighted_age_adults %>%
 	filter(metric_type == "count", metric != "pop") %>%

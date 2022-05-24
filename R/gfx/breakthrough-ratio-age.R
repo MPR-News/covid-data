@@ -1,5 +1,5 @@
 if(!exists("breakthroughs_weighted_age_adults")) {
-	breakthroughs_weighted_age <- read_csv(here("data/breakthroughs/breakthroughs-weighted-age-adults.csv"))
+	breakthroughs_weighted_age_adults <- read_csv(here("data/breakthroughs/breakthroughs-weighted-age-adults.csv"))
 	}
 
 
@@ -29,7 +29,7 @@ breakthrough_age_function <- function(metric_name, label) {
 		theme(axis.title = element_blank(),
 			  plot.subtitle = element_markdown(lineheight = 1.1),
 			  legend.position = "none") +
-		labs(title = paste0("COVID ", label, " in MN by age, vaccination status"),
+		labs(title = paste0("COVID ", label, " in MN by age, vaccination"),
 			 subtitle = "Prevalence among unvaccinated adults relative to the <span style = 'color:#56B4E9'>fully vaccinated</span> <br>and <span style = 'color:#E69F00'>boosted</span>, by age. Lines represent three-week rolling averages.",
 			 caption = caption,
 			 y = "How many times more common\namong the unvaccinated")

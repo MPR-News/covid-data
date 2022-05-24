@@ -1,5 +1,5 @@
-if(!exists("breakthroughs_weighted")) {
-	breakthroughs_weighted <- read_csv(here("data/breakthroughs/breakthroughs-weighted-adults.csv"))
+if(!exists("breakthroughs_weighted_adults")) {
+	breakthroughs_weighted_adults <- read_csv(here("data/breakthroughs/breakthroughs-weighted-adults.csv"))
 	}
 
 p <- breakthroughs_weighted_adults %>%
