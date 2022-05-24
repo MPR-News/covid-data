@@ -9,6 +9,7 @@ p <- covid_trends_report %>%
 	geom_text(data = . %>% group_by(year) %>% filter(date == max(date)),
 			  aes(label = year), hjust = -.1, size = 6) +
 	scale_y_continuous(expand = expansion(mult = c(0, 0.02)),
+					   breaks = seq(0, 200, 10),
 					   sec.axis = dup_axis()) +
 	scale_x_date(expand = expansion(mult = c(0.01, 0.1)), date_labels = "%b", 
 				 breaks = seq(as_date("2020-01-01"), as_date("2021-1-1"), by = "month")) +
