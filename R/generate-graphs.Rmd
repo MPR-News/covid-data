@@ -95,6 +95,7 @@ source(here("R/gfx/wastewater-load-trunc.R"))
 source(here("R/gfx/wastewater-variants.R"))
 source(here("R/gfx/wastewater-variants-ba2.R"))
 source(here("R/gfx/wastewater-change-7day.R"))
+source(here("R/gfx/one-time/wastewater-chg-comp.R"))
 ```
 
 ## Publish
