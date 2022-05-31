@@ -1,7 +1,7 @@
 variable,value,label,Date,formatted_value
-cases,1504982,"Total
-cases","Updated May 27, 2022","1,504,982"
-deaths,12628,"Total
-deaths","Updated May 27, 2022","12,628"
-vax_onedose,3916089,People with at least 1 vaccine dose,"Updated May 27, 2022","3,916,089"
-vax_complete,3711324,Completed vaccinations,"Updated May 27, 2022","3,711,324"
+cases,1507168,"Total
+cases","Updated May 31, 2022","1,507,168"
+deaths,12633,"Total
+deaths","Updated May 31, 2022","12,633"
+vax_onedose,3916617,People with at least 1 vaccine dose,"Updated May 31, 2022","3,916,617"
+vax_complete,3711940,Completed vaccinations,"Updated May 31, 2022","3,711,940"
