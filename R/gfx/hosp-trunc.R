@@ -10,7 +10,7 @@ p <- covid_trends_actual %>%
 	geom_point(data = . %>% group_by(name) %>% filter(date == max(date)), size = 3) +
 	geom_hline(data = . %>% filter(date == max(date)), aes(yintercept = value), linetype = 3) +
 	scale_y_continuous(expand = expansion(mult = c(0, 0.05)), sec.axis = dup_axis()) +
-	scale_x_date(date_labels = "%b", date_breaks = "1 months", expand = expansion(mult = c(0.10, 0.10))) +
+	scale_x_date(date_labels = "%b\n%d", date_breaks = "2 weeks", expand = expansion(mult = c(0.10, 0.10))) +
 	scale_color_manual(values = covidmn_colors) +
 	expand_limits(y = 0) +
 	facet_wrap(vars(name), ncol = 2, scales = "free_y") +
