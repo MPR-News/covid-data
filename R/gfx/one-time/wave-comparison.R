@@ -13,7 +13,7 @@ p <- covid_trends_actual %>%
 	mutate(days_since_start = as.numeric(date - min(date)),
 		   weeks_since_start = days_since_start / 7) %>%
 	mutate(index = new_cases / new_cases[days_since_start == 0] - 1) %>%
-	filter(days_since_start <= 55) %>%
+	filter(days_since_start <= 75) %>%
 	ggplot(aes(x = weeks_since_start, y = index, color = wave)) +
 	geom_hline(yintercept = 0, linetype = 2) +
 	geom_vline(data = . %>% group_by(wave) %>% filter(index == max(index)), aes(xintercept = weeks_since_start, color = wave), linetype = 3) +
