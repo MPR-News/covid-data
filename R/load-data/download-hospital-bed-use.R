@@ -4,7 +4,7 @@ is_captcha <- FALSE
 
 raw_hospital_data <- url_picker_hosp(c("TELETRACKING", "MNTRAC"), is_captcha) %>%
 	map(GET, user_agent(user_agent)) %>%
-	map(content) %>%
+	map(content, encoding = "UTF-8") %>%
 	map(select, metric = Metric, bed_type = Detail1, metric_type = Detail2, is_covid = Detail3, date = `Data Date (MM/DD/YYYY)`, geography = "GeographicLevel", GeographicName, value = Value_NUMBER, units = Units, most_recent = `MOST RECENT (1)`, team = `COVID Team`) %>%
 	reduce(bind_rows) %>%
 	mutate(date = date_parser(date)) %>%
