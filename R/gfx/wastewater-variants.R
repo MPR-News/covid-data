@@ -6,7 +6,7 @@ p <- wastewater_variants %>%
 	ggplot(aes(x = date, y = frequency_7day, color = variant)) +
 	geom_line(size = 1.5)  +
 	geom_text(data = . %>% group_by(variant) %>% slice_max(frequency_7day, with_ties = FALSE), 
-			  aes(label = variant), vjust = -.2, size = 5) +
+			  aes(label = variant), vjust = -.2, hjust = 1, size = 5) +
 	scale_y_continuous(labels = percent_format(), sec.axis = dup_axis(), expand = expansion(mult = c(0, 0.08))) +
 	scale_x_date(date_breaks = "2 months", date_labels = "%b\n%Y", expand = expansion(mult = .01)) +
 	scale_color_manual(values = covidmn_colors) +
