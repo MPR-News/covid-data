@@ -1,4 +1,9 @@
 category,doses,filed_date,report_date
+Total vaccine doses administered,10177091,2022-06-22,2022-06-24
+Total Pfizer doses administered,6161525,2022-06-22,2022-06-24
+Total Moderna doses administered,3669747,2022-06-22,2022-06-24
+Total Johnson & Johnson doses administered,342148,2022-06-22,2022-06-24
+Total Unknown/missing vaccine type,3671,2022-06-22,2022-06-24
 Total vaccine doses administered,10170171,2022-06-21,2022-06-23
 Total Pfizer doses administered,6157128,2022-06-21,2022-06-23
 Total Moderna doses administered,3667265,2022-06-21,2022-06-23
