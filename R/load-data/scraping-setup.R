@@ -43,7 +43,7 @@ scrape_totals <- function() {
 		   		  '//*[@id="deathtotal"]/tbody/tr/td',
 		   		  '//*[@id="deathtotal"]/tbody/tr/td/span',
 		   		  '//*[@id="hosptotal"]/tbody/tr[1]/td',
-		   		  '//*[@id="hosptotal"]/tbody/tr[2]/td/span')) %>%
+		   		  '//*[@id="hosptotal"]/tbody/tr[2]/td')) %>%
 		mutate(value = map_dbl(xpath, 
 							   ~situation_report %>% 
 							   	html_nodes(xpath = .x) %>% 

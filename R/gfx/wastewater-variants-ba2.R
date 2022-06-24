@@ -1,6 +1,6 @@
 p <- wastewater_variants_nominal %>%
 	# mutate(variant = case_when(variant == "Omicron BA.2 (Excluding BA.2.12.1)" ~ "Omicron BA.2", TRUE ~ variant)) %>%
-	filter(str_detect(variant, "Omicron BA.2|BA.4")) %>%# View()
+	filter(str_detect(variant, "Omicron BA.2|BA.4|BA.5")) %>%# View()
 	ggplot(aes(x = date, y = copies_7day, color = variant)) +
 	geom_line(aes(y = copies_gapfill), size = .3) +
 	geom_line(size = 1.5) +
