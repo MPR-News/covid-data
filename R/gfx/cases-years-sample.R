@@ -4,8 +4,8 @@ p <- covid_trends_actual %>%
 		   year = year(date) %>% as.character(),
 		   display_date = paste0("2020-", yday) %>% as.Date(format = "%Y-%j")) %>%
 	ggplot(aes(x = display_date, y = new_cases, color = year)) +
-	geom_line(data = . %>% filter(date <= (current_report_date - 6)), size = 1.5) +
-	geom_line(data = . %>% filter(date > (current_report_date - 7)), size = 1, linetype = 3) +
+	geom_line(data = . %>% filter(cases_complete == TRUE), size = 1.5) +
+	# geom_line(data = . %>% filter(cases_complete != TRUE), size = 1, linetype = 3) +
 	geom_text(data = . %>% group_by(year) %>% filter(date == max(date)),
 			  aes(label = year), hjust = -.1, size = 6) +
 	# geom_vline(xintercept = as_date("2020-11-25"), linetype = 3) +
@@ -23,6 +23,6 @@ p <- covid_trends_actual %>%
 		  legend.position = "none") +
 	labs(title = "Minnesota COVID-19 cases by year",
 		 # subtitle = "Confirmed cases by date reported",
-		 subtitle = "By sample date. Dotted line is preliminary data.",
+		 subtitle = "By sample date. The most recent week of data is incomplete and omitted.",
 		 caption = caption)
 fix_ratio(p) %>% image_write(here("images/cases-years-sample.png"))

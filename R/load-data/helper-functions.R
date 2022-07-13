@@ -21,6 +21,7 @@ date_parser <- function(mystring) {
 	}
 }
 
+
 rollmean_n <- function(x, n) {if(is.na(n)) {rollmeanr(x, 7, fill = NA)} else {rollmeanr(x, n, fill = NA)}}
 rollsum_n <- function(x, n) {if(is.na(n)) {rollsumr(x, 7, fill = NA)} else {rollsumr(x, n, fill = NA)}}
 rollmean7 <- function(x) {rollmeanr(x, 7, fill = NA)}
@@ -100,4 +101,26 @@ update_boosters <- function(n) {
 	covid_totals_report <<- covid_totals_report %>%
 		mutate(total_booster_doses = case_when(date == max(date) ~ n, TRUE ~ total_booster_doses)) %>%
 		write_csv(here("data/covid_totals_report.csv"))
+}
+
+comp_tibble <- tibble(object = c("cases_total", "cases_county", "cases_age", "cases_sex", "cases_race",
+								 "hosp_total", "hosp_county", "hosp_age", "hosp_sex", "hosp_race",
+								 "deaths_total", "deaths_county", "deaths_age", "deaths_sex", "deaths_race"),
+					  raw_file = c("cases_total.csv", "cases_county.csv", "cases_age.csv", "cases_sex.csv", "cases_race.csv",
+					  			 "hosp_total.csv", "hosp_county.csv", "hosp_age.csv", "hosp_sex.csv", "hosp_race.csv",
+					  			 "deaths_total.csv", "deaths_county.csv", "deaths_age.csv", "deaths_sex.csv", "deaths_race.csv"),
+					  comp_file = c("comp/comp_cases_total.csv", "comp/comp_cases_county.csv", "comp/comp_cases_age.csv", "comp/comp_cases_sex.csv", "comp/comp_cases_race.csv",
+					  			  "comp/comp_hosp_total.csv", "comp/comp_hosp_county.csv", "comp/comp_hosp_age.csv", "comp/comp_hosp_sex.csv", "comp/comp_hosp_race.csv",
+					  			  "comp/comp_deaths_total.csv", "comp/comp_deaths_county.csv", "comp/comp_deaths_age.csv", "comp/comp_deaths_sex.csv", "comp/comp_deaths_race.csv"),
+					  group_col = rep(c("outcome", "county", "age_group", "sex", "race_ethnicity"), 3))
+
+process_comps <- function(object, comp_file, group_col) {
+	group_col <- syms(group_col)
+	# object <- get(object)
+	bind_rows(get(object),
+			  read_csv(here("data", comp_file))) %>%
+		arrange(report_date, !!!group_col, mmwr_startdate) %>%
+		distinct(report_date, mmwr_startdate, !!!group_col, .keep_all = TRUE) %>%
+		assign(x = object, value = ., envir = globalenv()) %>%
+		write_csv(here("data", comp_file))
 }

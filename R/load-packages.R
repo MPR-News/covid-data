@@ -20,4 +20,5 @@ pacman::p_load(tidyverse,
 			   knitr,
 			   rmarkdown,
 			   kableExtra,
+			   anytime,
 			   zip)

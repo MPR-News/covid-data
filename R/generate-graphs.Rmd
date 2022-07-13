@@ -19,19 +19,23 @@ if(file.exists(here("private-tokens.R"))) {source(here("private-tokens.R"))} els
 ```{r loaddata, message = FALSE}
 source(here("R/load-data/helper-functions.R")) # Load some functions to help process this code
 source(here("R/load-data/scraping-setup.R")) # 
-source(here("R/load-data/scrape-county-data.R"))
-source(here("R/load-data/scrape-cases-sample-date.R"))
-source(here("R/load-data/scrape-reinfections.R"))
-source(here("R/load-data/scrape_tests.R"))
-source(here("R/load-data/scrape-deaths.R"))
-source(here("R/load-data/scrape-hospitals.R"))
-source(here("R/load-data/scrape-demographics.R"))
-source(here("R/load-data/download-hospital-bed-use.R"))
-source(here("R/load-data/process-hosp-capacity.R"))
-if(wday(current_report_date) == 2) {source(here("R/load-data/download-breakthroughs.R"))}
+# source(here("R/load-data/old/scrape-county-data.R"))
+# source(here("R/load-data/old/scrape-cases-sample-date.R"))
+# source(here("R/load-data/old/scrape-reinfections.R"))
+# source(here("R/load-data/old/scrape_tests.R"))
+# source(here("R/load-data/old/scrape-deaths.R"))
+# source(here("R/load-data/old/scrape-hospitals.R"))
+# source(here("R/load-data/old/scrape-demographics.R"))
+# source(here("R/load-data/old/download-hospital-bed-use.R"))
+# source(here("R/load-data/old/process-hosp-capacity.R"))
+source(here("R/load-data/download-breakthroughs.R"))
 source(here("R/load-data/download-vaccines.R"))
 source(here("R/load-data/download-wastewater.R"))
-source(here("R/load-data/process-data.R")) # Load in basic data
+source(here("R/load-data/download-cases.R"))
+source(here("R/load-data/download-hosp.R"))
+source(here("R/load-data/download-deaths.R"))
+source(here("R/load-data/process-data-new.R"))
+# source(here("R/load-data/process-data.R")) # Load in basic data
 source(here("R/load-data/load-other-data.R"))
 ```
 
@@ -46,12 +50,13 @@ source(here("R/gfx/case-report-day.R"))
 ```
 
 ```{r data_by_year}
-source(here("R/gfx/cases-years.R"))
+# source(here("R/gfx/cases-years.R"))
 source(here("R/gfx/cases-years-sample.R"))
 source(here("R/gfx/hosp-years.R"))
 source(here("R/gfx/hosp-trunc.R"))
 source(here("R/gfx/hosp-beds-years.R"))
-source(here("R/gfx/deaths-years.R"))
+# source(here("R/gfx/deaths-years.R"))
+source(here("R/gfx/deaths-years-actual.R"))
 source(here("R/gfx/deaths-ltc-years.R"))
 ```
 
@@ -61,7 +66,7 @@ source(here("R/gfx/change-7day-sample-full.R"))
 source(here("R/gfx/cases-hosp-lag.R"))
 source(here("R/gfx/one-time/wave-comparison.R"))
 source(here("R/gfx/one-time/wave-comparison-rate.R"))
-source(here("R/gfx/pct-reinfections.R"))
+# source(here("R/gfx/pct-reinfections.R"))
 ```
 
 ```{r regions}
@@ -83,7 +88,7 @@ source(here("R/gfx/vax-map-5plus.R"))
 ```
 
 ```{r breakthroughs}
-source(here("R/gfx/breakthrough-share.R"))
+# source(here("R/gfx/breakthrough-share.R"))
 source(here("R/gfx/breakthrough-ratio.R"))
 source(here("R/gfx/breakthrough-effectiveness.R"))
 source(here("R/gfx/breakthrough-ratio-age.R"))
