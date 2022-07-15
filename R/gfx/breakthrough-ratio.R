@@ -23,6 +23,7 @@ p <- breakthroughs_weighted_adults %>%
 					   labels = number_format(suffix = "x", accuracy = 1), trans = "log2") +
 	scale_x_date(date_labels = "%b\n%Y", date_breaks = "4 months", expand = expansion(mult = c(.03, .15))) +
 	scale_color_manual(values = covidmn_colors) +
+	coord_cartesian(clip = "off") +
 	theme_covidmn() +
 	theme(axis.ticks.x = element_line(),
 		  axis.title.x = element_blank(),

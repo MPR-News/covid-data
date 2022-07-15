@@ -1,8 +1,7 @@
 inset_map8 <- left_join(county_map %>%
 							select(geoid = GEOID),
-						combined_county_data %>%
-							select(geoid, region) %>%
-							distinct(geoid, .keep_all = TRUE) %>%
+						cases_county %>% 
+							distinct(geoid, region) %>%
 							mutate(region = fct_relevel(region, "Northwest", "Northeast", "Hennepin/Ramsey", "West Central", "East Central", "Metro suburbs", "Southwest", "Southeast")) %>%
 							mutate(geoid = as.character(geoid)),
 						by = "geoid") %>%
