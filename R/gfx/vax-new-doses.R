@@ -1,8 +1,23 @@
-p <- covid_trends_report %>%
+p <- vaccine_1x_gender %>%
+	group_by(report_date) %>%
+	summarize(across(is.numeric, sum, .names = '{str_replace_all({.col}, "people_", "total_vax_")}')) %>%
+	arrange(report_date) %>%
+	transmute(date = report_date, (across(c(-date, -report_date), ~. - lag(.), .names = '{str_replace_all({.col}, "total_", "new_")}'))) %>% 
+	full_join(tibble(date = seq(from = min(vaccine_1x_gender$report_date), to = max(vaccine_1x_gender$report_date), by = "day")),
+			  by = "date") %>% 
+	arrange(date) %>%
+	filter(date > min(date)) %>%
+	mutate(day_avg = case_when(is.na(new_vax_onedose) ~ 0, TRUE ~ 1)) %>%
+	mutate(day_avg = rollsumr(day_avg, 7, fill = "extend")) %>%
+	filter(!is.na(new_vax_onedose)) %>%
+	filter(day_avg > 0) %>%
+	arrange(date) %>%
+	mutate(new_vax_onedose = rollmean_new(new_vax_onedose, day_avg),
+		   new_vax_complete = rollmean_new(new_vax_complete, day_avg),
+		   new_vax_boosted = rollmean_new(new_vax_boosted, day_avg)) %>%
 	pivot_longer(c(new_vax_onedose, new_vax_complete, new_vax_boosted)) %>%
 	mutate(name = str_replace_all(name, "new_vax_onedose", "First") %>% str_replace_all("new_vax_complete", "Final") %>% str_replace_all("new_vax_boosted", "Booster") %>% fct_relevel("First", "Final", "Booster")) %>%
 	filter(value >= 0) %>%
-	select(date, name, value) %>% 
 	ggplot(aes(x = date, y= value, color = name)) +
 	geom_line(size = 1.5) + 
 	geom_hline(data = . %>% group_by(name) %>% filter(date == max(date)), 
@@ -21,4 +36,5 @@ p <- covid_trends_report %>%
 	labs(title = "New MN <span style='color:#56B4E9'>first</span>, <span style='color:#E69F00'>final</span> and <span style='color:#009E73'>booster</span> doses, by day",
 		 subtitle = "Lines represent seven-day averages",
 		 caption = caption)
+
 fix_ratio(p) %>% image_write(here("images/new-first-second-doses.png"))

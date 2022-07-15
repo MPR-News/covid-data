@@ -17,6 +17,9 @@ cases_county <- "https://www.health.state.mn.us/diseases/coronavirus/stats/ccoun
 	rename("new_cases" = case_count,
 		   "new_cases_percap" = rate) %>%
 	mutate(report_date = current_report_date) %>%
+	mutate(county = str_remove_all(county, " County") %>% str_to_title()) %>%
+	left_join(read_csv(here("data-input/county-details.csv")), by = "county") %>% 
+	select(year, week, county, geoid, region, pop, report_date, everything()) %>%
 	write_csv(here("data/cases_county.csv"))
 
 cases_age <- "https://www.health.state.mn.us/diseases/coronavirus/stats/cage.csv" %>%

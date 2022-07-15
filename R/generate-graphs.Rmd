@@ -57,7 +57,7 @@ source(here("R/gfx/hosp-trunc.R"))
 source(here("R/gfx/hosp-beds-years.R"))
 # source(here("R/gfx/deaths-years.R"))
 source(here("R/gfx/deaths-years-actual.R"))
-source(here("R/gfx/deaths-ltc-years.R"))
+# source(here("R/gfx/deaths-ltc-years.R"))
 ```
 
 ```{r}
@@ -100,7 +100,7 @@ source(here("R/gfx/wastewater-load-trunc.R"))
 source(here("R/gfx/wastewater-variants.R"))
 source(here("R/gfx/wastewater-variants-ba2.R"))
 source(here("R/gfx/wastewater-change-7day.R"))
-source(here("R/gfx/one-time/wastewater-chg-comp.R"))
+# source(here("R/gfx/one-time/wastewater-chg-comp.R"))
 ```
 
 ## Publish

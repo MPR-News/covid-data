@@ -55,7 +55,6 @@ comp_tibble %>%
 	slice(1) %>%
 	pmap(process_comps)
 
-# 
 # list(cases_total %>% 
 # 	 	group_by(report_date) %>%
 # 	 	summarize(new_cases = sum(new_cases)),
