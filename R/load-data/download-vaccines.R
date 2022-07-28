@@ -1,6 +1,6 @@
 if(!exists("date_parser")) {source(here("R/helper-functions.R"))}
 
-# is_captcha <- FALSE
+is_captcha <- FALSE
 
 vaccine_doses <- url_picker("vaccine_doses", is_captcha) %>%
 	GET(user_agent(user_agent)) %>%

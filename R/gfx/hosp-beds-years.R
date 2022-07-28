@@ -1,11 +1,11 @@
-p <- clean_hosp_capacity %>%
-	select(date, inuse_icu_covid, inuse_non_icu_covid) %>%
+p <- hosp_beds %>%
+	filter(region == "State", report_date == max(report_date)) %>%
+	select(date, contains("beds_covid")) %>%
 	pivot_longer(-date, names_to = "bed_type") %>%
-	mutate(bed_type = case_when(bed_type == "inuse_icu_covid" ~ "ICU", TRUE ~ "Non-ICU")) %>%
-	filter(!is.na(value)) %>%
-	filter(date < current_report_date - 2) %>%
+	mutate(bed_type = case_when(str_detect(bed_type, "non_") ~ "Non-ICU", TRUE ~ "ICU")) %>%
 	mutate(year = year(date) %>% as.character()) %>%
 	mutate(display_date = paste("2020", month(date), mday(date), sep = "-") %>% as_date()) %>%
+	filter(date < current_report_date - 2) %>%
 	ggplot(aes(x = display_date, y = value, color = year)) +
 	geom_line(size = 1) +
 	geom_hline(data = . %>% filter(date == max(date)), aes(yintercept = value, color = year), linetype = 3) +

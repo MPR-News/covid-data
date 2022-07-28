@@ -52,7 +52,7 @@ hosp_race <- "https://www.health.state.mn.us/diseases/coronavirus/stats/hrace.cs
 hosp_beds <- "https://www.health.state.mn.us/diseases/coronavirus/stats/hcdsource.csv" %>%
 	GET(user_agent(user_agent)) %>% 
 	content(encoding = "UTF-8") %>%
-	mutate(date = mdy(date)) %>%
+	mutate(date = date_parser(date)) %>%
 	mutate(report_date = current_report_date) %>%
 	write_csv(here("data/hosp_beds.csv")) 
 
