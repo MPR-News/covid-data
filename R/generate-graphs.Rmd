@@ -110,5 +110,5 @@ source(here("R/zip-graphics.R"))
 ```
 
 ```{r dashboard, message = FALSE}
-# source(here("R/generate-dashboard.R"))
+source(here("R/generate-dashboard.R"))
 ```

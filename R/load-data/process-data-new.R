@@ -7,7 +7,9 @@ covid_data_actual <- list(cases_total, hosp_total, deaths_total) %>%
 	mutate(new_nonicu = new_hosp - new_icu) %>%
 	mutate(day = wday(date, label = TRUE, abbr = FALSE), .after = date) %>%
 	mutate(cases_complete = case_when(date <= current_report_date - 7 ~ TRUE, TRUE ~ FALSE),
-		   deaths_complete = case_when(date <= current_report_date - 21 ~ TRUE, TRUE ~ FALSE))
+		   deaths_complete = case_when(date <= current_report_date - 21 ~ TRUE, TRUE ~ FALSE)) %>%
+	write_csv(here("data/covid_data_actual.csv"))
+	
 
 covid_trends_actual <- list(cases_total, hosp_total, deaths_total) %>%
 	map(select, date, outcome, contains("7day")) %>%
@@ -17,7 +19,8 @@ covid_trends_actual <- list(cases_total, hosp_total, deaths_total) %>%
 	mutate(new_nonicu = new_hosp - new_icu) %>%
 	mutate(day = wday(date, label = TRUE, abbr = FALSE), .after = date) %>%
 	mutate(cases_complete = case_when(date <= current_report_date - 7 ~ TRUE, TRUE ~ FALSE),
-		   deaths_complete = case_when(date <= current_report_date - 21 ~ TRUE, TRUE ~ FALSE))
+		   deaths_complete = case_when(date <= current_report_date - 21 ~ TRUE, TRUE ~ FALSE)) %>%
+	write_csv(here("data/covid_trends_actual.csv"))
 
 # Archive data by report date
 
