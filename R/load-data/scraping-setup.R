@@ -20,6 +20,8 @@ current_report_date <- situation_report %>%
 
 if(is.na(current_report_date)) {stop("Date not acquired")}
 
+write(as.character(current_report_date), file = here("data/current_report_date.txt"))
+
 # scrape_totals <- function() {
 # 	total_booster_doses <- readline("total_booster_doses = ") %>% parse_number()
 # 	tibble(metric = c("cases_removed", 

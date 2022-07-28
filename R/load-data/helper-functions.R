@@ -29,7 +29,9 @@ rollmean6 <- function(x) {rollmeanr(x, 6, fill = NA)}
 rollsum7 <- function(x) {rollsumr(x, 7, fill = NA)}
 rollsum6 <- function(x) {rollsumr(x, 6, fill = NA)}
 
-rollsum_new <- function(x, y) {case_when(y == 3 ~ rollsumr(x, 3, fill = NA),
+rollsum_new <- function(x, y) {case_when(y == 1 ~ rollsumr(x, 1, fill = NA),
+										 y == 2 ~ rollsumr(x, 2, fill = NA),
+										 y == 3 ~ rollsumr(x, 3, fill = NA),
 										 y == 4 ~ rollsumr(x, 4, fill = NA),
 										 y == 5 ~ rollsumr(x, 5, fill = NA),
 										 y == 6 ~ rollsumr(x, 6, fill = NA),

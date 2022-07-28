@@ -20,7 +20,6 @@ p <- vaccine_1x_age %>%
 	mutate(pct_onedose = people_onedose / pop,
 		   pct_complete = people_complete / pop,
 		   pct_boosted = people_boosted / pop) %>%
-	mutate(pct_boosted = case_when(age == "5-11" ~ NA_real_, TRUE ~ pct_boosted)) %>%
 	mutate(age = fct_relevel(age, "0.5-4", "5-11", "12-15", "16-17", "18-49", "50-64", "65+")) %>%
 	filter(report_date == max(report_date)) %>%
 	ggplot(aes(x = fct_rev(age))) +
