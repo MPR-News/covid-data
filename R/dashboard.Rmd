@@ -26,7 +26,7 @@ current_report_date <- read_lines(here("data/current_report_date.txt")) %>% as_d
 ```
 
 
-# Overall data {.tabset}
+# Overall data
 
 ## By actual date
 
