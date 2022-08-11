@@ -25,6 +25,7 @@ cases_county <- "https://www.health.state.mn.us/diseases/coronavirus/stats/ccoun
 cases_age <- "https://www.health.state.mn.us/diseases/coronavirus/stats/cage.csv" %>%
 	GET(user_agent(user_agent)) %>% 
 	content(encoding = "UTF-8") %>%
+	mutate(age_group = fct_recode(age_group, "5-11" = "11-May", "12-17" = "17-Dec")) %>%
 	separate(spec_date_mmwr, c("year", "week"), sep = 4, convert = TRUE) %>%
 	mutate(across(contains("date"), anydate)) %>%
 	rename("new_cases" = case_count,
