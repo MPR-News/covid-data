@@ -6,7 +6,7 @@ cases_total <- "https://www.health.state.mn.us/diseases/coronavirus/stats/c7day.
 	mutate(report_date = current_report_date,
 		   date = mdy(date)) %>%
 	rename("new_cases" = case_count,
-		   "new_cases_7day" = cases) %>%
+		   "new_cases_percap" = Rate) %>%
 	write_csv(here("data/cases_total.csv"))
 
 cases_county <- "https://www.health.state.mn.us/diseases/coronavirus/stats/ccounty.csv" %>%
@@ -50,7 +50,7 @@ cases_race <- "https://www.health.state.mn.us/diseases/coronavirus/stats/crace.c
 	separate(spec_date_mmwr, c("year", "week"), sep = 4, convert = TRUE) %>%
 	mutate(across(contains("date"), anydate)) %>%
 	rename("new_cases" = case_count,
-		   "new_cases_percap" = rate) %>%
+		   "new_cases_percap" = crude_rate) %>%
 	mutate(report_date = current_report_date) %>%
 	write_csv(here("data/cases_race.csv"))
 
