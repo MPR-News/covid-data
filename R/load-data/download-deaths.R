@@ -3,8 +3,9 @@ if(!exists("current_report_date")) {source(here("R/scraping-setup.R"))}
 deaths_total <- "https://www.health.state.mn.us/diseases/coronavirus/stats/d7day.csv" %>%
 	GET(user_agent(user_agent)) %>% 
 	content(encoding = "UTF-8") %>%
-	select(date, new_deaths = case_count, new_deaths_7day = cases, outcome) %>%
-	mutate(report_date = current_report_date) %>%
+	select(date, new_deaths = case_count, new_deaths_percap = Rate, outcome) %>%
+	mutate(report_date = current_report_date,
+		   date = mdy(date)) %>%
 	write_csv(here("data/deaths_total.csv")) 
 
 deaths_county <- "https://www.health.state.mn.us/diseases/coronavirus/stats/dcounty.csv" %>%
