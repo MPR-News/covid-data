@@ -4,7 +4,7 @@ p <- wastewater %>%
 	distinct(date, copies_day_person_M_mn, .keep_all = TRUE) %>%
 	mutate(copies_7day = rollmeanr(copies_day_person_M_mn, 7, fill = "extend")) %>%
 	mutate(olympic_7day = (rollsumr(copies_day_person_M_mn, 7, fill = "extend") - rollmaxr(copies_day_person_M_mn, 7, fill = "extend") + rollmaxr(-copies_day_person_M_mn, 7, fill = "extend")) / 5) %>%
-	filter(date >= as_date("2022-4-1")) %>%
+	filter(date >= current_report_date - 60) %>%
 	ggplot(aes(x = date, y = copies_day_person_M_mn)) +
 	geom_col() +
 	geom_line(aes(y = copies_7day), size = 1.5, color = covidmn_colors[4]) +
