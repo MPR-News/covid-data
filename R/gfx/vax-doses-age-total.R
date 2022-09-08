@@ -1,22 +1,27 @@
+
+
 p <- vaccine_1x_age %>%
 	filter(age != "Unknown/Missing", age != "Unknown/missing") %>%
 	mutate(age = str_remove_all(age, " years")) %>%
 	mutate(report_date = as_date(report_date)) %>%
-	left_join(read_csv(here("data-input/mn-age-pop.csv")) %>%
-			  	filter(NAME == "Minnesota", SEX == 0, AGE >= 0, AGE != 999) %>%
-			  	select(age = AGE, POPEST2015_CIV:POPEST2019_CIV) %>% #, pop = POPEST2019_CIV) %>%
-			  	mutate(age_bracket = case_when(age %in% 1:4 ~ "0.5-4",
-			  								   age %in% 5:11 ~ "5-11",
-			  								   age %in% 12:15 ~ "12-15",
-			  								   age %in% 16:17 ~ "16-17",
-			  								   age %in% 18:49 ~ "18-49",
-			  								   age %in% 50:64 ~ "50-64",
-			  								   age >= 65 ~ "65+")) %>%
-			  	group_by(age = age_bracket) %>%
-			  	summarize(across(is.numeric, sum)) %>%
-			  	filter(!is.na(age)) %>%
-			  	transmute(age, pop = (POPEST2015_CIV + POPEST2016_CIV + POPEST2017_CIV + POPEST2018_CIV + POPEST2019_CIV) / 5),
+	left_join(tibble(age = c("0.5-4", "5-11", "12-15", "16-17", "18-49", "50-64", "65+") %>% as_factor(),
+					 pop = c(316497, 509735, 290688, 143046, 2294817, 1114015, 490739 + 367959)),
 			  by = "age") %>%
+	# left_join(read_csv(here("data-input/mn-age-pop.csv")) %>%
+	# 		  	filter(NAME == "Minnesota", SEX == 0, AGE >= 0, AGE != 999) %>%
+	# 		  	select(age = AGE, POPEST2015_CIV:POPEST2019_CIV) %>% #, pop = POPEST2019_CIV) %>%
+	# 		  	mutate(age_bracket = case_when(age %in% 1:4 ~ "0.5-4",
+	# 		  								   age %in% 5:11 ~ "5-11",
+	# 		  								   age %in% 12:15 ~ "12-15",
+	# 		  								   age %in% 16:17 ~ "16-17",
+	# 		  								   age %in% 18:49 ~ "18-49",
+	# 		  								   age %in% 50:64 ~ "50-64",
+	# 		  								   age >= 65 ~ "65+")) %>%
+	# 		  	group_by(age = age_bracket) %>%
+	# 		  	summarize(across(is.numeric, sum)) %>%
+	# 		  	filter(!is.na(age)) %>%
+	# 		  	transmute(age, pop = (POPEST2015_CIV + POPEST2016_CIV + POPEST2017_CIV + POPEST2018_CIV + POPEST2019_CIV) / 5),
+	# 		  by = "age") %>%
 	mutate(pct_onedose = people_onedose / pop,
 		   pct_complete = people_complete / pop,
 		   pct_boosted = people_boosted / pop) %>%
