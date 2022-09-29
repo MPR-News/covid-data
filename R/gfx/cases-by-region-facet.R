@@ -13,6 +13,7 @@ p <- cases_county %>%
 					 color = covidmn_colors[c(7, 6, 1, 5, 3, 2, 8, 4)])) %>%
 	mutate(region_label = paste0("<strong><span style='color:", color, "'>", region, "</span></strong>") %>% fct_reorder(region_order)) %>%
 	filter(date < max(date)) %>%
+	filter(!is.na(region)) %>%
 	ggplot(aes(x = date, y = cases_percap, color = color)) +
 	geom_line(size = 1.5) +
 	geom_hline(data = . %>% filter(date == max(date)), aes(yintercept = cases_percap, color = color), linetype = 3) +

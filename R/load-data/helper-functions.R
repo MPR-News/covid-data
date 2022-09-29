@@ -49,18 +49,18 @@ hospitals_dir <- tibble(name = c("TELETRACKING", "MNTRAC"),
 									 here("captcha-bypass/MNTRAC_ICU_NonICU_BedAvailability_IdentifiedSurge_CSV_tcm1148-455098.csv")))
 
 vaccine_dir <- tibble(name = c("vaccine_doses", "vaccine_age", "vaccine_gender", "vaccine_providers", "vaccine_1x_county", "vaccine_1x_age", "vaccine_1x_gender", "doses_shipped", "vaccine_1x_age_county", "vaccine_race", "vaccine_race_progress", "vaccine_zip"), 
-					  url = c("https://mn.gov/covid19/assets/Doses%20Administered_tcm1148-513630.csv", 
-					  		"https://mn.gov/covid19/assets/Doses%20Administered%20By%20Age_tcm1148-513626.csv",
-					  		"https://mn.gov/covid19/assets/Doses%20Administered%20By%20Gender_tcm1148-513627.csv",
-					  		"https://mn.gov/covid19/assets/Doses%20Administered%20By%20Provider_tcm1148-513628.csv",
-					  		"https://mn.gov/covid19/assets/People%20Vaccinated%2C%20By%20County_tcm1148-513635.csv",
-					  		"https://mn.gov/covid19/assets/People%20Vaccinated%2C%20By%20Age_tcm1148-513634.csv",
-					  		"https://mn.gov/covid19/assets/People%20Vaccinated%2C%20By%20Gender_tcm1148-513636.csv",
-					  		"https://mn.gov/covid19/assets/Doses%20shipped%20to%20Minnesota%20providers%2C%20by%20product_tcm1148-513632.csv",
-					  		"https://mn.gov/covid19/assets/Percent%20of%20Age%20Group%20Population%20Vaccinated_tcm1148-513637.csv",
-					  		"https://mn.gov/covid19/assets/Vaccinations%20by%20Race%20and%20Ethnicity_tcm1148-470631.csv",
-					  		"https://mn.gov/covid19/assets/Vaccination%20Progress%20to%20Date%2C%20by%20Race%20and%20Ethnicity_tcm1148-470630.csv",
-					  		"https://mn.gov/covid19/assets/People%20Vaccinated%2C%20By%20ZIP_tcm1148-513788.csv"
+					  url = c("https://www.health.state.mn.us/diseases/coronavirus/stats/vaxdp.csv", #vaccine_doses
+					  		"https://www.health.state.mn.us/diseases/coronavirus/stats/vaxdemodage.csv", #vaccine_age
+					  		"https://www.health.state.mn.us/diseases/coronavirus/stats/vaxdemodsex.csv", #vaccine_gender
+					  		"https://www.health.state.mn.us/diseases/coronavirus/stats/vaxdap.csv", #vaccine_providers
+					  		"https://www.health.state.mn.us/diseases/coronavirus/stats/vaxpplcty.csv", #vaccine_1x_county
+					  		"https://www.health.state.mn.us/diseases/coronavirus/stats/vaxdemopplage.csv", #vaccine_1x_age
+					  		"https://www.health.state.mn.us/diseases/coronavirus/stats/vaxdemopplsex.csv", #vaccine_1x_gender
+					  		"https://mn.gov/covid19/assets/Doses%20shipped%20to%20Minnesota%20providers%2C%20by%20product_tcm1148-513632.csv", #doses_shipped
+					  		"https://www.health.state.mn.us/diseases/coronavirus/stats/vaxdemoagepop.csv", #waccine_1x_age_county
+					  		"https://www.health.state.mn.us/diseases/coronavirus/stats/vaxhere.csv", #vaccine_race
+					  		"https://www.health.state.mn.us/diseases/coronavirus/stats/vaxheotre.csv", #vaccine_race_progress
+					  		"https://www.health.state.mn.us/diseases/coronavirus/stats/vaxpplzip.csv" #vaccine_zip
 					  ),
 					  url2 = c(rep(NA_character_, 7), "https://mn.gov/covid19/assets/Doses%20shipped%20for%20CDC%20federal%20pharmacy%20program%2C%20by%20product_tcm1148-513631.csv", rep(NA_character_, 4)),
 					  filepath = c(here("captcha-bypass/Doses Administered_tcm1148-513630.csv"), 

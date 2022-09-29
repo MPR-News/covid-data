@@ -28,5 +28,5 @@ p <- cases_county %>%
 	labs(title = "Weekly COVID-19 cases in Minnesota regions",
 		 subtitle = "Per 100,000 residents. Recent weeks may have incomplete data.",
 		 capton = caption) +
-	annotation_custom(grob = ggplotify::as.grob(inset_map8), xmin = current_report_date - 35, xmax = current_report_date - 20, ymin = 5, ymax = 150)
+	annotation_custom(grob = ggplotify::as.grob(inset_map8), xmin = current_report_date - 40, xmax = current_report_date - 20, ymin = 5, ymax = 100)
 fix_ratio(p) %>% image_write(here("images/cases-by-region-trunc.png"))
