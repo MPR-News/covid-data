@@ -1,5 +1,3 @@
-
-
 p <- vaccine_1x_age %>%
 	filter(age != "Unknown/Missing", age != "Unknown/missing") %>%
 	mutate(age = str_remove_all(age, " years")) %>%
@@ -19,16 +17,15 @@ p <- vaccine_1x_age %>%
 	geom_text(aes(y = pct_onedose, label = percent(pct_onedose, accuracy = .1)), 
 			  hjust = -.1, color = "black", size = 6) +
 	geom_text(aes(y = pct_complete, label = percent(pct_complete, accuracy = .1), hjust = case_when(pct_complete < 0.05 ~ -.1, TRUE ~ 1.1),
-				  alpha = case_when(pct_complete < 0.05 ~ 0, TRUE ~ 1)), 
+				  alpha = case_when(pct_complete < 0.06 ~ 0, TRUE ~ 1)), 
 			  color = "white", size = 6) +
 	geom_text(aes(y = pct_boosted, label = percent(pct_boosted, accuracy = .1), hjust = case_when(pct_boosted < 0.05 ~ -.1, TRUE ~ 1.1),
-				  alpha = case_when(pct_boosted < 0.05 ~ 0, TRUE ~ 1)), 
+				  alpha = case_when(pct_boosted < 0.06 ~ 0, TRUE ~ 1)), 
 			  color = "white", size = 6) +
 	scale_y_continuous(expand = expansion(mult = c(0, .12))) +
 	scale_color_identity() + 
 	scale_alpha_identity() +
 	scale_fill_manual(values = covidmn_colors) +
-	# expand_limits(y = 4478797) +
 	coord_flip() +
 	theme_covidmn() +
 	theme(axis.title = element_blank(),
