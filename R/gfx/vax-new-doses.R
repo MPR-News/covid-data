@@ -1,6 +1,6 @@
 p <- vaccine_1x_gender %>%
 	group_by(report_date) %>%
-	summarize(across(is.numeric, sum, .names = '{str_replace_all({.col}, "people_", "total_vax_")}')) %>%
+	summarize(across(is.numeric, sum, na.rm = TRUE, .names = '{str_replace_all({.col}, "people_", "total_vax_")}')) %>%
 	arrange(report_date) %>%
 	transmute(date = report_date, (across(c(-date, -report_date), ~. - lag(.), .names = '{str_replace_all({.col}, "total_", "new_")}'))) %>% 
 	full_join(tibble(date = seq(from = min(vaccine_1x_gender$report_date), to = max(vaccine_1x_gender$report_date), by = "day")),
@@ -17,7 +17,8 @@ p <- vaccine_1x_gender %>%
 		   new_vax_boosted = rollmean_new(new_vax_boosted, day_avg)) %>%
 	pivot_longer(c(new_vax_onedose, new_vax_complete, new_vax_boosted)) %>%
 	mutate(name = str_replace_all(name, "new_vax_onedose", "First") %>% str_replace_all("new_vax_complete", "Final") %>% str_replace_all("new_vax_boosted", "Booster") %>% fct_relevel("First", "Final", "Booster")) %>%
-	filter(value >= 0) %>%
+	filter(value >= 0, value < 100000) %>%
+	filter(date >= as_date("2022-04-01")) %>%
 	ggplot(aes(x = date, y= value, color = name)) +
 	geom_line(size = 1.5) + 
 	geom_hline(data = . %>% group_by(name) %>% filter(date == max(date)), 
