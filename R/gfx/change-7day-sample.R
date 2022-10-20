@@ -4,7 +4,7 @@ p <- covid_trends_actual %>%
 	pivot_longer(-date, names_prefix = "new_") %>%
 	group_by(name) %>%
 	mutate(pct_chg = value / lag(value, 7) - 1) %>%
-	filter(date > max(date) - 150) %>%
+	filter(date > max(date) - 120) %>%
 	ggplot(aes(x = date, y = pct_chg, color = name)) +
 	geom_hline(yintercept = 0, linetype = 2) +
 	geom_line(size = 1.5) +
