@@ -14,6 +14,7 @@ p <- cases_age %>%
 				 breaks = seq(as_date("2020-01-01"), as_date("2021-1-1"), by = "month")) +
 	scale_y_continuous(expand = expansion(mult = c(0, 0.02)), limits = c(0, NA),
 					   sec.axis = dup_axis(), labels = comma_format(accuracy = 1)) +
+	scale_color_manual(values = covidmn_colors) +
 	coord_cartesian(clip = "off") +
 	theme_covidmn() +
 	theme(axis.title = element_blank(),
