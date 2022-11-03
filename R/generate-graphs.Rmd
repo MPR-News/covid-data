@@ -78,6 +78,7 @@ source(here("R/gfx/cases-by-region-trunc.R"))
 ```{r demographics}
 source(here("R/gfx/cases-race.R"))
 source(here("R/gfx/cases-age-current.R"))
+source(here("R/gfx/cases-age-65.R"))
 ```
 
 ```{r vaccines}
