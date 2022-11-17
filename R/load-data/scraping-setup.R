@@ -10,7 +10,8 @@ situation_report <- url %>%
 	read_html()
 
 current_report_date <- situation_report %>%
-	html_nodes(xpath = '//*[@id="body"]/div[1]/p/strong') %>%
+	# html_nodes(xpath = '//*[@id="body"]/div[1]/p/strong') %>%
+	html_nodes(xpath = '//*[@id="block-bootstrap-mdh-content"]/div/div/div[2]/div[1]/div[1]/div/p/strong') %>%
 	html_text() %>%
 	str_remove_all("Updated ") %>%
 	str_split(" \r| \n") %>%

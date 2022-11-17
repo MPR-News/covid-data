@@ -2,7 +2,7 @@ if(!exists("current_report_date")) {source(here("R/scraping-setup.R"))}
 
 deaths_total <- "https://www.health.state.mn.us/diseases/coronavirus/stats/d7day.csv" %>%
 	GET(user_agent(user_agent)) %>% 
-	content(encoding = "UTF-8") %>%
+	content(encoding = "UTF-8", type = "text/csv") %>%
 	select(date, new_deaths = case_count, new_deaths_percap = Rate, outcome) %>%
 	mutate(report_date = current_report_date,
 		   date = mdy(date)) %>%
@@ -10,7 +10,7 @@ deaths_total <- "https://www.health.state.mn.us/diseases/coronavirus/stats/d7day
 
 deaths_county <- "https://www.health.state.mn.us/diseases/coronavirus/stats/dcounty.csv" %>%
 	GET(user_agent(user_agent)) %>% 
-	content(encoding = "UTF-8") %>%
+	content(encoding = "UTF-8", type = "text/csv") %>%
 	separate(death_date_mmwr, c("year", "week"), sep = 4, convert = TRUE) %>%
 	mutate(across(contains("date"), mdy)) %>%
 	mutate(report_date = current_report_date) %>%
@@ -19,7 +19,7 @@ deaths_county <- "https://www.health.state.mn.us/diseases/coronavirus/stats/dcou
 
 deaths_age <- "https://www.health.state.mn.us/diseases/coronavirus/stats/dage.csv" %>%
 	GET(user_agent(user_agent)) %>% 
-	content(encoding = "UTF-8") %>%
+	content(encoding = "UTF-8", type = "text/csv") %>%
 	separate(death_date_mmwr, c("year", "week"), sep = 4, convert = TRUE) %>%
 	mutate(across(contains("date"), mdy)) %>%
 	mutate(report_date = current_report_date) %>%
@@ -28,7 +28,7 @@ deaths_age <- "https://www.health.state.mn.us/diseases/coronavirus/stats/dage.cs
 
 deaths_sex <- "https://www.health.state.mn.us/diseases/coronavirus/stats/dsex.csv" %>%
 	GET(user_agent(user_agent)) %>% 
-	content(encoding = "UTF-8") %>%
+	content(encoding = "UTF-8", type = "text/csv") %>%
 	separate(death_date_mmwr, c("year", "week"), sep = 4, convert = TRUE) %>%
 	mutate(across(contains("date"), mdy)) %>%
 	mutate(report_date = current_report_date) %>%
@@ -37,7 +37,7 @@ deaths_sex <- "https://www.health.state.mn.us/diseases/coronavirus/stats/dsex.cs
 
 deaths_race <- "https://www.health.state.mn.us/diseases/coronavirus/stats/drace.csv" %>%
 	GET(user_agent(user_agent)) %>% 
-	content(encoding = "UTF-8") %>%
+	content(encoding = "UTF-8", type = "text/csv") %>%
 	separate(death_date_mmwr, c("year", "week"), sep = 4, convert = TRUE) %>%
 	mutate(across(contains("date"), mdy)) %>%
 	mutate(report_date = current_report_date) %>%
