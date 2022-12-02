@@ -2,14 +2,16 @@ if(!exists("wastewater_variants")) {source(here("R/download-wastewater.R"))}
 
 p <- wastewater_variants %>%
 	filter(!is.na(frequency_7day)) %>%
-	mutate(variant = case_when(variant == "Omicron BA.2 (Excluding BA.2.12.1)" ~ "Omicron BA.2", TRUE ~ variant)) %>%
+	mutate(variant = case_when(variant == "Omicron BA.2 (Excluding BA.2.12.1)" ~ "Omicron BA.2", 
+							   variant == "Omicron BA.5 (Excluding BQ.1)" ~ "Omicron BA.5", 
+							   TRUE ~ variant)) %>%
 	ggplot(aes(x = date, y = frequency_7day, color = variant)) +
 	geom_line(size = 1.5)  +
 	geom_text(data = . %>% group_by(variant) %>% slice_max(frequency_7day, with_ties = FALSE), 
 			  aes(label = variant), vjust = -.2, hjust = 1, size = 5) +
 	scale_y_continuous(labels = percent_format(), sec.axis = dup_axis(), expand = expansion(mult = c(0, 0.08))) +
 	scale_x_date(date_breaks = "2 months", date_labels = "%b\n%Y", expand = expansion(mult = .01)) +
-	scale_color_manual(values = covidmn_colors) +
+	scale_color_manual(values = c(covidmn_colors, "grey50")) +
 	expand_limits(y = 0) +
 	coord_cartesian(clip = "off") +
 	theme_covidmn_line() +
