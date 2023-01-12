@@ -3,9 +3,7 @@ p <- covid_trends_actual %>%
 	filter(date > max(date)-42) %>%
 	pivot_longer(c(new_icu, new_nonicu), names_prefix = "new_") %>%
 	mutate(name = str_replace_all(name, "icu", "ICU") %>% str_replace_all("non", "Non-")) %>%
-	mutate(year = year(date) %>% as.character()) %>%
-	mutate(display_date = paste("2020", month(date), mday(date), sep = "-") %>% as_date()) %>%
-	ggplot(aes(x = display_date, y = value)) +
+	ggplot(aes(x = date, y = value)) +
 	geom_line(size = 1) +
 	geom_point(data = . %>% group_by(name) %>% filter(date == max(date)), size = 3) +
 	geom_hline(data = . %>% filter(date == max(date)), aes(yintercept = value), linetype = 3) +
