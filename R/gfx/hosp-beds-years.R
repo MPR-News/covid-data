@@ -22,7 +22,7 @@ p <- hosp_beds %>%
 		  plot.subtitle = element_markdown(),
 		  legend.position = "none") +
 	labs(title = "COVID-19 hospital bed use in Minnesota",
-		 subtitle = "In <span style='color:#E69F00'>2020</span>, <span style='color:#56B4E9'>2021</span> and <span style='color:#009E73'>2022</span>",
+		 subtitle = "In <span style='color:#E69F00'>2020</span>, <span style='color:#56B4E9'>2021</span>, <span style='color:#009E73'>2022</span> and <span style='color:#D55E00'>2023</span>",
 		 caption = caption,
 		 y = "Hospital beds")
 fix_ratio(p) %>% image_write(here("images/hospital-bed-use-flipped.png"))
