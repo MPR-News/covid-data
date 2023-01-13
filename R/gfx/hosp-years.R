@@ -21,7 +21,7 @@ p <- covid_trends_actual %>%
 		  plot.subtitle = element_markdown(lineheight = 1.1),
 		  legend.position = "none") +
 	labs(title = "New ICU and non-ICU COVID hospitalizations in MN",
-		 subtitle = "By admission date in <span style='color:#E69F00'>2020</span>, <span style='color:#56B4E9'>2021</span> and <span style='color:#009E73'>2022</span>. The most recent week of<br>data is incomplete and omitted.",
+		 subtitle = "By admission date in <span style='color:#E69F00'>2020</span>, <span style='color:#56B4E9'>2021</span>, <span style='color:#009E73'>2022</span> and <span style='color:#D55E00'>2023</span>. The most recent week of<br>data is incomplete and omitted.",
 		 caption = caption,
 		 y = "New admissions")
 fix_ratio(p) %>% image_write(here("images/new-hospital-admissions-both.png"))

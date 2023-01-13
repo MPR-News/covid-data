@@ -9,7 +9,7 @@ p <- wastewater %>%
 	geom_hline(data = . %>% filter(date == max(date)), aes(yintercept = copies_7day), linetype = 3) +
 	geom_point(data = . %>% filter(date == max(date)), aes(y = copies_7day), size = 3) +
 	scale_y_continuous(expand = expansion(mult = c(0, 0.05)), sec.axis = dup_axis(), labels = comma_format(suffix = "M")) +
-	scale_x_date(date_breaks = "2 months", date_labels = "%b\n%Y", expand = expansion(mult = .01)) +
+	scale_x_date(date_breaks = "3 months", date_labels = "%b\n%Y", expand = expansion(mult = .01)) +
 	expand_limits(y = 0) +
 	theme_covidmn_line() +
 	theme(axis.title = element_blank()) +
