@@ -1,6 +1,6 @@
 p <- cdc %>% 
 	filter(date == max(date)) %>%
-	select(onedose_all = administered_dose1_recip, complete_all = series_complete_yes, onedose_18 = administered_dose1_recip_3, complete_18 = series_complete_18plus, booster_all = additional_doses) %>%
+	select(onedose_all = administered_dose1_recip, complete_all = series_complete_yes, onedose_18 = administered_dose1_recip_18plus, complete_18 = series_complete_18plus, booster_all = additional_doses) %>%
 	pivot_longer(everything(), names_sep = "_", names_to = c("name", "population")) %>%
 	mutate(name = case_when(name == "onedose" ~ "At least one dose", 
 							name == "booster" ~ "XBoosters",
