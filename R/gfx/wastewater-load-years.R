@@ -8,6 +8,7 @@ p <- wastewater %>%
 		   display_date = paste0("2020-", yday) %>% as.Date(format = "%Y-%j")) %>%
 	ggplot(aes(x = display_date, y = copies_7day, color = year)) +
 	geom_line(size = 1.5) +
+	geom_hline(data = . %>% filter(date == max(date)), aes(yintercept = copies_7day, color = year), linetype = 2) +
 	geom_text(data = . %>% group_by(year) %>% filter(date == max(date)),
 			  aes(label = year), hjust = -.1, size = 6) +
 	scale_color_manual(values = covidmn_colors) +
