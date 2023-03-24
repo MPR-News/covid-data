@@ -113,4 +113,5 @@ source(here("R/zip-graphics.R"))
 
 ```{r dashboard, message = FALSE}
 source(here("R/generate-dashboard.R"))
+beepr::beep()
 ```
