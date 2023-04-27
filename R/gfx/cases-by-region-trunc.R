@@ -11,6 +11,7 @@ p <- cases_county %>%
 	mutate(region_order = as.numeric(region)) %>%
 	left_join(tibble(region = c("Northwest", "Northeast", "Hennepin/Ramsey", "West Central", "East Central", "Metro suburbs", "Southwest", "Southeast") %>% as_factor(),
 					 color = covidmn_colors[c(7, 6, 1, 5, 3, 2, 8, 4)])) %>%
+	filter(!is.na(region)) %>%
 	mutate(region_label = paste0("<strong><span style='color:", color, "'>", region, "</span></strong>") %>% fct_reorder(region_order)) %>%
 	filter(date < max(date)) %>%
 	filter(date >= (max(date) - 35)) %>% 
