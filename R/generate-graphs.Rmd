@@ -64,8 +64,8 @@ source(here("R/gfx/deaths-years-actual.R"))
 source(here("R/gfx/change-7day-sample.R"))
 source(here("R/gfx/change-7day-sample-full.R"))
 # source(here("R/gfx/cases-hosp-lag.R"))
-source(here("R/gfx/one-time/wave-comparison.R"))
-source(here("R/gfx/one-time/wave-comparison-rate.R"))
+# source(here("R/gfx/one-time/wave-comparison.R"))
+# source(here("R/gfx/one-time/wave-comparison-rate.R"))
 # source(here("R/gfx/pct-reinfections.R"))
 ```
 
