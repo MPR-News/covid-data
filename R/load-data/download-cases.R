@@ -6,7 +6,7 @@ cases_total <- "https://www.health.state.mn.us/diseases/coronavirus/stats/c7day.
 	mutate(report_date = current_report_date,
 		   date = mdy(date)) %>%
 	rename("new_cases" = case_count,
-		   "new_cases_percap" = Rate) %>%
+		   "new_cases_percap" = rate) %>%
 	write_csv(here("data/cases_total.csv"))
 
 cases_county <- "https://www.health.state.mn.us/diseases/coronavirus/stats/ccounty.csv" %>%

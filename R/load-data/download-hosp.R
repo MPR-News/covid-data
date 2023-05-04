@@ -6,7 +6,7 @@ hosp_total <- "https://www.health.state.mn.us/diseases/coronavirus/stats/h7day.c
 	mutate(across(contains("date"), anydate)) %>%
 	mutate(report_date = current_report_date) %>%
 	rename("new_hosp" = case_count,
-		   "new_hosp_percap" = Rate) %>%
+		   "new_hosp_percap" = rate) %>%
 	write_csv(here("data/hosp_total.csv")) 
 
 hosp_county <- "https://www.health.state.mn.us/diseases/coronavirus/stats/hcounty.csv" %>%
