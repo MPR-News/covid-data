@@ -3,7 +3,7 @@ GET(url = "https://www.health.state.mn.us/diseases/coronavirus/stats/vbtadultaar
 	write_disk(tmp <- tempfile()))
 
 breakthroughs_weighted_adults <- read_csv(tmp) %>%
-	set_names("week_start", "week", "cases_boosted", "cases_vaxxed", "cases_unvaxxed", "hosp_boosted", "hosp_vaxxed", "hosp_unvaxxed", "deaths_boosted", "deaths_vaxxed", "deaths_unvaxxed") %>%
+	set_names("week", "week_start", "cases_boosted", "cases_vaxxed", "cases_unvaxxed", "hosp_boosted", "hosp_vaxxed", "hosp_unvaxxed", "deaths_boosted", "deaths_vaxxed", "deaths_unvaxxed") %>%
 	filter(!is.na(cases_boosted)) %>%
 	separate(week, c("year", "week"), sep = -2) %>%
 	mutate(week_start = date_parser(week_start))
@@ -16,7 +16,7 @@ GET(url = "https://www.health.state.mn.us/diseases/coronavirus/stats/vbtpedsaara
 	write_disk(tmp <- tempfile()))
 
 breakthroughs_weighted_kids <- read_csv(tmp) %>%
-	set_names("week_start", "week", "cases_vaxxed", "cases_unvaxxed", "hosp_vaxxed", "hosp_unvaxxed") %>%
+	set_names("week", "week_start", "cases_vaxxed", "cases_unvaxxed", "hosp_vaxxed", "hosp_unvaxxed") %>%
 	filter(!is.na(cases_vaxxed)) %>%
 	separate(week, c("year", "week"), sep = -2) %>%
 	mutate(week_start = date_parser(week_start))
