@@ -1,4 +1,4 @@
-covid_data_actual <- list(cases_total, hosp_total, deaths_total) %>%
+covid_data_actual <- list(hosp_total, deaths_total, cases_total) %>%
 	map(select, date, outcome, contains("new")) %>%
 	map(select, !contains("percap")) %>%
 	map(pivot_wider, names_from = outcome, values_from = contains("new"), names_prefix = "new_") %>%
@@ -51,11 +51,11 @@ comp_death_total <- bind_rows(read_csv(here("data/comp/comp_deaths_total.csv")),
 	mutate(newly_reported_deaths = coalesce(newly_reported_deaths, new_deaths)) %>%
 	write_csv(here("data/comp/comp_deaths_total.csv"))
 
-comp_tibble %>%
-	filter(!str_detect(raw_file, "total")) %>%
-	select(object, comp_file, group_col) %>%
-	slice(1) %>%
-	pmap(process_comps)
+# comp_tibble %>%
+# 	filter(!str_detect(raw_file, "total")) %>%
+# 	select(object, comp_file, group_col) %>%
+# 	slice(1) %>%
+# 	pmap(process_comps)
 
 # list(cases_total %>% 
 # 	 	group_by(report_date) %>%
