@@ -1,3 +1,5 @@
+cases_total <- read_csv(here("data/cases_total.csv"))
+
 covid_data_actual <- list(hosp_total, deaths_total, cases_total) %>%
 	map(select, date, outcome, contains("new")) %>%
 	map(select, !contains("percap")) %>%
@@ -16,16 +18,16 @@ covid_trends_actual <- covid_data_actual %>%
 
 # Archive data by report date
 
-comp_cases_total <- bind_rows(read_csv(here("data/comp/comp_cases_total.csv")),
-		  cases_total %>%
-		  	select(-total_pop, -new_cases_percap) %>% 
-		  	mutate(new_cases_7day = rollmeanr(new_cases, 7, fill = "extend"))) %>%
-	distinct(date, report_date, .keep_all = TRUE) %>%
-	arrange(report_date, date) %>%
-	group_by(date) %>%
-	mutate(newly_reported_cases = new_cases - lag(new_cases)) %>%
-	mutate(newly_reported_cases = coalesce(newly_reported_cases, new_cases)) %>%
-	write_csv(here("data/comp/comp_cases_total.csv"))
+# comp_cases_total <- bind_rows(read_csv(here("data/comp/comp_cases_total.csv")),
+# 		  cases_total %>%
+# 		  	select(-total_pop, -new_cases_percap) %>% 
+# 		  	mutate(new_cases_7day = rollmeanr(new_cases, 7, fill = "extend"))) %>%
+# 	distinct(date, report_date, .keep_all = TRUE) %>%
+# 	arrange(report_date, date) %>%
+# 	group_by(date) %>%
+# 	mutate(newly_reported_cases = new_cases - lag(new_cases)) %>%
+# 	mutate(newly_reported_cases = coalesce(newly_reported_cases, new_cases)) %>%
+# 	write_csv(here("data/comp/comp_cases_total.csv"))
 
 comp_hosp_total <- bind_rows(read_csv(here("data/comp/comp_hosp_total.csv")),
 							 hosp_total %>% 

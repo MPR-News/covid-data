@@ -70,7 +70,7 @@ source(here("R/gfx/change-7day-sample-full.R"))
 ```
 
 ```{r regions}
-source(here("R/inset-map8.R"))
+# source(here("R/inset-map8.R"))
 # source(here("R/gfx/cases-by-region-facet.R"))
 # source(here("R/gfx/cases-by-region-trunc.R"))
 ```
