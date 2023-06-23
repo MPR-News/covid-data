@@ -35,6 +35,7 @@ breakthroughs_weighted_age_adults <- read_csv(tmp) %>%
 			  "hosp_boosted_count", "hosp_boosted_rate", "hosp_vaxxed_count", "hosp_vaxxed_rate", "hosp_unvaxxed_count", "hosp_unvaxxed_rate",
 			  "deaths_boosted_count", "deaths_boosted_rate", "deaths_vaxxed_count", "deaths_vaxxed_rate", "deaths_unvaxxed_count", "deaths_unvaxxed_rate") %>%
 	filter(!is.na(age)) %>%
+	mutate(across(contains("count"), as.numeric)) %>%
 	pivot_longer(4:ncol(.), names_to = c("metric", "vax_status", "metric_type"), names_sep = "_") %>%
 	separate(week, c("year", "week"), sep = -2) %>%
 	mutate(week_start = date_parser(week_start))
