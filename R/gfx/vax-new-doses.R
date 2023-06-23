@@ -7,19 +7,15 @@ p <- vaccine_1x_gender %>%
 			  by = "date") %>% 
 	arrange(date) %>%
 	filter(date > min(date)) %>%
-	mutate(day_avg = case_when(is.na(new_vax_onedose) ~ 0, TRUE ~ 1)) %>%
+	mutate(day_avg = case_when(is.na(new_vax_complete) ~ 0, TRUE ~ 1)) %>%
 	mutate(day_avg = rollsumr(day_avg, 7, fill = "extend")) %>%
-	filter(!is.na(new_vax_onedose)) %>%
+	filter(!is.na(new_vax_complete)) %>%
 	filter(day_avg > 0) %>%
 	arrange(date) %>%
-	mutate(new_vax_onedose = rollmean_new(new_vax_onedose, day_avg),
-		   new_vax_complete = rollmean_new(new_vax_complete, day_avg),
-		   new_vax_boosted = rollmean_new(new_vax_boosted, day_avg)) %>%
-	pivot_longer(c(new_vax_onedose, new_vax_complete, new_vax_boosted)) %>%
-	mutate(name = str_replace_all(name, "new_vax_onedose", "First") %>% str_replace_all("new_vax_complete", "Final") %>% str_replace_all("new_vax_boosted", "Booster") %>% fct_relevel("First", "Final", "Booster")) %>%
-	filter(value >= 0, value < 100000) %>%
-	filter(date >= as_date("2022-04-01")) %>%
-	ggplot(aes(x = date, y= value, color = name)) +
+	mutate(new_vax_complete = rollmean_new(new_vax_complete, day_avg)) %>%
+	filter(new_vax_complete >= 0, new_vax_complete < 100000) %>%
+	# filter(date >= as_date("2022-04-01")) %>%
+	ggplot(aes(x = date, y = new_vax_complete)) +
 	geom_line(size = 1.5) + 
 	geom_hline(data = . %>% group_by(name) %>% filter(date == max(date)), 
 			   aes(yintercept = value, color = name), linetype = 3) +

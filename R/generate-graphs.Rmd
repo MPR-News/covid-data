@@ -83,8 +83,8 @@ source(here("R/gfx/change-7day-sample-full.R"))
 
 ```{r vaccines}
 source(here("R/gfx/vax-pct-all.R"))
-source(here("R/gfx/vax-new-doses.R"))
-source(here("R/gfx/vax-doses-age-total.R"))
+# source(here("R/gfx/vax-new-doses.R"))
+# source(here("R/gfx/vax-doses-age-total.R"))
 source(here("R/gfx/vax-map-5plus.R"))
 ```
 
