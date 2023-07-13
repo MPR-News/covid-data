@@ -15,6 +15,7 @@ p <- hosp_beds %>%
 	scale_color_manual(values = covidmn_colors) + 
 	expand_limits(y = 0) +
 	facet_wrap(vars(bed_type), scales = "free_y") +
+	coord_cartesian(clip = "off") +
 	theme_covidmn() +
 	theme(axis.title.x = element_blank(),
 		  axis.title.y.right = element_blank(),

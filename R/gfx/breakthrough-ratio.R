@@ -21,7 +21,7 @@ p <- breakthroughs_weighted_adults %>%
 	facet_wrap(vars(metric)) +
 	scale_y_continuous(expand = expansion(mult = c(0, .02)), sec.axis = dup_axis(), breaks = c(1, 2, 4, 8, 16, 32, 64),
 					   labels = number_format(suffix = "x", accuracy = 1), trans = "log2") +
-	scale_x_date(date_labels = "%b\n%Y", date_breaks = "4 months", expand = expansion(mult = c(.03, .15))) +
+	scale_x_date(date_labels = "%Y", date_breaks = "1 year", expand = expansion(mult = c(.03, .15))) +
 	scale_color_manual(values = covidmn_colors) +
 	coord_cartesian(clip = "off") +
 	theme_covidmn() +
