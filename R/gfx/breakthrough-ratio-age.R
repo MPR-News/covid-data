@@ -23,7 +23,7 @@ breakthrough_age_function <- function(metric_name, label) {
 		facet_wrap(vars(age)) + 
 		scale_y_continuous(expand = expansion(mult = c(.02, .02)), sec.axis = dup_axis(), breaks = c(1, 2, 4, 8, 16, 32, 64),
 						   labels = number_format(suffix = "x", accuracy = 1), trans = "log2") +
-		scale_x_date(date_labels = "%b\n%Y", date_breaks = "4 month", expand = expansion(mult = c(.03, .03))) +
+		scale_x_date(date_labels = "%Y", date_breaks = "1 year", expand = expansion(mult = c(.03, .03))) +
 		scale_color_manual(values = covidmn_colors) +
 		theme_covidmn_line() +
 		theme(axis.title = element_blank(),

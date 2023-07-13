@@ -20,7 +20,7 @@ p <- breakthroughs_weighted_adults %>%
 	geom_line(size = 1) +
 	facet_wrap(vars(metric)) +
 	scale_y_continuous(sec.axis = dup_axis(), labels = percent_format(accuracy = 1)) +
-	scale_x_date(date_labels = "%b\n%Y", date_breaks = "4 months", expand = expansion(mult = c(.03, .15))) +
+	scale_x_date(date_labels = "%Y", date_breaks = "1 year", expand = expansion(mult = c(.03, .15))) +
 	scale_color_manual(values = covidmn_colors) +
 	theme_covidmn() +
 	theme(axis.ticks.x = element_line(),

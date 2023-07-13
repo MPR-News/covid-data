@@ -10,12 +10,12 @@ p <- county_map %>%
 							percent_completed < .3 ~ "20% - 30%",
 							percent_completed < .4 ~ "30% - 40%",
 							percent_completed < .5 ~ "40% - 50%",
-							TRUE ~ "50% +") %>% 
-		   	fct_relevel("0% - 10%", "10% - 20%", "20% - 30%", "30% - 40%", "40% - 50%", "50% +")) %>%
+							TRUE ~ "50%+") %>% 
+		   	fct_relevel("0% - 10%", "10% - 20%", "20% - 30%", "30% - 40%", "40% - 50%", "50%+")) %>%
 	arrange(desc(percent_completed)) %>%
 	ggplot() +
 	geom_sf(aes(fill = bins), size = .1) +
-	scale_fill_brewer(palette = "YlGn", drop = FALSE, limits = c("0% - 10%", "10% - 20%", "20% - 30%", "30% - 40%", "40% - 50%", "50% +")) +
+	scale_fill_brewer(palette = "YlGn", drop = FALSE, limits = c("0% - 10%", "10% - 20%", "20% - 30%", "30% - 40%", "40% - 50%", "50%+")) +
 	theme_covidmn() +
 	theme(axis.text.x = element_blank(),
 		  axis.text.y = element_blank(),
