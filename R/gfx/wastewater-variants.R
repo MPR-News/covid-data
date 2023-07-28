@@ -11,7 +11,7 @@ p <- wastewater_variants %>%
 	geom_text(data = . %>% group_by(variant) %>% slice_max(frequency_7day, with_ties = FALSE), 
 			  aes(label = variant), vjust = -.2, hjust = 1, size = 5) +
 	scale_y_continuous(labels = percent_format(), sec.axis = dup_axis(), expand = expansion(mult = c(0, 0.08))) +
-	scale_x_date(date_breaks = "2 months", date_labels = "%b\n%Y", expand = expansion(mult = .01)) +
+	scale_x_date(date_breaks = "3 months", date_labels = "%b\n%Y", expand = expansion(mult = .01)) +
 	scale_color_manual(values = c("grey80", covidmn_colors, "grey50")) +
 	expand_limits(y = 0) +
 	coord_cartesian(clip = "off") +
