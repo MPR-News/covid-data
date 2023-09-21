@@ -33,7 +33,7 @@ source(here("R/load-data/download-vaccines.R"))
 # source(here("R/load-data/download-cases.R"))
 source(here("R/load-data/download-hosp.R"))
 source(here("R/load-data/download-deaths.R"))
-source(here("R/load-data/download-wastewater.R"))
+# source(here("R/load-data/download-wastewater.R"))
 source(here("R/load-data/process-data-new.R"))
 # source(here("R/load-data/process-data.R")) # Load in basic data
 source(here("R/load-data/load-other-data.R"))
@@ -95,7 +95,7 @@ source(here("R/gfx/breakthrough-effectiveness.R"))
 source(here("R/gfx/breakthrough-ratio-age.R"))
 ```
 
-```{r wastewater}
+```{r wastewater, eval = FALSE}
 source(here("R/gfx/wastewater-load.R"))
 source(here("R/gfx/wastewater-load-years.R"))
 source(here("R/gfx/wastewater-load-trunc.R"))
