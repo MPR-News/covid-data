@@ -29,7 +29,7 @@ source(here("R/load-data/scraping-setup.R")) #
 # source(here("R/load-data/old/download-hospital-bed-use.R"))
 # source(here("R/load-data/old/process-hosp-capacity.R"))
 source(here("R/load-data/download-breakthroughs.R"))
-source(here("R/load-data/download-vaccines.R"))
+# source(here("R/load-data/download-vaccines.R"))
 # source(here("R/load-data/download-cases.R"))
 source(here("R/load-data/download-hosp.R"))
 source(here("R/load-data/download-deaths.R"))
@@ -81,7 +81,7 @@ source(here("R/gfx/deaths-years-actual.R"))
 # source(here("R/gfx/cases-age-65.R"))
 ```
 
-```{r vaccines}
+```{r vaccines, eval = FALSE}
 source(here("R/gfx/vax-pct-all.R"))
 # source(here("R/gfx/vax-new-doses.R"))
 # source(here("R/gfx/vax-doses-age-total.R"))
