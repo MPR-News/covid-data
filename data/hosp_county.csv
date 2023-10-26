@@ -2843,7 +2843,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2020,42,Freeborn County,2,2020-10-11,2020-10-17,30463,hospitalization,6.565,2023-10-19
 2020,42,Goodhue County,2,2020-10-11,2020-10-17,46246,hospitalization,4.325,2023-10-19
 2020,42,Grant County,2,2020-10-11,2020-10-17,5935,hospitalization,33.698,2023-10-19
-2020,42,Hennepin County,99,2020-10-11,2020-10-17,1245837,hospitalization,7.946,2023-10-19
+2020,42,Hennepin County,100,2020-10-11,2020-10-17,1245837,hospitalization,8.027,2023-10-19
 2020,42,Houston County,1,2020-10-11,2020-10-17,18648,hospitalization,5.363,2023-10-19
 2020,42,Hubbard County,7,2020-10-11,2020-10-17,21019,hospitalization,33.303,2023-10-19
 2020,42,Isanti County,6,2020-10-11,2020-10-17,39430,hospitalization,15.217,2023-10-19
@@ -2894,7 +2894,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2020,42,Stevens County,1,2020-10-11,2020-10-17,9789,hospitalization,10.216,2023-10-19
 2020,42,Swift County,3,2020-10-11,2020-10-17,9359,hospitalization,32.055,2023-10-19
 2020,42,Todd County,8,2020-10-11,2020-10-17,24494,hospitalization,32.661,2023-10-19
-2020,42,Total,558,2020-10-11,2020-10-17,5563378,hospitalization,10.03,2023-10-19
+2020,42,Total,559,2020-10-11,2020-10-17,5563378,hospitalization,10.048,2023-10-19
 2020,42,Traverse County,2,2020-10-11,2020-10-17,3311,hospitalization,60.405,2023-10-19
 2020,42,Wabasha County,3,2020-10-11,2020-10-17,21537,hospitalization,13.93,2023-10-19
 2020,42,Wadena County,3,2020-10-11,2020-10-17,13654,hospitalization,21.972,2023-10-19
@@ -3890,8 +3890,8 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,1,Clearwater County,2,2021-01-03,2021-01-09,8821,hospitalization,22.673,2023-10-19
 2021,1,Cook County,0,2021-01-03,2021-01-09,5376,hospitalization,0,2023-10-19
 2021,1,Cottonwood County,1,2021-01-03,2021-01-09,11299,hospitalization,8.85,2023-10-19
-2021,1,Crow Wing County,15,2021-01-03,2021-01-09,64217,hospitalization,23.358,2023-10-19
-2021,1,Dakota County,70,2021-01-03,2021-01-09,421453,hospitalization,16.609,2023-10-19
+2021,1,Crow Wing County,14,2021-01-03,2021-01-09,64217,hospitalization,21.801,2023-10-19
+2021,1,Dakota County,69,2021-01-03,2021-01-09,421453,hospitalization,16.372,2023-10-19
 2021,1,Dodge County,0,2021-01-03,2021-01-09,20669,hospitalization,0,2023-10-19
 2021,1,Douglas County,8,2021-01-03,2021-01-09,37513,hospitalization,21.326,2023-10-19
 2021,1,Faribault County,0,2021-01-03,2021-01-09,13801,hospitalization,0,2023-10-19
@@ -3950,10 +3950,10 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,1,Stevens County,0,2021-01-03,2021-01-09,9789,hospitalization,0,2023-10-19
 2021,1,Swift County,0,2021-01-03,2021-01-09,9359,hospitalization,0,2023-10-19
 2021,1,Todd County,1,2021-01-03,2021-01-09,24494,hospitalization,4.083,2023-10-19
-2021,1,Total,648,2021-01-03,2021-01-09,5563378,hospitalization,11.648,2023-10-19
+2021,1,Total,645,2021-01-03,2021-01-09,5563378,hospitalization,11.594,2023-10-19
 2021,1,Traverse County,0,2021-01-03,2021-01-09,3311,hospitalization,0,2023-10-19
 2021,1,Wabasha County,2,2021-01-03,2021-01-09,21537,hospitalization,9.286,2023-10-19
-2021,1,Wadena County,2,2021-01-03,2021-01-09,13654,hospitalization,14.648,2023-10-19
+2021,1,Wadena County,1,2021-01-03,2021-01-09,13654,hospitalization,7.324,2023-10-19
 2021,1,Waseca County,0,2021-01-03,2021-01-09,18740,hospitalization,0,2023-10-19
 2021,1,Washington County,19,2021-01-03,2021-01-09,255938,hospitalization,7.424,2023-10-19
 2021,1,Watonwan County,0,2021-01-03,2021-01-09,10972,hospitalization,0,2023-10-19
@@ -4155,7 +4155,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,4,Cook County,0,2021-01-24,2021-01-30,5376,hospitalization,0,2023-10-19
 2021,4,Cottonwood County,0,2021-01-24,2021-01-30,11299,hospitalization,0,2023-10-19
 2021,4,Crow Wing County,0,2021-01-24,2021-01-30,64217,hospitalization,0,2023-10-19
-2021,4,Dakota County,39,2021-01-24,2021-01-30,421453,hospitalization,9.254,2023-10-19
+2021,4,Dakota County,38,2021-01-24,2021-01-30,421453,hospitalization,9.016,2023-10-19
 2021,4,Dodge County,3,2021-01-24,2021-01-30,20669,hospitalization,14.514,2023-10-19
 2021,4,Douglas County,2,2021-01-24,2021-01-30,37513,hospitalization,5.331,2023-10-19
 2021,4,Faribault County,2,2021-01-24,2021-01-30,13801,hospitalization,14.492,2023-10-19
@@ -4214,7 +4214,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,4,Stevens County,0,2021-01-24,2021-01-30,9789,hospitalization,0,2023-10-19
 2021,4,Swift County,0,2021-01-24,2021-01-30,9359,hospitalization,0,2023-10-19
 2021,4,Todd County,0,2021-01-24,2021-01-30,24494,hospitalization,0,2023-10-19
-2021,4,Total,384,2021-01-24,2021-01-30,5563378,hospitalization,6.902,2023-10-19
+2021,4,Total,383,2021-01-24,2021-01-30,5563378,hospitalization,6.884,2023-10-19
 2021,4,Traverse County,4,2021-01-24,2021-01-30,3311,hospitalization,120.809,2023-10-19
 2021,4,Wabasha County,1,2021-01-24,2021-01-30,21537,hospitalization,4.643,2023-10-19
 2021,4,Wadena County,1,2021-01-24,2021-01-30,13654,hospitalization,7.324,2023-10-19
@@ -4226,7 +4226,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,4,Wright County,4,2021-01-24,2021-01-30,134438,hospitalization,2.975,2023-10-19
 2021,4,Yellow Medicine County,0,2021-01-24,2021-01-30,9814,hospitalization,0,2023-10-19
 2021,5,Aitkin County,1,2021-01-31,2021-02-06,15834,hospitalization,6.316,2023-10-19
-2021,5,Anoka County,35,2021-01-31,2021-02-06,350253,hospitalization,9.993,2023-10-19
+2021,5,Anoka County,34,2021-01-31,2021-02-06,350253,hospitalization,9.707,2023-10-19
 2021,5,Becker County,2,2021-01-31,2021-02-06,34011,hospitalization,5.88,2023-10-19
 2021,5,Beltrami County,0,2021-01-31,2021-02-06,46403,hospitalization,0,2023-10-19
 2021,5,Benton County,4,2021-01-31,2021-02-06,40129,hospitalization,9.968,2023-10-19
@@ -4251,7 +4251,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,5,Freeborn County,5,2021-01-31,2021-02-06,30463,hospitalization,16.413,2023-10-19
 2021,5,Goodhue County,8,2021-01-31,2021-02-06,46246,hospitalization,17.299,2023-10-19
 2021,5,Grant County,1,2021-01-31,2021-02-06,5935,hospitalization,16.849,2023-10-19
-2021,5,Hennepin County,76,2021-01-31,2021-02-06,1245837,hospitalization,6.1,2023-10-19
+2021,5,Hennepin County,77,2021-01-31,2021-02-06,1245837,hospitalization,6.181,2023-10-19
 2021,5,Houston County,2,2021-01-31,2021-02-06,18648,hospitalization,10.725,2023-10-19
 2021,5,Hubbard County,0,2021-01-31,2021-02-06,21019,hospitalization,0,2023-10-19
 2021,5,Isanti County,5,2021-01-31,2021-02-06,39430,hospitalization,12.681,2023-10-19
@@ -5594,7 +5594,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,20,Meeker County,5,2021-05-16,2021-05-22,23105,hospitalization,21.64,2023-10-19
 2021,20,Mille Lacs County,5,2021-05-16,2021-05-22,25865,hospitalization,19.331,2023-10-19
 2021,20,Morrison County,2,2021-05-16,2021-05-22,33064,hospitalization,6.049,2023-10-19
-2021,20,Mower County,5,2021-05-16,2021-05-22,39807,hospitalization,12.561,2023-10-19
+2021,20,Mower County,4,2021-05-16,2021-05-22,39807,hospitalization,10.048,2023-10-19
 2021,20,Murray County,2,2021-05-16,2021-05-22,8296,hospitalization,24.108,2023-10-19
 2021,20,Nicollet County,5,2021-05-16,2021-05-22,33954,hospitalization,14.726,2023-10-19
 2021,20,Nobles County,0,2021-05-16,2021-05-22,21734,hospitalization,0,2023-10-19
@@ -5622,7 +5622,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,20,Stevens County,1,2021-05-16,2021-05-22,9789,hospitalization,10.216,2023-10-19
 2021,20,Swift County,1,2021-05-16,2021-05-22,9359,hospitalization,10.685,2023-10-19
 2021,20,Todd County,1,2021-05-16,2021-05-22,24494,hospitalization,4.083,2023-10-19
-2021,20,Total,375,2021-05-16,2021-05-22,5563378,hospitalization,6.741,2023-10-19
+2021,20,Total,374,2021-05-16,2021-05-22,5563378,hospitalization,6.723,2023-10-19
 2021,20,Traverse County,0,2021-05-16,2021-05-22,3311,hospitalization,0,2023-10-19
 2021,20,Wabasha County,0,2021-05-16,2021-05-22,21537,hospitalization,0,2023-10-19
 2021,20,Wadena County,4,2021-05-16,2021-05-22,13654,hospitalization,29.295,2023-10-19
@@ -8026,7 +8026,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,48,Clearwater County,2,2021-11-28,2021-12-04,8821,hospitalization,22.673,2023-10-19
 2021,48,Cook County,1,2021-11-28,2021-12-04,5376,hospitalization,18.601,2023-10-19
 2021,48,Cottonwood County,1,2021-11-28,2021-12-04,11299,hospitalization,8.85,2023-10-19
-2021,48,Crow Wing County,17,2021-11-28,2021-12-04,64217,hospitalization,26.473,2023-10-19
+2021,48,Crow Wing County,18,2021-11-28,2021-12-04,64217,hospitalization,28.03,2023-10-19
 2021,48,Dakota County,103,2021-11-28,2021-12-04,421453,hospitalization,24.439,2023-10-19
 2021,48,Dodge County,1,2021-11-28,2021-12-04,20669,hospitalization,4.838,2023-10-19
 2021,48,Douglas County,2,2021-11-28,2021-12-04,37513,hospitalization,5.331,2023-10-19
@@ -8035,7 +8035,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,48,Freeborn County,10,2021-11-28,2021-12-04,30463,hospitalization,32.827,2023-10-19
 2021,48,Goodhue County,18,2021-11-28,2021-12-04,46246,hospitalization,38.922,2023-10-19
 2021,48,Grant County,2,2021-11-28,2021-12-04,5935,hospitalization,33.698,2023-10-19
-2021,48,Hennepin County,218,2021-11-28,2021-12-04,1245837,hospitalization,17.498,2023-10-19
+2021,48,Hennepin County,219,2021-11-28,2021-12-04,1245837,hospitalization,17.579,2023-10-19
 2021,48,Houston County,2,2021-11-28,2021-12-04,18648,hospitalization,10.725,2023-10-19
 2021,48,Hubbard County,3,2021-11-28,2021-12-04,21019,hospitalization,14.273,2023-10-19
 2021,48,Isanti County,20,2021-11-28,2021-12-04,39430,hospitalization,50.723,2023-10-19
@@ -8064,16 +8064,16 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,48,Nobles County,3,2021-11-28,2021-12-04,21734,hospitalization,13.803,2023-10-19
 2021,48,Norman County,2,2021-11-28,2021-12-04,6520,hospitalization,30.675,2023-10-19
 2021,48,Olmsted County,37,2021-11-28,2021-12-04,154809,hospitalization,23.9,2023-10-19
-2021,48,Otter Tail County,19,2021-11-28,2021-12-04,58195,hospitalization,32.649,2023-10-19
+2021,48,Otter Tail County,20,2021-11-28,2021-12-04,58195,hospitalization,34.367,2023-10-19
 2021,48,Pennington County,2,2021-11-28,2021-12-04,14183,hospitalization,14.101,2023-10-19
 2021,48,Pine County,11,2021-11-28,2021-12-04,29223,hospitalization,37.642,2023-10-19
 2021,48,Pipestone County,0,2021-11-28,2021-12-04,9191,hospitalization,0,2023-10-19
 2021,48,Polk County,8,2021-11-28,2021-12-04,31521,hospitalization,25.38,2023-10-19
 2021,48,Pope County,1,2021-11-28,2021-12-04,11048,hospitalization,9.051,2023-10-19
-2021,48,Ramsey County,132,2021-11-28,2021-12-04,544442,hospitalization,24.245,2023-10-19
+2021,48,Ramsey County,129,2021-11-28,2021-12-04,544442,hospitalization,23.694,2023-10-19
 2021,48,Red Lake County,1,2021-11-28,2021-12-04,4015,hospitalization,24.907,2023-10-19
 2021,48,Redwood County,2,2021-11-28,2021-12-04,15261,hospitalization,13.105,2023-10-19
-2021,48,Renville County,2,2021-11-28,2021-12-04,14652,hospitalization,13.65,2023-10-19
+2021,48,Renville County,1,2021-11-28,2021-12-04,14652,hospitalization,6.825,2023-10-19
 2021,48,Rice County,22,2021-11-28,2021-12-04,66185,hospitalization,33.24,2023-10-19
 2021,48,Rock County,2,2021-11-28,2021-12-04,9402,hospitalization,21.272,2023-10-19
 2021,48,Roseau County,3,2021-11-28,2021-12-04,15361,hospitalization,19.53,2023-10-19
@@ -8086,7 +8086,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,48,Stevens County,2,2021-11-28,2021-12-04,9789,hospitalization,20.431,2023-10-19
 2021,48,Swift County,2,2021-11-28,2021-12-04,9359,hospitalization,21.37,2023-10-19
 2021,48,Todd County,4,2021-11-28,2021-12-04,24494,hospitalization,16.331,2023-10-19
-2021,48,Total,1310,2021-11-28,2021-12-04,5563378,hospitalization,23.547,2023-10-19
+2021,48,Total,1309,2021-11-28,2021-12-04,5563378,hospitalization,23.529,2023-10-19
 2021,48,Traverse County,0,2021-11-28,2021-12-04,3311,hospitalization,0,2023-10-19
 2021,48,Wabasha County,0,2021-11-28,2021-12-04,21537,hospitalization,0,2023-10-19
 2021,48,Wadena County,1,2021-11-28,2021-12-04,13654,hospitalization,7.324,2023-10-19
@@ -8106,7 +8106,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,49,Blue Earth County,17,2021-12-05,2021-12-11,66795,hospitalization,25.451,2023-10-19
 2021,49,Brown County,1,2021-12-05,2021-12-11,25163,hospitalization,3.974,2023-10-19
 2021,49,Carlton County,9,2021-12-05,2021-12-11,35633,hospitalization,25.257,2023-10-19
-2021,49,Carver County,18,2021-12-05,2021-12-11,101949,hospitalization,17.656,2023-10-19
+2021,49,Carver County,19,2021-12-05,2021-12-11,101949,hospitalization,18.637,2023-10-19
 2021,49,Cass County,17,2021-12-05,2021-12-11,29268,hospitalization,58.084,2023-10-19
 2021,49,Chippewa County,1,2021-12-05,2021-12-11,11953,hospitalization,8.366,2023-10-19
 2021,49,Chisago County,17,2021-12-05,2021-12-11,55315,hospitalization,30.733,2023-10-19
@@ -8114,10 +8114,10 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,49,Clearwater County,4,2021-12-05,2021-12-11,8821,hospitalization,45.346,2023-10-19
 2021,49,Cook County,0,2021-12-05,2021-12-11,5376,hospitalization,0,2023-10-19
 2021,49,Cottonwood County,1,2021-12-05,2021-12-11,11299,hospitalization,8.85,2023-10-19
-2021,49,Crow Wing County,9,2021-12-05,2021-12-11,64217,hospitalization,14.015,2023-10-19
+2021,49,Crow Wing County,10,2021-12-05,2021-12-11,64217,hospitalization,15.572,2023-10-19
 2021,49,Dakota County,90,2021-12-05,2021-12-11,421453,hospitalization,21.355,2023-10-19
 2021,49,Dodge County,3,2021-12-05,2021-12-11,20669,hospitalization,14.514,2023-10-19
-2021,49,Douglas County,3,2021-12-05,2021-12-11,37513,hospitalization,7.997,2023-10-19
+2021,49,Douglas County,4,2021-12-05,2021-12-11,37513,hospitalization,10.663,2023-10-19
 2021,49,Faribault County,5,2021-12-05,2021-12-11,13801,hospitalization,36.229,2023-10-19
 2021,49,Fillmore County,1,2021-12-05,2021-12-11,20949,hospitalization,4.773,2023-10-19
 2021,49,Freeborn County,9,2021-12-05,2021-12-11,30463,hospitalization,29.544,2023-10-19
@@ -8174,7 +8174,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,49,Stevens County,3,2021-12-05,2021-12-11,9789,hospitalization,30.647,2023-10-19
 2021,49,Swift County,0,2021-12-05,2021-12-11,9359,hospitalization,0,2023-10-19
 2021,49,Todd County,3,2021-12-05,2021-12-11,24494,hospitalization,12.248,2023-10-19
-2021,49,Total,1257,2021-12-05,2021-12-11,5563378,hospitalization,22.594,2023-10-19
+2021,49,Total,1260,2021-12-05,2021-12-11,5563378,hospitalization,22.648,2023-10-19
 2021,49,Traverse County,0,2021-12-05,2021-12-11,3311,hospitalization,0,2023-10-19
 2021,49,Wabasha County,3,2021-12-05,2021-12-11,21537,hospitalization,13.93,2023-10-19
 2021,49,Wadena County,0,2021-12-05,2021-12-11,13654,hospitalization,0,2023-10-19
@@ -8186,7 +8186,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,49,Wright County,34,2021-12-05,2021-12-11,134438,hospitalization,25.29,2023-10-19
 2021,49,Yellow Medicine County,1,2021-12-05,2021-12-11,9814,hospitalization,10.19,2023-10-19
 2021,50,Aitkin County,6,2021-12-12,2021-12-18,15834,hospitalization,37.893,2023-10-19
-2021,50,Anoka County,88,2021-12-12,2021-12-18,350253,hospitalization,25.125,2023-10-19
+2021,50,Anoka County,89,2021-12-12,2021-12-18,350253,hospitalization,25.41,2023-10-19
 2021,50,Becker County,7,2021-12-12,2021-12-18,34011,hospitalization,20.582,2023-10-19
 2021,50,Beltrami County,10,2021-12-12,2021-12-18,46403,hospitalization,21.55,2023-10-19
 2021,50,Benton County,15,2021-12-12,2021-12-18,40129,hospitalization,37.379,2023-10-19
@@ -8233,7 +8233,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,50,McLeod County,11,2021-12-12,2021-12-18,35832,hospitalization,30.699,2023-10-19
 2021,50,Meeker County,4,2021-12-12,2021-12-18,23105,hospitalization,17.312,2023-10-19
 2021,50,Mille Lacs County,11,2021-12-12,2021-12-18,25865,hospitalization,42.529,2023-10-19
-2021,50,Morrison County,5,2021-12-12,2021-12-18,33064,hospitalization,15.122,2023-10-19
+2021,50,Morrison County,6,2021-12-12,2021-12-18,33064,hospitalization,18.147,2023-10-19
 2021,50,Mower County,7,2021-12-12,2021-12-18,39807,hospitalization,17.585,2023-10-19
 2021,50,Murray County,0,2021-12-12,2021-12-18,8296,hospitalization,0,2023-10-19
 2021,50,Nicollet County,6,2021-12-12,2021-12-18,33954,hospitalization,17.671,2023-10-19
@@ -8246,7 +8246,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,50,Pipestone County,0,2021-12-12,2021-12-18,9191,hospitalization,0,2023-10-19
 2021,50,Polk County,5,2021-12-12,2021-12-18,31521,hospitalization,15.862,2023-10-19
 2021,50,Pope County,1,2021-12-12,2021-12-18,11048,hospitalization,9.051,2023-10-19
-2021,50,Ramsey County,119,2021-12-12,2021-12-18,544442,hospitalization,21.857,2023-10-19
+2021,50,Ramsey County,121,2021-12-12,2021-12-18,544442,hospitalization,22.225,2023-10-19
 2021,50,Red Lake County,0,2021-12-12,2021-12-18,4015,hospitalization,0,2023-10-19
 2021,50,Redwood County,4,2021-12-12,2021-12-18,15261,hospitalization,26.211,2023-10-19
 2021,50,Renville County,2,2021-12-12,2021-12-18,14652,hospitalization,13.65,2023-10-19
@@ -8262,7 +8262,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,50,Stevens County,2,2021-12-12,2021-12-18,9789,hospitalization,20.431,2023-10-19
 2021,50,Swift County,1,2021-12-12,2021-12-18,9359,hospitalization,10.685,2023-10-19
 2021,50,Todd County,5,2021-12-12,2021-12-18,24494,hospitalization,20.413,2023-10-19
-2021,50,Total,1032,2021-12-12,2021-12-18,5563378,hospitalization,18.55,2023-10-19
+2021,50,Total,1036,2021-12-12,2021-12-18,5563378,hospitalization,18.622,2023-10-19
 2021,50,Traverse County,1,2021-12-12,2021-12-18,3311,hospitalization,30.202,2023-10-19
 2021,50,Wabasha County,1,2021-12-12,2021-12-18,21537,hospitalization,4.643,2023-10-19
 2021,50,Wadena County,0,2021-12-12,2021-12-18,13654,hospitalization,0,2023-10-19
@@ -8334,7 +8334,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,51,Pipestone County,0,2021-12-19,2021-12-25,9191,hospitalization,0,2023-10-19
 2021,51,Polk County,1,2021-12-19,2021-12-25,31521,hospitalization,3.172,2023-10-19
 2021,51,Pope County,1,2021-12-19,2021-12-25,11048,hospitalization,9.051,2023-10-19
-2021,51,Ramsey County,118,2021-12-19,2021-12-25,544442,hospitalization,21.674,2023-10-19
+2021,51,Ramsey County,117,2021-12-19,2021-12-25,544442,hospitalization,21.49,2023-10-19
 2021,51,Red Lake County,0,2021-12-19,2021-12-25,4015,hospitalization,0,2023-10-19
 2021,51,Redwood County,2,2021-12-19,2021-12-25,15261,hospitalization,13.105,2023-10-19
 2021,51,Renville County,3,2021-12-19,2021-12-25,14652,hospitalization,20.475,2023-10-19
@@ -8350,7 +8350,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,51,Stevens County,1,2021-12-19,2021-12-25,9789,hospitalization,10.216,2023-10-19
 2021,51,Swift County,0,2021-12-19,2021-12-25,9359,hospitalization,0,2023-10-19
 2021,51,Todd County,7,2021-12-19,2021-12-25,24494,hospitalization,28.578,2023-10-19
-2021,51,Total,925,2021-12-19,2021-12-25,5563378,hospitalization,16.627,2023-10-19
+2021,51,Total,924,2021-12-19,2021-12-25,5563378,hospitalization,16.609,2023-10-19
 2021,51,Traverse County,1,2021-12-19,2021-12-25,3311,hospitalization,30.202,2023-10-19
 2021,51,Wabasha County,3,2021-12-19,2021-12-25,21537,hospitalization,13.93,2023-10-19
 2021,51,Wadena County,2,2021-12-19,2021-12-25,13654,hospitalization,14.648,2023-10-19
@@ -8362,7 +8362,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,51,Wright County,25,2021-12-19,2021-12-25,134438,hospitalization,18.596,2023-10-19
 2021,51,Yellow Medicine County,3,2021-12-19,2021-12-25,9814,hospitalization,30.569,2023-10-19
 2021,52,Aitkin County,6,2021-12-26,2022-01-01,15834,hospitalization,37.893,2023-10-19
-2021,52,Anoka County,73,2021-12-26,2022-01-01,350253,hospitalization,20.842,2023-10-19
+2021,52,Anoka County,72,2021-12-26,2022-01-01,350253,hospitalization,20.557,2023-10-19
 2021,52,Becker County,6,2021-12-26,2022-01-01,34011,hospitalization,17.641,2023-10-19
 2021,52,Beltrami County,9,2021-12-26,2022-01-01,46403,hospitalization,19.395,2023-10-19
 2021,52,Benton County,16,2021-12-26,2022-01-01,40129,hospitalization,39.871,2023-10-19
@@ -8438,7 +8438,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,52,Stevens County,4,2021-12-26,2022-01-01,9789,hospitalization,40.862,2023-10-19
 2021,52,Swift County,0,2021-12-26,2022-01-01,9359,hospitalization,0,2023-10-19
 2021,52,Todd County,1,2021-12-26,2022-01-01,24494,hospitalization,4.083,2023-10-19
-2021,52,Total,923,2021-12-26,2022-01-01,5563378,hospitalization,16.591,2023-10-19
+2021,52,Total,922,2021-12-26,2022-01-01,5563378,hospitalization,16.573,2023-10-19
 2021,52,Traverse County,0,2021-12-26,2022-01-01,3311,hospitalization,0,2023-10-19
 2021,52,Wabasha County,2,2021-12-26,2022-01-01,21537,hospitalization,9.286,2023-10-19
 2021,52,Wadena County,1,2021-12-26,2022-01-01,13654,hospitalization,7.324,2023-10-19
@@ -8466,7 +8466,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,1,Clearwater County,1,2022-01-02,2022-01-08,8821,hospitalization,11.337,2023-10-19
 2022,1,Cook County,0,2022-01-02,2022-01-08,5376,hospitalization,0,2023-10-19
 2022,1,Cottonwood County,0,2022-01-02,2022-01-08,11299,hospitalization,0,2023-10-19
-2022,1,Crow Wing County,11,2022-01-02,2022-01-08,64217,hospitalization,17.129,2023-10-19
+2022,1,Crow Wing County,12,2022-01-02,2022-01-08,64217,hospitalization,18.687,2023-10-19
 2022,1,Dakota County,117,2022-01-02,2022-01-08,421453,hospitalization,27.761,2023-10-19
 2022,1,Dodge County,6,2022-01-02,2022-01-08,20669,hospitalization,29.029,2023-10-19
 2022,1,Douglas County,2,2022-01-02,2022-01-08,37513,hospitalization,5.331,2023-10-19
@@ -8521,15 +8521,15 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,1,Sherburne County,26,2022-01-02,2022-01-08,94463,hospitalization,27.524,2023-10-19
 2022,1,Sibley County,4,2022-01-02,2022-01-08,14892,hospitalization,26.86,2023-10-19
 2022,1,St. Louis County,48,2022-01-02,2022-01-08,199759,hospitalization,24.029,2023-10-19
-2022,1,Stearns County,54,2022-01-02,2022-01-08,158452,hospitalization,34.08,2023-10-19
+2022,1,Stearns County,53,2022-01-02,2022-01-08,158452,hospitalization,33.449,2023-10-19
 2022,1,Steele County,8,2022-01-02,2022-01-08,36683,hospitalization,21.808,2023-10-19
 2022,1,Stevens County,2,2022-01-02,2022-01-08,9789,hospitalization,20.431,2023-10-19
 2022,1,Swift County,1,2022-01-02,2022-01-08,9359,hospitalization,10.685,2023-10-19
 2022,1,Todd County,3,2022-01-02,2022-01-08,24494,hospitalization,12.248,2023-10-19
-2022,1,Total,1448,2022-01-02,2022-01-08,5563378,hospitalization,26.027,2023-10-19
+2022,1,Total,1449,2022-01-02,2022-01-08,5563378,hospitalization,26.045,2023-10-19
 2022,1,Traverse County,0,2022-01-02,2022-01-08,3311,hospitalization,0,2023-10-19
 2022,1,Wabasha County,4,2022-01-02,2022-01-08,21537,hospitalization,18.573,2023-10-19
-2022,1,Wadena County,4,2022-01-02,2022-01-08,13654,hospitalization,29.295,2023-10-19
+2022,1,Wadena County,5,2022-01-02,2022-01-08,13654,hospitalization,36.619,2023-10-19
 2022,1,Waseca County,3,2022-01-02,2022-01-08,18740,hospitalization,16.009,2023-10-19
 2022,1,Washington County,56,2022-01-02,2022-01-08,255938,hospitalization,21.88,2023-10-19
 2022,1,Watonwan County,1,2022-01-02,2022-01-08,10972,hospitalization,9.114,2023-10-19
@@ -8598,7 +8598,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,2,Pipestone County,1,2022-01-09,2022-01-15,9191,hospitalization,10.88,2023-10-19
 2022,2,Polk County,4,2022-01-09,2022-01-15,31521,hospitalization,12.69,2023-10-19
 2022,2,Pope County,1,2022-01-09,2022-01-15,11048,hospitalization,9.051,2023-10-19
-2022,2,Ramsey County,197,2022-01-09,2022-01-15,544442,hospitalization,36.184,2023-10-19
+2022,2,Ramsey County,198,2022-01-09,2022-01-15,544442,hospitalization,36.368,2023-10-19
 2022,2,Red Lake County,0,2022-01-09,2022-01-15,4015,hospitalization,0,2023-10-19
 2022,2,Redwood County,3,2022-01-09,2022-01-15,15261,hospitalization,19.658,2023-10-19
 2022,2,Renville County,1,2022-01-09,2022-01-15,14652,hospitalization,6.825,2023-10-19
@@ -8613,7 +8613,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,2,Steele County,5,2022-01-09,2022-01-15,36683,hospitalization,13.63,2023-10-19
 2022,2,Stevens County,1,2022-01-09,2022-01-15,9789,hospitalization,10.216,2023-10-19
 2022,2,Swift County,0,2022-01-09,2022-01-15,9359,hospitalization,0,2023-10-19
-2022,2,Todd County,6,2022-01-09,2022-01-15,24494,hospitalization,24.496,2023-10-19
+2022,2,Todd County,5,2022-01-09,2022-01-15,24494,hospitalization,20.413,2023-10-19
 2022,2,Total,1512,2022-01-09,2022-01-15,5563378,hospitalization,27.178,2023-10-19
 2022,2,Traverse County,1,2022-01-09,2022-01-15,3311,hospitalization,30.202,2023-10-19
 2022,2,Wabasha County,3,2022-01-09,2022-01-15,21537,hospitalization,13.93,2023-10-19
@@ -8651,7 +8651,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,3,Freeborn County,9,2022-01-16,2022-01-22,30463,hospitalization,29.544,2023-10-19
 2022,3,Goodhue County,9,2022-01-16,2022-01-22,46246,hospitalization,19.461,2023-10-19
 2022,3,Grant County,4,2022-01-16,2022-01-22,5935,hospitalization,67.397,2023-10-19
-2022,3,Hennepin County,329,2022-01-16,2022-01-22,1245837,hospitalization,26.408,2023-10-19
+2022,3,Hennepin County,328,2022-01-16,2022-01-22,1245837,hospitalization,26.328,2023-10-19
 2022,3,Houston County,6,2022-01-16,2022-01-22,18648,hospitalization,32.175,2023-10-19
 2022,3,Hubbard County,5,2022-01-16,2022-01-22,21019,hospitalization,23.788,2023-10-19
 2022,3,Isanti County,14,2022-01-16,2022-01-22,39430,hospitalization,35.506,2023-10-19
@@ -8673,7 +8673,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,3,McLeod County,7,2022-01-16,2022-01-22,35832,hospitalization,19.536,2023-10-19
 2022,3,Meeker County,1,2022-01-16,2022-01-22,23105,hospitalization,4.328,2023-10-19
 2022,3,Mille Lacs County,6,2022-01-16,2022-01-22,25865,hospitalization,23.197,2023-10-19
-2022,3,Morrison County,8,2022-01-16,2022-01-22,33064,hospitalization,24.195,2023-10-19
+2022,3,Morrison County,9,2022-01-16,2022-01-22,33064,hospitalization,27.22,2023-10-19
 2022,3,Mower County,10,2022-01-16,2022-01-22,39807,hospitalization,25.121,2023-10-19
 2022,3,Murray County,1,2022-01-16,2022-01-22,8296,hospitalization,12.054,2023-10-19
 2022,3,Nicollet County,7,2022-01-16,2022-01-22,33954,hospitalization,20.616,2023-10-19
@@ -8701,8 +8701,8 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,3,Steele County,9,2022-01-16,2022-01-22,36683,hospitalization,24.535,2023-10-19
 2022,3,Stevens County,5,2022-01-16,2022-01-22,9789,hospitalization,51.078,2023-10-19
 2022,3,Swift County,0,2022-01-16,2022-01-22,9359,hospitalization,0,2023-10-19
-2022,3,Todd County,2,2022-01-16,2022-01-22,24494,hospitalization,8.165,2023-10-19
-2022,3,Total,1535,2022-01-16,2022-01-22,5563378,hospitalization,27.591,2023-10-19
+2022,3,Todd County,3,2022-01-16,2022-01-22,24494,hospitalization,12.248,2023-10-19
+2022,3,Total,1536,2022-01-16,2022-01-22,5563378,hospitalization,27.609,2023-10-19
 2022,3,Traverse County,1,2022-01-16,2022-01-22,3311,hospitalization,30.202,2023-10-19
 2022,3,Wabasha County,4,2022-01-16,2022-01-22,21537,hospitalization,18.573,2023-10-19
 2022,3,Wadena County,2,2022-01-16,2022-01-22,13654,hospitalization,14.648,2023-10-19
@@ -8731,7 +8731,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,4,Cook County,2,2022-01-23,2022-01-29,5376,hospitalization,37.202,2023-10-19
 2022,4,Cottonwood County,1,2022-01-23,2022-01-29,11299,hospitalization,8.85,2023-10-19
 2022,4,Crow Wing County,32,2022-01-23,2022-01-29,64217,hospitalization,49.831,2023-10-19
-2022,4,Dakota County,97,2022-01-23,2022-01-29,421453,hospitalization,23.016,2023-10-19
+2022,4,Dakota County,98,2022-01-23,2022-01-29,421453,hospitalization,23.253,2023-10-19
 2022,4,Dodge County,6,2022-01-23,2022-01-29,20669,hospitalization,29.029,2023-10-19
 2022,4,Douglas County,1,2022-01-23,2022-01-29,37513,hospitalization,2.666,2023-10-19
 2022,4,Faribault County,2,2022-01-23,2022-01-29,13801,hospitalization,14.492,2023-10-19
@@ -8790,7 +8790,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,4,Stevens County,4,2022-01-23,2022-01-29,9789,hospitalization,40.862,2023-10-19
 2022,4,Swift County,1,2022-01-23,2022-01-29,9359,hospitalization,10.685,2023-10-19
 2022,4,Todd County,4,2022-01-23,2022-01-29,24494,hospitalization,16.331,2023-10-19
-2022,4,Total,1353,2022-01-23,2022-01-29,5563378,hospitalization,24.32,2023-10-19
+2022,4,Total,1354,2022-01-23,2022-01-29,5563378,hospitalization,24.338,2023-10-19
 2022,4,Traverse County,1,2022-01-23,2022-01-29,3311,hospitalization,30.202,2023-10-19
 2022,4,Wabasha County,2,2022-01-23,2022-01-29,21537,hospitalization,9.286,2023-10-19
 2022,4,Wadena County,1,2022-01-23,2022-01-29,13654,hospitalization,7.324,2023-10-19
@@ -8802,7 +8802,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,4,Wright County,29,2022-01-23,2022-01-29,134438,hospitalization,21.571,2023-10-19
 2022,4,Yellow Medicine County,2,2022-01-23,2022-01-29,9814,hospitalization,20.379,2023-10-19
 2022,5,Aitkin County,4,2022-01-30,2022-02-05,15834,hospitalization,25.262,2023-10-19
-2022,5,Anoka County,60,2022-01-30,2022-02-05,350253,hospitalization,17.13,2023-10-19
+2022,5,Anoka County,62,2022-01-30,2022-02-05,350253,hospitalization,17.701,2023-10-19
 2022,5,Becker County,11,2022-01-30,2022-02-05,34011,hospitalization,32.342,2023-10-19
 2022,5,Beltrami County,12,2022-01-30,2022-02-05,46403,hospitalization,25.86,2023-10-19
 2022,5,Benton County,8,2022-01-30,2022-02-05,40129,hospitalization,19.936,2023-10-19
@@ -8873,12 +8873,12 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,5,Sherburne County,18,2022-01-30,2022-02-05,94463,hospitalization,19.055,2023-10-19
 2022,5,Sibley County,3,2022-01-30,2022-02-05,14892,hospitalization,20.145,2023-10-19
 2022,5,St. Louis County,54,2022-01-30,2022-02-05,199759,hospitalization,27.033,2023-10-19
-2022,5,Stearns County,23,2022-01-30,2022-02-05,158452,hospitalization,14.515,2023-10-19
+2022,5,Stearns County,24,2022-01-30,2022-02-05,158452,hospitalization,15.147,2023-10-19
 2022,5,Steele County,5,2022-01-30,2022-02-05,36683,hospitalization,13.63,2023-10-19
 2022,5,Stevens County,2,2022-01-30,2022-02-05,9789,hospitalization,20.431,2023-10-19
 2022,5,Swift County,0,2022-01-30,2022-02-05,9359,hospitalization,0,2023-10-19
 2022,5,Todd County,4,2022-01-30,2022-02-05,24494,hospitalization,16.331,2023-10-19
-2022,5,Total,989,2022-01-30,2022-02-05,5563378,hospitalization,17.777,2023-10-19
+2022,5,Total,992,2022-01-30,2022-02-05,5563378,hospitalization,17.831,2023-10-19
 2022,5,Traverse County,1,2022-01-30,2022-02-05,3311,hospitalization,30.202,2023-10-19
 2022,5,Wabasha County,2,2022-01-30,2022-02-05,21537,hospitalization,9.286,2023-10-19
 2022,5,Wadena County,1,2022-01-30,2022-02-05,13654,hospitalization,7.324,2023-10-19
@@ -8937,7 +8937,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,6,McLeod County,7,2022-02-06,2022-02-12,35832,hospitalization,19.536,2023-10-19
 2022,6,Meeker County,0,2022-02-06,2022-02-12,23105,hospitalization,0,2023-10-19
 2022,6,Mille Lacs County,4,2022-02-06,2022-02-12,25865,hospitalization,15.465,2023-10-19
-2022,6,Morrison County,6,2022-02-06,2022-02-12,33064,hospitalization,18.147,2023-10-19
+2022,6,Morrison County,7,2022-02-06,2022-02-12,33064,hospitalization,21.171,2023-10-19
 2022,6,Mower County,9,2022-02-06,2022-02-12,39807,hospitalization,22.609,2023-10-19
 2022,6,Murray County,0,2022-02-06,2022-02-12,8296,hospitalization,0,2023-10-19
 2022,6,Nicollet County,3,2022-02-06,2022-02-12,33954,hospitalization,8.835,2023-10-19
@@ -8958,7 +8958,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,6,Rock County,0,2022-02-06,2022-02-12,9402,hospitalization,0,2023-10-19
 2022,6,Roseau County,0,2022-02-06,2022-02-12,15361,hospitalization,0,2023-10-19
 2022,6,Scott County,18,2022-02-06,2022-02-12,145275,hospitalization,12.39,2023-10-19
-2022,6,Sherburne County,18,2022-02-06,2022-02-12,94463,hospitalization,19.055,2023-10-19
+2022,6,Sherburne County,17,2022-02-06,2022-02-12,94463,hospitalization,17.996,2023-10-19
 2022,6,Sibley County,2,2022-02-06,2022-02-12,14892,hospitalization,13.43,2023-10-19
 2022,6,St. Louis County,43,2022-02-06,2022-02-12,199759,hospitalization,21.526,2023-10-19
 2022,6,Stearns County,26,2022-02-06,2022-02-12,158452,hospitalization,16.409,2023-10-19
@@ -9046,7 +9046,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,7,Rock County,0,2022-02-13,2022-02-19,9402,hospitalization,0,2023-10-19
 2022,7,Roseau County,1,2022-02-13,2022-02-19,15361,hospitalization,6.51,2023-10-19
 2022,7,Scott County,10,2022-02-13,2022-02-19,145275,hospitalization,6.883,2023-10-19
-2022,7,Sherburne County,8,2022-02-13,2022-02-19,94463,hospitalization,8.469,2023-10-19
+2022,7,Sherburne County,9,2022-02-13,2022-02-19,94463,hospitalization,9.528,2023-10-19
 2022,7,Sibley County,4,2022-02-13,2022-02-19,14892,hospitalization,26.86,2023-10-19
 2022,7,St. Louis County,29,2022-02-13,2022-02-19,199759,hospitalization,14.517,2023-10-19
 2022,7,Stearns County,12,2022-02-13,2022-02-19,158452,hospitalization,7.573,2023-10-19
@@ -9054,7 +9054,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,7,Stevens County,0,2022-02-13,2022-02-19,9789,hospitalization,0,2023-10-19
 2022,7,Swift County,0,2022-02-13,2022-02-19,9359,hospitalization,0,2023-10-19
 2022,7,Todd County,4,2022-02-13,2022-02-19,24494,hospitalization,16.331,2023-10-19
-2022,7,Total,504,2022-02-13,2022-02-19,5563378,hospitalization,9.059,2023-10-19
+2022,7,Total,505,2022-02-13,2022-02-19,5563378,hospitalization,9.077,2023-10-19
 2022,7,Traverse County,1,2022-02-13,2022-02-19,3311,hospitalization,30.202,2023-10-19
 2022,7,Wabasha County,2,2022-02-13,2022-02-19,21537,hospitalization,9.286,2023-10-19
 2022,7,Wadena County,1,2022-02-13,2022-02-19,13654,hospitalization,7.324,2023-10-19
@@ -9129,7 +9129,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,8,Ramsey County,32,2022-02-20,2022-02-26,544442,hospitalization,5.878,2023-10-19
 2022,8,Red Lake County,0,2022-02-20,2022-02-26,4015,hospitalization,0,2023-10-19
 2022,8,Redwood County,0,2022-02-20,2022-02-26,15261,hospitalization,0,2023-10-19
-2022,8,Renville County,0,2022-02-20,2022-02-26,14652,hospitalization,0,2023-10-19
+2022,8,Renville County,1,2022-02-20,2022-02-26,14652,hospitalization,6.825,2023-10-19
 2022,8,Rice County,5,2022-02-20,2022-02-26,66185,hospitalization,7.555,2023-10-19
 2022,8,Rock County,0,2022-02-20,2022-02-26,9402,hospitalization,0,2023-10-19
 2022,8,Roseau County,0,2022-02-20,2022-02-26,15361,hospitalization,0,2023-10-19
@@ -9142,7 +9142,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,8,Stevens County,0,2022-02-20,2022-02-26,9789,hospitalization,0,2023-10-19
 2022,8,Swift County,1,2022-02-20,2022-02-26,9359,hospitalization,10.685,2023-10-19
 2022,8,Todd County,1,2022-02-20,2022-02-26,24494,hospitalization,4.083,2023-10-19
-2022,8,Total,371,2022-02-20,2022-02-26,5563378,hospitalization,6.669,2023-10-19
+2022,8,Total,372,2022-02-20,2022-02-26,5563378,hospitalization,6.687,2023-10-19
 2022,8,Traverse County,0,2022-02-20,2022-02-26,3311,hospitalization,0,2023-10-19
 2022,8,Wabasha County,0,2022-02-20,2022-02-26,21537,hospitalization,0,2023-10-19
 2022,8,Wadena County,0,2022-02-20,2022-02-26,13654,hospitalization,0,2023-10-19
@@ -9221,7 +9221,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,9,Rice County,4,2022-02-27,2022-03-05,66185,hospitalization,6.044,2023-10-19
 2022,9,Rock County,0,2022-02-27,2022-03-05,9402,hospitalization,0,2023-10-19
 2022,9,Roseau County,0,2022-02-27,2022-03-05,15361,hospitalization,0,2023-10-19
-2022,9,Scott County,8,2022-02-27,2022-03-05,145275,hospitalization,5.507,2023-10-19
+2022,9,Scott County,7,2022-02-27,2022-03-05,145275,hospitalization,4.818,2023-10-19
 2022,9,Sherburne County,4,2022-02-27,2022-03-05,94463,hospitalization,4.234,2023-10-19
 2022,9,Sibley County,0,2022-02-27,2022-03-05,14892,hospitalization,0,2023-10-19
 2022,9,St. Louis County,15,2022-02-27,2022-03-05,199759,hospitalization,7.509,2023-10-19
@@ -9230,7 +9230,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,9,Stevens County,0,2022-02-27,2022-03-05,9789,hospitalization,0,2023-10-19
 2022,9,Swift County,0,2022-02-27,2022-03-05,9359,hospitalization,0,2023-10-19
 2022,9,Todd County,5,2022-02-27,2022-03-05,24494,hospitalization,20.413,2023-10-19
-2022,9,Total,302,2022-02-27,2022-03-05,5563378,hospitalization,5.428,2023-10-19
+2022,9,Total,301,2022-02-27,2022-03-05,5563378,hospitalization,5.41,2023-10-19
 2022,9,Traverse County,0,2022-02-27,2022-03-05,3311,hospitalization,0,2023-10-19
 2022,9,Wabasha County,1,2022-02-27,2022-03-05,21537,hospitalization,4.643,2023-10-19
 2022,9,Wadena County,1,2022-02-27,2022-03-05,13654,hospitalization,7.324,2023-10-19
@@ -9573,7 +9573,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,13,Rice County,2,2022-03-27,2022-04-02,66185,hospitalization,3.022,2023-10-19
 2022,13,Rock County,0,2022-03-27,2022-04-02,9402,hospitalization,0,2023-10-19
 2022,13,Roseau County,0,2022-03-27,2022-04-02,15361,hospitalization,0,2023-10-19
-2022,13,Scott County,2,2022-03-27,2022-04-02,145275,hospitalization,1.377,2023-10-19
+2022,13,Scott County,3,2022-03-27,2022-04-02,145275,hospitalization,2.065,2023-10-19
 2022,13,Sherburne County,2,2022-03-27,2022-04-02,94463,hospitalization,2.117,2023-10-19
 2022,13,Sibley County,1,2022-03-27,2022-04-02,14892,hospitalization,6.715,2023-10-19
 2022,13,St. Louis County,5,2022-03-27,2022-04-02,199759,hospitalization,2.503,2023-10-19
@@ -9582,7 +9582,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,13,Stevens County,0,2022-03-27,2022-04-02,9789,hospitalization,0,2023-10-19
 2022,13,Swift County,0,2022-03-27,2022-04-02,9359,hospitalization,0,2023-10-19
 2022,13,Todd County,1,2022-03-27,2022-04-02,24494,hospitalization,4.083,2023-10-19
-2022,13,Total,155,2022-03-27,2022-04-02,5563378,hospitalization,2.786,2023-10-19
+2022,13,Total,156,2022-03-27,2022-04-02,5563378,hospitalization,2.804,2023-10-19
 2022,13,Traverse County,0,2022-03-27,2022-04-02,3311,hospitalization,0,2023-10-19
 2022,13,Wabasha County,2,2022-03-27,2022-04-02,21537,hospitalization,9.286,2023-10-19
 2022,13,Wadena County,0,2022-03-27,2022-04-02,13654,hospitalization,0,2023-10-19
@@ -9971,7 +9971,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,18,Freeborn County,2,2022-05-01,2022-05-07,30463,hospitalization,6.565,2023-10-19
 2022,18,Goodhue County,6,2022-05-01,2022-05-07,46246,hospitalization,12.974,2023-10-19
 2022,18,Grant County,0,2022-05-01,2022-05-07,5935,hospitalization,0,2023-10-19
-2022,18,Hennepin County,97,2022-05-01,2022-05-07,1245837,hospitalization,7.786,2023-10-19
+2022,18,Hennepin County,96,2022-05-01,2022-05-07,1245837,hospitalization,7.706,2023-10-19
 2022,18,Houston County,0,2022-05-01,2022-05-07,18648,hospitalization,0,2023-10-19
 2022,18,Hubbard County,0,2022-05-01,2022-05-07,21019,hospitalization,0,2023-10-19
 2022,18,Isanti County,7,2022-05-01,2022-05-07,39430,hospitalization,17.753,2023-10-19
@@ -10013,7 +10013,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,18,Rice County,3,2022-05-01,2022-05-07,66185,hospitalization,4.533,2023-10-19
 2022,18,Rock County,0,2022-05-01,2022-05-07,9402,hospitalization,0,2023-10-19
 2022,18,Roseau County,1,2022-05-01,2022-05-07,15361,hospitalization,6.51,2023-10-19
-2022,18,Scott County,17,2022-05-01,2022-05-07,145275,hospitalization,11.702,2023-10-19
+2022,18,Scott County,18,2022-05-01,2022-05-07,145275,hospitalization,12.39,2023-10-19
 2022,18,Sherburne County,4,2022-05-01,2022-05-07,94463,hospitalization,4.234,2023-10-19
 2022,18,Sibley County,0,2022-05-01,2022-05-07,14892,hospitalization,0,2023-10-19
 2022,18,St. Louis County,17,2022-05-01,2022-05-07,199759,hospitalization,8.51,2023-10-19
@@ -10170,7 +10170,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,20,Meeker County,2,2022-05-15,2022-05-21,23105,hospitalization,8.656,2023-10-19
 2022,20,Mille Lacs County,5,2022-05-15,2022-05-21,25865,hospitalization,19.331,2023-10-19
 2022,20,Morrison County,1,2022-05-15,2022-05-21,33064,hospitalization,3.024,2023-10-19
-2022,20,Mower County,5,2022-05-15,2022-05-21,39807,hospitalization,12.561,2023-10-19
+2022,20,Mower County,6,2022-05-15,2022-05-21,39807,hospitalization,15.073,2023-10-19
 2022,20,Murray County,0,2022-05-15,2022-05-21,8296,hospitalization,0,2023-10-19
 2022,20,Nicollet County,0,2022-05-15,2022-05-21,33954,hospitalization,0,2023-10-19
 2022,20,Nobles County,3,2022-05-15,2022-05-21,21734,hospitalization,13.803,2023-10-19
@@ -10198,7 +10198,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,20,Stevens County,0,2022-05-15,2022-05-21,9789,hospitalization,0,2023-10-19
 2022,20,Swift County,0,2022-05-15,2022-05-21,9359,hospitalization,0,2023-10-19
 2022,20,Todd County,0,2022-05-15,2022-05-21,24494,hospitalization,0,2023-10-19
-2022,20,Total,489,2022-05-15,2022-05-21,5563378,hospitalization,8.79,2023-10-19
+2022,20,Total,490,2022-05-15,2022-05-21,5563378,hospitalization,8.808,2023-10-19
 2022,20,Traverse County,0,2022-05-15,2022-05-21,3311,hospitalization,0,2023-10-19
 2022,20,Wabasha County,1,2022-05-15,2022-05-21,21537,hospitalization,4.643,2023-10-19
 2022,20,Wadena County,0,2022-05-15,2022-05-21,13654,hospitalization,0,2023-10-19
@@ -10403,7 +10403,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,23,Cook County,0,2022-06-05,2022-06-11,5376,hospitalization,0,2023-10-19
 2022,23,Cottonwood County,0,2022-06-05,2022-06-11,11299,hospitalization,0,2023-10-19
 2022,23,Crow Wing County,2,2022-06-05,2022-06-11,64217,hospitalization,3.114,2023-10-19
-2022,23,Dakota County,44,2022-06-05,2022-06-11,421453,hospitalization,10.44,2023-10-19
+2022,23,Dakota County,43,2022-06-05,2022-06-11,421453,hospitalization,10.203,2023-10-19
 2022,23,Dodge County,0,2022-06-05,2022-06-11,20669,hospitalization,0,2023-10-19
 2022,23,Douglas County,1,2022-06-05,2022-06-11,37513,hospitalization,2.666,2023-10-19
 2022,23,Faribault County,2,2022-06-05,2022-06-11,13801,hospitalization,14.492,2023-10-19
@@ -10462,7 +10462,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,23,Stevens County,0,2022-06-05,2022-06-11,9789,hospitalization,0,2023-10-19
 2022,23,Swift County,0,2022-06-05,2022-06-11,9359,hospitalization,0,2023-10-19
 2022,23,Todd County,1,2022-06-05,2022-06-11,24494,hospitalization,4.083,2023-10-19
-2022,23,Total,482,2022-06-05,2022-06-11,5563378,hospitalization,8.664,2023-10-19
+2022,23,Total,481,2022-06-05,2022-06-11,5563378,hospitalization,8.646,2023-10-19
 2022,23,Traverse County,0,2022-06-05,2022-06-11,3311,hospitalization,0,2023-10-19
 2022,23,Wabasha County,1,2022-06-05,2022-06-11,21537,hospitalization,4.643,2023-10-19
 2022,23,Wadena County,1,2022-06-05,2022-06-11,13654,hospitalization,7.324,2023-10-19
@@ -10798,7 +10798,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,27,Pipestone County,0,2022-07-03,2022-07-09,9191,hospitalization,0,2023-10-19
 2022,27,Polk County,0,2022-07-03,2022-07-09,31521,hospitalization,0,2023-10-19
 2022,27,Pope County,0,2022-07-03,2022-07-09,11048,hospitalization,0,2023-10-19
-2022,27,Ramsey County,54,2022-07-03,2022-07-09,544442,hospitalization,9.918,2023-10-19
+2022,27,Ramsey County,55,2022-07-03,2022-07-09,544442,hospitalization,10.102,2023-10-19
 2022,27,Red Lake County,0,2022-07-03,2022-07-09,4015,hospitalization,0,2023-10-19
 2022,27,Redwood County,1,2022-07-03,2022-07-09,15261,hospitalization,6.553,2023-10-19
 2022,27,Renville County,1,2022-07-03,2022-07-09,14652,hospitalization,6.825,2023-10-19
@@ -10814,7 +10814,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,27,Stevens County,1,2022-07-03,2022-07-09,9789,hospitalization,10.216,2023-10-19
 2022,27,Swift County,1,2022-07-03,2022-07-09,9359,hospitalization,10.685,2023-10-19
 2022,27,Todd County,0,2022-07-03,2022-07-09,24494,hospitalization,0,2023-10-19
-2022,27,Total,463,2022-07-03,2022-07-09,5563378,hospitalization,8.322,2023-10-19
+2022,27,Total,464,2022-07-03,2022-07-09,5563378,hospitalization,8.34,2023-10-19
 2022,27,Traverse County,0,2022-07-03,2022-07-09,3311,hospitalization,0,2023-10-19
 2022,27,Wabasha County,3,2022-07-03,2022-07-09,21537,hospitalization,13.93,2023-10-19
 2022,27,Wadena County,1,2022-07-03,2022-07-09,13654,hospitalization,7.324,2023-10-19
@@ -11547,7 +11547,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,36,Cook County,0,2022-09-04,2022-09-10,5376,hospitalization,0,2023-10-19
 2022,36,Cottonwood County,1,2022-09-04,2022-09-10,11299,hospitalization,8.85,2023-10-19
 2022,36,Crow Wing County,3,2022-09-04,2022-09-10,64217,hospitalization,4.672,2023-10-19
-2022,36,Dakota County,31,2022-09-04,2022-09-10,421453,hospitalization,7.356,2023-10-19
+2022,36,Dakota County,32,2022-09-04,2022-09-10,421453,hospitalization,7.593,2023-10-19
 2022,36,Dodge County,2,2022-09-04,2022-09-10,20669,hospitalization,9.676,2023-10-19
 2022,36,Douglas County,0,2022-09-04,2022-09-10,37513,hospitalization,0,2023-10-19
 2022,36,Faribault County,1,2022-09-04,2022-09-10,13801,hospitalization,7.246,2023-10-19
@@ -11606,7 +11606,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,36,Stevens County,2,2022-09-04,2022-09-10,9789,hospitalization,20.431,2023-10-19
 2022,36,Swift County,0,2022-09-04,2022-09-10,9359,hospitalization,0,2023-10-19
 2022,36,Todd County,4,2022-09-04,2022-09-10,24494,hospitalization,16.331,2023-10-19
-2022,36,Total,452,2022-09-04,2022-09-10,5563378,hospitalization,8.125,2023-10-19
+2022,36,Total,453,2022-09-04,2022-09-10,5563378,hospitalization,8.143,2023-10-19
 2022,36,Traverse County,0,2022-09-04,2022-09-10,3311,hospitalization,0,2023-10-19
 2022,36,Wabasha County,1,2022-09-04,2022-09-10,21537,hospitalization,4.643,2023-10-19
 2022,36,Wadena County,0,2022-09-04,2022-09-10,13654,hospitalization,0,2023-10-19
@@ -12268,7 +12268,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,44,Kanabec County,3,2022-10-30,2022-11-05,16089,hospitalization,18.646,2023-10-19
 2022,44,Kandiyohi County,2,2022-10-30,2022-11-05,42841,hospitalization,4.668,2023-10-19
 2022,44,Kittson County,0,2022-10-30,2022-11-05,4311,hospitalization,0,2023-10-19
-2022,44,Koochiching County,0,2022-10-30,2022-11-05,12515,hospitalization,0,2023-10-19
+2022,44,Koochiching County,1,2022-10-30,2022-11-05,12515,hospitalization,7.99,2023-10-19
 2022,44,Lac qui Parle County,0,2022-10-30,2022-11-05,6719,hospitalization,0,2023-10-19
 2022,44,Lake County,1,2022-10-30,2022-11-05,10560,hospitalization,9.47,2023-10-19
 2022,44,Lake of the Woods County,0,2022-10-30,2022-11-05,3771,hospitalization,0,2023-10-19
@@ -12310,7 +12310,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,44,Stevens County,0,2022-10-30,2022-11-05,9789,hospitalization,0,2023-10-19
 2022,44,Swift County,0,2022-10-30,2022-11-05,9359,hospitalization,0,2023-10-19
 2022,44,Todd County,1,2022-10-30,2022-11-05,24494,hospitalization,4.083,2023-10-19
-2022,44,Total,481,2022-10-30,2022-11-05,5563378,hospitalization,8.646,2023-10-19
+2022,44,Total,482,2022-10-30,2022-11-05,5563378,hospitalization,8.664,2023-10-19
 2022,44,Traverse County,0,2022-10-30,2022-11-05,3311,hospitalization,0,2023-10-19
 2022,44,Wabasha County,1,2022-10-30,2022-11-05,21537,hospitalization,4.643,2023-10-19
 2022,44,Wadena County,0,2022-10-30,2022-11-05,13654,hospitalization,0,2023-10-19
@@ -12540,7 +12540,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,47,Lincoln County,0,2022-11-20,2022-11-26,5677,hospitalization,0,2023-10-19
 2022,47,Lyon County,2,2022-11-20,2022-11-26,25758,hospitalization,7.765,2023-10-19
 2022,47,Mahnomen County,0,2022-11-20,2022-11-26,5501,hospitalization,0,2023-10-19
-2022,47,Marshall County,0,2022-11-20,2022-11-26,9372,hospitalization,0,2023-10-19
+2022,47,Marshall County,1,2022-11-20,2022-11-26,9372,hospitalization,10.67,2023-10-19
 2022,47,Martin County,0,2022-11-20,2022-11-26,19852,hospitalization,0,2023-10-19
 2022,47,McLeod County,1,2022-11-20,2022-11-26,35832,hospitalization,2.791,2023-10-19
 2022,47,Meeker County,2,2022-11-20,2022-11-26,23105,hospitalization,8.656,2023-10-19
@@ -12574,7 +12574,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,47,Stevens County,0,2022-11-20,2022-11-26,9789,hospitalization,0,2023-10-19
 2022,47,Swift County,0,2022-11-20,2022-11-26,9359,hospitalization,0,2023-10-19
 2022,47,Todd County,1,2022-11-20,2022-11-26,24494,hospitalization,4.083,2023-10-19
-2022,47,Total,516,2022-11-20,2022-11-26,5563378,hospitalization,9.275,2023-10-19
+2022,47,Total,517,2022-11-20,2022-11-26,5563378,hospitalization,9.293,2023-10-19
 2022,47,Traverse County,0,2022-11-20,2022-11-26,3311,hospitalization,0,2023-10-19
 2022,47,Wabasha County,1,2022-11-20,2022-11-26,21537,hospitalization,4.643,2023-10-19
 2022,47,Wadena County,0,2022-11-20,2022-11-26,13654,hospitalization,0,2023-10-19
@@ -12716,7 +12716,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,49,Lincoln County,0,2022-12-04,2022-12-10,5677,hospitalization,0,2023-10-19
 2022,49,Lyon County,1,2022-12-04,2022-12-10,25758,hospitalization,3.882,2023-10-19
 2022,49,Mahnomen County,0,2022-12-04,2022-12-10,5501,hospitalization,0,2023-10-19
-2022,49,Marshall County,1,2022-12-04,2022-12-10,9372,hospitalization,10.67,2023-10-19
+2022,49,Marshall County,2,2022-12-04,2022-12-10,9372,hospitalization,21.34,2023-10-19
 2022,49,Martin County,1,2022-12-04,2022-12-10,19852,hospitalization,5.037,2023-10-19
 2022,49,McLeod County,5,2022-12-04,2022-12-10,35832,hospitalization,13.954,2023-10-19
 2022,49,Meeker County,0,2022-12-04,2022-12-10,23105,hospitalization,0,2023-10-19
@@ -12750,7 +12750,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,49,Stevens County,2,2022-12-04,2022-12-10,9789,hospitalization,20.431,2023-10-19
 2022,49,Swift County,0,2022-12-04,2022-12-10,9359,hospitalization,0,2023-10-19
 2022,49,Todd County,1,2022-12-04,2022-12-10,24494,hospitalization,4.083,2023-10-19
-2022,49,Total,565,2022-12-04,2022-12-10,5563378,hospitalization,10.156,2023-10-19
+2022,49,Total,566,2022-12-04,2022-12-10,5563378,hospitalization,10.174,2023-10-19
 2022,49,Traverse County,0,2022-12-04,2022-12-10,3311,hospitalization,0,2023-10-19
 2022,49,Wabasha County,0,2022-12-04,2022-12-10,21537,hospitalization,0,2023-10-19
 2022,49,Wadena County,2,2022-12-04,2022-12-10,13654,hospitalization,14.648,2023-10-19
@@ -12795,11 +12795,11 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,50,Jackson County,1,2022-12-11,2022-12-17,9954,hospitalization,10.046,2023-10-19
 2022,50,Kanabec County,4,2022-12-11,2022-12-17,16089,hospitalization,24.862,2023-10-19
 2022,50,Kandiyohi County,2,2022-12-11,2022-12-17,42841,hospitalization,4.668,2023-10-19
-2022,50,Kittson County,0,2022-12-11,2022-12-17,4311,hospitalization,0,2023-10-19
+2022,50,Kittson County,1,2022-12-11,2022-12-17,4311,hospitalization,23.196,2023-10-19
 2022,50,Koochiching County,0,2022-12-11,2022-12-17,12515,hospitalization,0,2023-10-19
 2022,50,Lac qui Parle County,0,2022-12-11,2022-12-17,6719,hospitalization,0,2023-10-19
 2022,50,Lake County,2,2022-12-11,2022-12-17,10560,hospitalization,18.939,2023-10-19
-2022,50,Lake of the Woods County,1,2022-12-11,2022-12-17,3771,hospitalization,26.518,2023-10-19
+2022,50,Lake of the Woods County,2,2022-12-11,2022-12-17,3771,hospitalization,53.036,2023-10-19
 2022,50,Le Sueur County,1,2022-12-11,2022-12-17,28242,hospitalization,3.541,2023-10-19
 2022,50,Lincoln County,0,2022-12-11,2022-12-17,5677,hospitalization,0,2023-10-19
 2022,50,Lyon County,0,2022-12-11,2022-12-17,25758,hospitalization,0,2023-10-19
@@ -12820,7 +12820,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,50,Pennington County,0,2022-12-11,2022-12-17,14183,hospitalization,0,2023-10-19
 2022,50,Pine County,3,2022-12-11,2022-12-17,29223,hospitalization,10.266,2023-10-19
 2022,50,Pipestone County,0,2022-12-11,2022-12-17,9191,hospitalization,0,2023-10-19
-2022,50,Polk County,2,2022-12-11,2022-12-17,31521,hospitalization,6.345,2023-10-19
+2022,50,Polk County,3,2022-12-11,2022-12-17,31521,hospitalization,9.517,2023-10-19
 2022,50,Pope County,2,2022-12-11,2022-12-17,11048,hospitalization,18.103,2023-10-19
 2022,50,Ramsey County,81,2022-12-11,2022-12-17,544442,hospitalization,14.878,2023-10-19
 2022,50,Red Lake County,0,2022-12-11,2022-12-17,4015,hospitalization,0,2023-10-19
@@ -12838,7 +12838,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,50,Stevens County,0,2022-12-11,2022-12-17,9789,hospitalization,0,2023-10-19
 2022,50,Swift County,1,2022-12-11,2022-12-17,9359,hospitalization,10.685,2023-10-19
 2022,50,Todd County,4,2022-12-11,2022-12-17,24494,hospitalization,16.331,2023-10-19
-2022,50,Total,541,2022-12-11,2022-12-17,5563378,hospitalization,9.724,2023-10-19
+2022,50,Total,544,2022-12-11,2022-12-17,5563378,hospitalization,9.778,2023-10-19
 2022,50,Traverse County,0,2022-12-11,2022-12-17,3311,hospitalization,0,2023-10-19
 2022,50,Wabasha County,2,2022-12-11,2022-12-17,21537,hospitalization,9.286,2023-10-19
 2022,50,Wadena County,1,2022-12-11,2022-12-17,13654,hospitalization,7.324,2023-10-19
@@ -12908,7 +12908,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,51,Pennington County,0,2022-12-18,2022-12-24,14183,hospitalization,0,2023-10-19
 2022,51,Pine County,3,2022-12-18,2022-12-24,29223,hospitalization,10.266,2023-10-19
 2022,51,Pipestone County,0,2022-12-18,2022-12-24,9191,hospitalization,0,2023-10-19
-2022,51,Polk County,3,2022-12-18,2022-12-24,31521,hospitalization,9.517,2023-10-19
+2022,51,Polk County,5,2022-12-18,2022-12-24,31521,hospitalization,15.862,2023-10-19
 2022,51,Pope County,0,2022-12-18,2022-12-24,11048,hospitalization,0,2023-10-19
 2022,51,Ramsey County,73,2022-12-18,2022-12-24,544442,hospitalization,13.408,2023-10-19
 2022,51,Red Lake County,0,2022-12-18,2022-12-24,4015,hospitalization,0,2023-10-19
@@ -12926,7 +12926,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,51,Stevens County,2,2022-12-18,2022-12-24,9789,hospitalization,20.431,2023-10-19
 2022,51,Swift County,0,2022-12-18,2022-12-24,9359,hospitalization,0,2023-10-19
 2022,51,Todd County,3,2022-12-18,2022-12-24,24494,hospitalization,12.248,2023-10-19
-2022,51,Total,558,2022-12-18,2022-12-24,5563378,hospitalization,10.03,2023-10-19
+2022,51,Total,560,2022-12-18,2022-12-24,5563378,hospitalization,10.066,2023-10-19
 2022,51,Traverse County,0,2022-12-18,2022-12-24,3311,hospitalization,0,2023-10-19
 2022,51,Wabasha County,1,2022-12-18,2022-12-24,21537,hospitalization,4.643,2023-10-19
 2022,51,Wadena County,1,2022-12-18,2022-12-24,13654,hospitalization,7.324,2023-10-19
@@ -12996,7 +12996,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,52,Pennington County,0,2022-12-25,2022-12-31,14183,hospitalization,0,2023-10-19
 2022,52,Pine County,5,2022-12-25,2022-12-31,29223,hospitalization,17.11,2023-10-19
 2022,52,Pipestone County,0,2022-12-25,2022-12-31,9191,hospitalization,0,2023-10-19
-2022,52,Polk County,1,2022-12-25,2022-12-31,31521,hospitalization,3.172,2023-10-19
+2022,52,Polk County,2,2022-12-25,2022-12-31,31521,hospitalization,6.345,2023-10-19
 2022,52,Pope County,0,2022-12-25,2022-12-31,11048,hospitalization,0,2023-10-19
 2022,52,Ramsey County,73,2022-12-25,2022-12-31,544442,hospitalization,13.408,2023-10-19
 2022,52,Red Lake County,0,2022-12-25,2022-12-31,4015,hospitalization,0,2023-10-19
@@ -13004,7 +13004,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,52,Renville County,3,2022-12-25,2022-12-31,14652,hospitalization,20.475,2023-10-19
 2022,52,Rice County,6,2022-12-25,2022-12-31,66185,hospitalization,9.065,2023-10-19
 2022,52,Rock County,0,2022-12-25,2022-12-31,9402,hospitalization,0,2023-10-19
-2022,52,Roseau County,0,2022-12-25,2022-12-31,15361,hospitalization,0,2023-10-19
+2022,52,Roseau County,1,2022-12-25,2022-12-31,15361,hospitalization,6.51,2023-10-19
 2022,52,Scott County,13,2022-12-25,2022-12-31,145275,hospitalization,8.949,2023-10-19
 2022,52,Sherburne County,9,2022-12-25,2022-12-31,94463,hospitalization,9.528,2023-10-19
 2022,52,Sibley County,3,2022-12-25,2022-12-31,14892,hospitalization,20.145,2023-10-19
@@ -13014,7 +13014,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,52,Stevens County,0,2022-12-25,2022-12-31,9789,hospitalization,0,2023-10-19
 2022,52,Swift County,1,2022-12-25,2022-12-31,9359,hospitalization,10.685,2023-10-19
 2022,52,Todd County,2,2022-12-25,2022-12-31,24494,hospitalization,8.165,2023-10-19
-2022,52,Total,571,2022-12-25,2022-12-31,5563378,hospitalization,10.264,2023-10-19
+2022,52,Total,573,2022-12-25,2022-12-31,5563378,hospitalization,10.299,2023-10-19
 2022,52,Traverse County,0,2022-12-25,2022-12-31,3311,hospitalization,0,2023-10-19
 2022,52,Wabasha County,2,2022-12-25,2022-12-31,21537,hospitalization,9.286,2023-10-19
 2022,52,Wadena County,0,2022-12-25,2022-12-31,13654,hospitalization,0,2023-10-19
@@ -13084,7 +13084,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,1,Pennington County,0,2023-01-01,2023-01-07,14183,hospitalization,0,2023-10-19
 2023,1,Pine County,7,2023-01-01,2023-01-07,29223,hospitalization,23.954,2023-10-19
 2023,1,Pipestone County,0,2023-01-01,2023-01-07,9191,hospitalization,0,2023-10-19
-2023,1,Polk County,3,2023-01-01,2023-01-07,31521,hospitalization,9.517,2023-10-19
+2023,1,Polk County,4,2023-01-01,2023-01-07,31521,hospitalization,12.69,2023-10-19
 2023,1,Pope County,0,2023-01-01,2023-01-07,11048,hospitalization,0,2023-10-19
 2023,1,Ramsey County,64,2023-01-01,2023-01-07,544442,hospitalization,11.755,2023-10-19
 2023,1,Red Lake County,0,2023-01-01,2023-01-07,4015,hospitalization,0,2023-10-19
@@ -13092,7 +13092,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,1,Renville County,1,2023-01-01,2023-01-07,14652,hospitalization,6.825,2023-10-19
 2023,1,Rice County,6,2023-01-01,2023-01-07,66185,hospitalization,9.065,2023-10-19
 2023,1,Rock County,0,2023-01-01,2023-01-07,9402,hospitalization,0,2023-10-19
-2023,1,Roseau County,1,2023-01-01,2023-01-07,15361,hospitalization,6.51,2023-10-19
+2023,1,Roseau County,2,2023-01-01,2023-01-07,15361,hospitalization,13.02,2023-10-19
 2023,1,Scott County,16,2023-01-01,2023-01-07,145275,hospitalization,11.014,2023-10-19
 2023,1,Sherburne County,7,2023-01-01,2023-01-07,94463,hospitalization,7.41,2023-10-19
 2023,1,Sibley County,1,2023-01-01,2023-01-07,14892,hospitalization,6.715,2023-10-19
@@ -13102,7 +13102,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,1,Stevens County,0,2023-01-01,2023-01-07,9789,hospitalization,0,2023-10-19
 2023,1,Swift County,1,2023-01-01,2023-01-07,9359,hospitalization,10.685,2023-10-19
 2023,1,Todd County,2,2023-01-01,2023-01-07,24494,hospitalization,8.165,2023-10-19
-2023,1,Total,516,2023-01-01,2023-01-07,5563378,hospitalization,9.275,2023-10-19
+2023,1,Total,518,2023-01-01,2023-01-07,5563378,hospitalization,9.311,2023-10-19
 2023,1,Traverse County,0,2023-01-01,2023-01-07,3311,hospitalization,0,2023-10-19
 2023,1,Wabasha County,0,2023-01-01,2023-01-07,21537,hospitalization,0,2023-10-19
 2023,1,Wadena County,1,2023-01-01,2023-01-07,13654,hospitalization,7.324,2023-10-19
@@ -13175,7 +13175,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,2,Polk County,1,2023-01-08,2023-01-14,31521,hospitalization,3.172,2023-10-19
 2023,2,Pope County,1,2023-01-08,2023-01-14,11048,hospitalization,9.051,2023-10-19
 2023,2,Ramsey County,46,2023-01-08,2023-01-14,544442,hospitalization,8.449,2023-10-19
-2023,2,Red Lake County,0,2023-01-08,2023-01-14,4015,hospitalization,0,2023-10-19
+2023,2,Red Lake County,1,2023-01-08,2023-01-14,4015,hospitalization,24.907,2023-10-19
 2023,2,Redwood County,0,2023-01-08,2023-01-14,15261,hospitalization,0,2023-10-19
 2023,2,Renville County,0,2023-01-08,2023-01-14,14652,hospitalization,0,2023-10-19
 2023,2,Rice County,7,2023-01-08,2023-01-14,66185,hospitalization,10.576,2023-10-19
@@ -13190,7 +13190,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,2,Stevens County,0,2023-01-08,2023-01-14,9789,hospitalization,0,2023-10-19
 2023,2,Swift County,0,2023-01-08,2023-01-14,9359,hospitalization,0,2023-10-19
 2023,2,Todd County,1,2023-01-08,2023-01-14,24494,hospitalization,4.083,2023-10-19
-2023,2,Total,371,2023-01-08,2023-01-14,5563378,hospitalization,6.669,2023-10-19
+2023,2,Total,372,2023-01-08,2023-01-14,5563378,hospitalization,6.687,2023-10-19
 2023,2,Traverse County,0,2023-01-08,2023-01-14,3311,hospitalization,0,2023-10-19
 2023,2,Wabasha County,1,2023-01-08,2023-01-14,21537,hospitalization,4.643,2023-10-19
 2023,2,Wadena County,0,2023-01-08,2023-01-14,13654,hospitalization,0,2023-10-19
@@ -13499,7 +13499,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,6,Jackson County,0,2023-02-05,2023-02-11,9954,hospitalization,0,2023-10-19
 2023,6,Kanabec County,5,2023-02-05,2023-02-11,16089,hospitalization,31.077,2023-10-19
 2023,6,Kandiyohi County,9,2023-02-05,2023-02-11,42841,hospitalization,21.008,2023-10-19
-2023,6,Kittson County,0,2023-02-05,2023-02-11,4311,hospitalization,0,2023-10-19
+2023,6,Kittson County,1,2023-02-05,2023-02-11,4311,hospitalization,23.196,2023-10-19
 2023,6,Koochiching County,0,2023-02-05,2023-02-11,12515,hospitalization,0,2023-10-19
 2023,6,Lac qui Parle County,0,2023-02-05,2023-02-11,6719,hospitalization,0,2023-10-19
 2023,6,Lake County,0,2023-02-05,2023-02-11,10560,hospitalization,0,2023-10-19
@@ -13542,7 +13542,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,6,Stevens County,0,2023-02-05,2023-02-11,9789,hospitalization,0,2023-10-19
 2023,6,Swift County,0,2023-02-05,2023-02-11,9359,hospitalization,0,2023-10-19
 2023,6,Todd County,2,2023-02-05,2023-02-11,24494,hospitalization,8.165,2023-10-19
-2023,6,Total,425,2023-02-05,2023-02-11,5563378,hospitalization,7.639,2023-10-19
+2023,6,Total,426,2023-02-05,2023-02-11,5563378,hospitalization,7.657,2023-10-19
 2023,6,Traverse County,0,2023-02-05,2023-02-11,3311,hospitalization,0,2023-10-19
 2023,6,Wabasha County,2,2023-02-05,2023-02-11,21537,hospitalization,9.286,2023-10-19
 2023,6,Wadena County,1,2023-02-05,2023-02-11,13654,hospitalization,7.324,2023-10-19
@@ -13612,10 +13612,10 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,7,Pennington County,0,2023-02-12,2023-02-18,14183,hospitalization,0,2023-10-19
 2023,7,Pine County,1,2023-02-12,2023-02-18,29223,hospitalization,3.422,2023-10-19
 2023,7,Pipestone County,0,2023-02-12,2023-02-18,9191,hospitalization,0,2023-10-19
-2023,7,Polk County,0,2023-02-12,2023-02-18,31521,hospitalization,0,2023-10-19
+2023,7,Polk County,2,2023-02-12,2023-02-18,31521,hospitalization,6.345,2023-10-19
 2023,7,Pope County,1,2023-02-12,2023-02-18,11048,hospitalization,9.051,2023-10-19
 2023,7,Ramsey County,40,2023-02-12,2023-02-18,544442,hospitalization,7.347,2023-10-19
-2023,7,Red Lake County,0,2023-02-12,2023-02-18,4015,hospitalization,0,2023-10-19
+2023,7,Red Lake County,1,2023-02-12,2023-02-18,4015,hospitalization,24.907,2023-10-19
 2023,7,Redwood County,1,2023-02-12,2023-02-18,15261,hospitalization,6.553,2023-10-19
 2023,7,Renville County,1,2023-02-12,2023-02-18,14652,hospitalization,6.825,2023-10-19
 2023,7,Rice County,4,2023-02-12,2023-02-18,66185,hospitalization,6.044,2023-10-19
@@ -13630,7 +13630,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,7,Stevens County,0,2023-02-12,2023-02-18,9789,hospitalization,0,2023-10-19
 2023,7,Swift County,1,2023-02-12,2023-02-18,9359,hospitalization,10.685,2023-10-19
 2023,7,Todd County,1,2023-02-12,2023-02-18,24494,hospitalization,4.083,2023-10-19
-2023,7,Total,356,2023-02-12,2023-02-18,5563378,hospitalization,6.399,2023-10-19
+2023,7,Total,359,2023-02-12,2023-02-18,5563378,hospitalization,6.453,2023-10-19
 2023,7,Traverse County,1,2023-02-12,2023-02-18,3311,hospitalization,30.202,2023-10-19
 2023,7,Wabasha County,1,2023-02-12,2023-02-18,21537,hospitalization,4.643,2023-10-19
 2023,7,Wadena County,0,2023-02-12,2023-02-18,13654,hospitalization,0,2023-10-19
@@ -13684,7 +13684,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,8,Lincoln County,0,2023-02-19,2023-02-25,5677,hospitalization,0,2023-10-19
 2023,8,Lyon County,0,2023-02-19,2023-02-25,25758,hospitalization,0,2023-10-19
 2023,8,Mahnomen County,1,2023-02-19,2023-02-25,5501,hospitalization,18.179,2023-10-19
-2023,8,Marshall County,0,2023-02-19,2023-02-25,9372,hospitalization,0,2023-10-19
+2023,8,Marshall County,1,2023-02-19,2023-02-25,9372,hospitalization,10.67,2023-10-19
 2023,8,Martin County,0,2023-02-19,2023-02-25,19852,hospitalization,0,2023-10-19
 2023,8,McLeod County,1,2023-02-19,2023-02-25,35832,hospitalization,2.791,2023-10-19
 2023,8,Meeker County,1,2023-02-19,2023-02-25,23105,hospitalization,4.328,2023-10-19
@@ -13700,7 +13700,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,8,Pennington County,0,2023-02-19,2023-02-25,14183,hospitalization,0,2023-10-19
 2023,8,Pine County,5,2023-02-19,2023-02-25,29223,hospitalization,17.11,2023-10-19
 2023,8,Pipestone County,0,2023-02-19,2023-02-25,9191,hospitalization,0,2023-10-19
-2023,8,Polk County,0,2023-02-19,2023-02-25,31521,hospitalization,0,2023-10-19
+2023,8,Polk County,3,2023-02-19,2023-02-25,31521,hospitalization,9.517,2023-10-19
 2023,8,Pope County,3,2023-02-19,2023-02-25,11048,hospitalization,27.154,2023-10-19
 2023,8,Ramsey County,42,2023-02-19,2023-02-25,544442,hospitalization,7.714,2023-10-19
 2023,8,Red Lake County,0,2023-02-19,2023-02-25,4015,hospitalization,0,2023-10-19
@@ -13718,7 +13718,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,8,Stevens County,0,2023-02-19,2023-02-25,9789,hospitalization,0,2023-10-19
 2023,8,Swift County,1,2023-02-19,2023-02-25,9359,hospitalization,10.685,2023-10-19
 2023,8,Todd County,1,2023-02-19,2023-02-25,24494,hospitalization,4.083,2023-10-19
-2023,8,Total,357,2023-02-19,2023-02-25,5563378,hospitalization,6.417,2023-10-19
+2023,8,Total,361,2023-02-19,2023-02-25,5563378,hospitalization,6.489,2023-10-19
 2023,8,Traverse County,0,2023-02-19,2023-02-25,3311,hospitalization,0,2023-10-19
 2023,8,Wabasha County,0,2023-02-19,2023-02-25,21537,hospitalization,0,2023-10-19
 2023,8,Wadena County,0,2023-02-19,2023-02-25,13654,hospitalization,0,2023-10-19
@@ -13876,7 +13876,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,10,Pennington County,0,2023-03-05,2023-03-11,14183,hospitalization,0,2023-10-19
 2023,10,Pine County,1,2023-03-05,2023-03-11,29223,hospitalization,3.422,2023-10-19
 2023,10,Pipestone County,0,2023-03-05,2023-03-11,9191,hospitalization,0,2023-10-19
-2023,10,Polk County,0,2023-03-05,2023-03-11,31521,hospitalization,0,2023-10-19
+2023,10,Polk County,1,2023-03-05,2023-03-11,31521,hospitalization,3.172,2023-10-19
 2023,10,Pope County,1,2023-03-05,2023-03-11,11048,hospitalization,9.051,2023-10-19
 2023,10,Ramsey County,32,2023-03-05,2023-03-11,544442,hospitalization,5.878,2023-10-19
 2023,10,Red Lake County,0,2023-03-05,2023-03-11,4015,hospitalization,0,2023-10-19
@@ -13894,7 +13894,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,10,Stevens County,0,2023-03-05,2023-03-11,9789,hospitalization,0,2023-10-19
 2023,10,Swift County,0,2023-03-05,2023-03-11,9359,hospitalization,0,2023-10-19
 2023,10,Todd County,1,2023-03-05,2023-03-11,24494,hospitalization,4.083,2023-10-19
-2023,10,Total,293,2023-03-05,2023-03-11,5563378,hospitalization,5.267,2023-10-19
+2023,10,Total,294,2023-03-05,2023-03-11,5563378,hospitalization,5.285,2023-10-19
 2023,10,Traverse County,0,2023-03-05,2023-03-11,3311,hospitalization,0,2023-10-19
 2023,10,Wabasha County,1,2023-03-05,2023-03-11,21537,hospitalization,4.643,2023-10-19
 2023,10,Wadena County,0,2023-03-05,2023-03-11,13654,hospitalization,0,2023-10-19
@@ -13964,7 +13964,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,11,Pennington County,0,2023-03-12,2023-03-18,14183,hospitalization,0,2023-10-19
 2023,11,Pine County,0,2023-03-12,2023-03-18,29223,hospitalization,0,2023-10-19
 2023,11,Pipestone County,0,2023-03-12,2023-03-18,9191,hospitalization,0,2023-10-19
-2023,11,Polk County,0,2023-03-12,2023-03-18,31521,hospitalization,0,2023-10-19
+2023,11,Polk County,1,2023-03-12,2023-03-18,31521,hospitalization,3.172,2023-10-19
 2023,11,Pope County,2,2023-03-12,2023-03-18,11048,hospitalization,18.103,2023-10-19
 2023,11,Ramsey County,20,2023-03-12,2023-03-18,544442,hospitalization,3.673,2023-10-19
 2023,11,Red Lake County,0,2023-03-12,2023-03-18,4015,hospitalization,0,2023-10-19
@@ -13982,7 +13982,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,11,Stevens County,0,2023-03-12,2023-03-18,9789,hospitalization,0,2023-10-19
 2023,11,Swift County,0,2023-03-12,2023-03-18,9359,hospitalization,0,2023-10-19
 2023,11,Todd County,0,2023-03-12,2023-03-18,24494,hospitalization,0,2023-10-19
-2023,11,Total,241,2023-03-12,2023-03-18,5563378,hospitalization,4.332,2023-10-19
+2023,11,Total,242,2023-03-12,2023-03-18,5563378,hospitalization,4.35,2023-10-19
 2023,11,Traverse County,0,2023-03-12,2023-03-18,3311,hospitalization,0,2023-10-19
 2023,11,Wabasha County,0,2023-03-12,2023-03-18,21537,hospitalization,0,2023-10-19
 2023,11,Wadena County,0,2023-03-12,2023-03-18,13654,hospitalization,0,2023-10-19
@@ -15742,12 +15742,12 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,31,Stevens County,0,2023-07-30,2023-08-05,9789,hospitalization,0,2023-10-19
 2023,31,Swift County,0,2023-07-30,2023-08-05,9359,hospitalization,0,2023-10-19
 2023,31,Todd County,0,2023-07-30,2023-08-05,24494,hospitalization,0,2023-10-19
-2023,31,Total,96,2023-07-30,2023-08-05,5563378,hospitalization,1.726,2023-10-19
+2023,31,Total,97,2023-07-30,2023-08-05,5563378,hospitalization,1.744,2023-10-19
 2023,31,Traverse County,0,2023-07-30,2023-08-05,3311,hospitalization,0,2023-10-19
 2023,31,Wabasha County,1,2023-07-30,2023-08-05,21537,hospitalization,4.643,2023-10-19
 2023,31,Wadena County,0,2023-07-30,2023-08-05,13654,hospitalization,0,2023-10-19
 2023,31,Waseca County,0,2023-07-30,2023-08-05,18740,hospitalization,0,2023-10-19
-2023,31,Washington County,5,2023-07-30,2023-08-05,255938,hospitalization,1.954,2023-10-19
+2023,31,Washington County,6,2023-07-30,2023-08-05,255938,hospitalization,2.344,2023-10-19
 2023,31,Watonwan County,0,2023-07-30,2023-08-05,10972,hospitalization,0,2023-10-19
 2023,31,Wilkin County,1,2023-07-30,2023-08-05,6291,hospitalization,15.896,2023-10-19
 2023,31,Winona County,0,2023-07-30,2023-08-05,50725,hospitalization,0,2023-10-19
@@ -16123,7 +16123,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,36,Cook County,0,2023-09-03,2023-09-09,5376,hospitalization,0,2023-10-19
 2023,36,Cottonwood County,0,2023-09-03,2023-09-09,11299,hospitalization,0,2023-10-19
 2023,36,Crow Wing County,1,2023-09-03,2023-09-09,64217,hospitalization,1.557,2023-10-19
-2023,36,Dakota County,9,2023-09-03,2023-09-09,421453,hospitalization,2.135,2023-10-19
+2023,36,Dakota County,10,2023-09-03,2023-09-09,421453,hospitalization,2.373,2023-10-19
 2023,36,Dodge County,0,2023-09-03,2023-09-09,20669,hospitalization,0,2023-10-19
 2023,36,Douglas County,1,2023-09-03,2023-09-09,37513,hospitalization,2.666,2023-10-19
 2023,36,Faribault County,1,2023-09-03,2023-09-09,13801,hospitalization,7.246,2023-10-19
@@ -16182,7 +16182,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,36,Stevens County,0,2023-09-03,2023-09-09,9789,hospitalization,0,2023-10-19
 2023,36,Swift County,0,2023-09-03,2023-09-09,9359,hospitalization,0,2023-10-19
 2023,36,Todd County,1,2023-09-03,2023-09-09,24494,hospitalization,4.083,2023-10-19
-2023,36,Total,178,2023-09-03,2023-09-09,5563378,hospitalization,3.199,2023-10-19
+2023,36,Total,179,2023-09-03,2023-09-09,5563378,hospitalization,3.217,2023-10-19
 2023,36,Traverse County,0,2023-09-03,2023-09-09,3311,hospitalization,0,2023-10-19
 2023,36,Wabasha County,1,2023-09-03,2023-09-09,21537,hospitalization,4.643,2023-10-19
 2023,36,Wadena County,0,2023-09-03,2023-09-09,13654,hospitalization,0,2023-10-19
@@ -16202,7 +16202,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,37,Blue Earth County,2,2023-09-10,2023-09-16,66795,hospitalization,2.994,2023-10-19
 2023,37,Brown County,2,2023-09-10,2023-09-16,25163,hospitalization,7.948,2023-10-19
 2023,37,Carlton County,1,2023-09-10,2023-09-16,35633,hospitalization,2.806,2023-10-19
-2023,37,Carver County,5,2023-09-10,2023-09-16,101949,hospitalization,4.904,2023-10-19
+2023,37,Carver County,6,2023-09-10,2023-09-16,101949,hospitalization,5.885,2023-10-19
 2023,37,Cass County,2,2023-09-10,2023-09-16,29268,hospitalization,6.833,2023-10-19
 2023,37,Chippewa County,1,2023-09-10,2023-09-16,11953,hospitalization,8.366,2023-10-19
 2023,37,Chisago County,0,2023-09-10,2023-09-16,55315,hospitalization,0,2023-10-19
@@ -16265,12 +16265,12 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,37,Sherburne County,2,2023-09-10,2023-09-16,94463,hospitalization,2.117,2023-10-19
 2023,37,Sibley County,0,2023-09-10,2023-09-16,14892,hospitalization,0,2023-10-19
 2023,37,St. Louis County,5,2023-09-10,2023-09-16,199759,hospitalization,2.503,2023-10-19
-2023,37,Stearns County,5,2023-09-10,2023-09-16,158452,hospitalization,3.156,2023-10-19
+2023,37,Stearns County,6,2023-09-10,2023-09-16,158452,hospitalization,3.787,2023-10-19
 2023,37,Steele County,1,2023-09-10,2023-09-16,36683,hospitalization,2.726,2023-10-19
 2023,37,Stevens County,0,2023-09-10,2023-09-16,9789,hospitalization,0,2023-10-19
 2023,37,Swift County,0,2023-09-10,2023-09-16,9359,hospitalization,0,2023-10-19
 2023,37,Todd County,0,2023-09-10,2023-09-16,24494,hospitalization,0,2023-10-19
-2023,37,Total,193,2023-09-10,2023-09-16,5563378,hospitalization,3.469,2023-10-19
+2023,37,Total,195,2023-09-10,2023-09-16,5563378,hospitalization,3.505,2023-10-19
 2023,37,Traverse County,0,2023-09-10,2023-09-16,3311,hospitalization,0,2023-10-19
 2023,37,Wabasha County,2,2023-09-10,2023-09-16,21537,hospitalization,9.286,2023-10-19
 2023,37,Wadena County,0,2023-09-10,2023-09-16,13654,hospitalization,0,2023-10-19
@@ -16352,13 +16352,13 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,38,Scott County,6,2023-09-17,2023-09-23,145275,hospitalization,4.13,2023-10-19
 2023,38,Sherburne County,2,2023-09-17,2023-09-23,94463,hospitalization,2.117,2023-10-19
 2023,38,Sibley County,1,2023-09-17,2023-09-23,14892,hospitalization,6.715,2023-10-19
-2023,38,St. Louis County,9,2023-09-17,2023-09-23,199759,hospitalization,4.505,2023-10-19
+2023,38,St. Louis County,10,2023-09-17,2023-09-23,199759,hospitalization,5.006,2023-10-19
 2023,38,Stearns County,7,2023-09-17,2023-09-23,158452,hospitalization,4.418,2023-10-19
 2023,38,Steele County,1,2023-09-17,2023-09-23,36683,hospitalization,2.726,2023-10-19
 2023,38,Stevens County,0,2023-09-17,2023-09-23,9789,hospitalization,0,2023-10-19
 2023,38,Swift County,1,2023-09-17,2023-09-23,9359,hospitalization,10.685,2023-10-19
 2023,38,Todd County,1,2023-09-17,2023-09-23,24494,hospitalization,4.083,2023-10-19
-2023,38,Total,229,2023-09-17,2023-09-23,5563378,hospitalization,4.116,2023-10-19
+2023,38,Total,231,2023-09-17,2023-09-23,5563378,hospitalization,4.152,2023-10-19
 2023,38,Traverse County,0,2023-09-17,2023-09-23,3311,hospitalization,0,2023-10-19
 2023,38,Wabasha County,0,2023-09-17,2023-09-23,21537,hospitalization,0,2023-10-19
 2023,38,Wadena County,0,2023-09-17,2023-09-23,13654,hospitalization,0,2023-10-19
@@ -16366,7 +16366,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,38,Washington County,8,2023-09-17,2023-09-23,255938,hospitalization,3.126,2023-10-19
 2023,38,Watonwan County,1,2023-09-17,2023-09-23,10972,hospitalization,9.114,2023-10-19
 2023,38,Wilkin County,0,2023-09-17,2023-09-23,6291,hospitalization,0,2023-10-19
-2023,38,Winona County,0,2023-09-17,2023-09-23,50725,hospitalization,0,2023-10-19
+2023,38,Winona County,1,2023-09-17,2023-09-23,50725,hospitalization,1.971,2023-10-19
 2023,38,Wright County,8,2023-09-17,2023-09-23,134438,hospitalization,5.951,2023-10-19
 2023,38,Yellow Medicine County,0,2023-09-17,2023-09-23,9814,hospitalization,0,2023-10-19
 2023,39,Aitkin County,1,2023-09-24,2023-09-30,15834,hospitalization,6.316,2023-10-19
@@ -16458,7 +16458,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,39,Wright County,7,2023-09-24,2023-09-30,134438,hospitalization,5.207,2023-10-19
 2023,39,Yellow Medicine County,0,2023-09-24,2023-09-30,9814,hospitalization,0,2023-10-19
 2023,40,Aitkin County,0,2023-10-01,2023-10-07,15834,hospitalization,0,2023-10-19
-2023,40,Anoka County,16,2023-10-01,2023-10-07,350253,hospitalization,4.568,2023-10-19
+2023,40,Anoka County,17,2023-10-01,2023-10-07,350253,hospitalization,4.854,2023-10-19
 2023,40,Becker County,1,2023-10-01,2023-10-07,34011,hospitalization,2.94,2023-10-19
 2023,40,Beltrami County,0,2023-10-01,2023-10-07,46403,hospitalization,0,2023-10-19
 2023,40,Benton County,1,2023-10-01,2023-10-07,40129,hospitalization,2.492,2023-10-19
@@ -16483,11 +16483,11 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,40,Freeborn County,1,2023-10-01,2023-10-07,30463,hospitalization,3.283,2023-10-19
 2023,40,Goodhue County,2,2023-10-01,2023-10-07,46246,hospitalization,4.325,2023-10-19
 2023,40,Grant County,0,2023-10-01,2023-10-07,5935,hospitalization,0,2023-10-19
-2023,40,Hennepin County,45,2023-10-01,2023-10-07,1245837,hospitalization,3.612,2023-10-19
+2023,40,Hennepin County,46,2023-10-01,2023-10-07,1245837,hospitalization,3.692,2023-10-19
 2023,40,Houston County,0,2023-10-01,2023-10-07,18648,hospitalization,0,2023-10-19
 2023,40,Hubbard County,1,2023-10-01,2023-10-07,21019,hospitalization,4.758,2023-10-19
 2023,40,Isanti County,5,2023-10-01,2023-10-07,39430,hospitalization,12.681,2023-10-19
-2023,40,Itasca County,1,2023-10-01,2023-10-07,45141,hospitalization,2.215,2023-10-19
+2023,40,Itasca County,0,2023-10-01,2023-10-07,45141,hospitalization,0,2023-10-19
 2023,40,Jackson County,0,2023-10-01,2023-10-07,9954,hospitalization,0,2023-10-19
 2023,40,Kanabec County,0,2023-10-01,2023-10-07,16089,hospitalization,0,2023-10-19
 2023,40,Kandiyohi County,0,2023-10-01,2023-10-07,42841,hospitalization,0,2023-10-19
@@ -16518,7 +16518,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,40,Pipestone County,0,2023-10-01,2023-10-07,9191,hospitalization,0,2023-10-19
 2023,40,Polk County,1,2023-10-01,2023-10-07,31521,hospitalization,3.172,2023-10-19
 2023,40,Pope County,0,2023-10-01,2023-10-07,11048,hospitalization,0,2023-10-19
-2023,40,Ramsey County,22,2023-10-01,2023-10-07,544442,hospitalization,4.041,2023-10-19
+2023,40,Ramsey County,23,2023-10-01,2023-10-07,544442,hospitalization,4.225,2023-10-19
 2023,40,Red Lake County,0,2023-10-01,2023-10-07,4015,hospitalization,0,2023-10-19
 2023,40,Redwood County,1,2023-10-01,2023-10-07,15261,hospitalization,6.553,2023-10-19
 2023,40,Renville County,0,2023-10-01,2023-10-07,14652,hospitalization,0,2023-10-19
@@ -16526,15 +16526,15 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,40,Rock County,0,2023-10-01,2023-10-07,9402,hospitalization,0,2023-10-19
 2023,40,Roseau County,0,2023-10-01,2023-10-07,15361,hospitalization,0,2023-10-19
 2023,40,Scott County,1,2023-10-01,2023-10-07,145275,hospitalization,0.688,2023-10-19
-2023,40,Sherburne County,1,2023-10-01,2023-10-07,94463,hospitalization,1.059,2023-10-19
+2023,40,Sherburne County,2,2023-10-01,2023-10-07,94463,hospitalization,2.117,2023-10-19
 2023,40,Sibley County,0,2023-10-01,2023-10-07,14892,hospitalization,0,2023-10-19
-2023,40,St. Louis County,8,2023-10-01,2023-10-07,199759,hospitalization,4.005,2023-10-19
+2023,40,St. Louis County,10,2023-10-01,2023-10-07,199759,hospitalization,5.006,2023-10-19
 2023,40,Stearns County,10,2023-10-01,2023-10-07,158452,hospitalization,6.311,2023-10-19
 2023,40,Steele County,2,2023-10-01,2023-10-07,36683,hospitalization,5.452,2023-10-19
 2023,40,Stevens County,0,2023-10-01,2023-10-07,9789,hospitalization,0,2023-10-19
 2023,40,Swift County,0,2023-10-01,2023-10-07,9359,hospitalization,0,2023-10-19
 2023,40,Todd County,1,2023-10-01,2023-10-07,24494,hospitalization,4.083,2023-10-19
-2023,40,Total,206,2023-10-01,2023-10-07,5563378,hospitalization,3.703,2023-10-19
+2023,40,Total,211,2023-10-01,2023-10-07,5563378,hospitalization,3.793,2023-10-19
 2023,40,Traverse County,0,2023-10-01,2023-10-07,3311,hospitalization,0,2023-10-19
 2023,40,Wabasha County,0,2023-10-01,2023-10-07,21537,hospitalization,0,2023-10-19
 2023,40,Wadena County,1,2023-10-01,2023-10-07,13654,hospitalization,7.324,2023-10-19
@@ -16545,41 +16545,41 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,40,Winona County,0,2023-10-01,2023-10-07,50725,hospitalization,0,2023-10-19
 2023,40,Wright County,8,2023-10-01,2023-10-07,134438,hospitalization,5.951,2023-10-19
 2023,40,Yellow Medicine County,1,2023-10-01,2023-10-07,9814,hospitalization,10.19,2023-10-19
-2023,41,Aitkin County,0,2023-10-08,2023-10-14,15834,hospitalization,0,2023-10-19
-2023,41,Anoka County,9,2023-10-08,2023-10-14,350253,hospitalization,2.57,2023-10-19
+2023,41,Aitkin County,1,2023-10-08,2023-10-14,15834,hospitalization,6.316,2023-10-19
+2023,41,Anoka County,18,2023-10-08,2023-10-14,350253,hospitalization,5.139,2023-10-19
 2023,41,Becker County,2,2023-10-08,2023-10-14,34011,hospitalization,5.88,2023-10-19
-2023,41,Beltrami County,1,2023-10-08,2023-10-14,46403,hospitalization,2.155,2023-10-19
-2023,41,Benton County,2,2023-10-08,2023-10-14,40129,hospitalization,4.984,2023-10-19
+2023,41,Beltrami County,3,2023-10-08,2023-10-14,46403,hospitalization,6.465,2023-10-19
+2023,41,Benton County,3,2023-10-08,2023-10-14,40129,hospitalization,7.476,2023-10-19
 2023,41,Big Stone County,0,2023-10-08,2023-10-14,4996,hospitalization,0,2023-10-19
-2023,41,Blue Earth County,3,2023-10-08,2023-10-14,66795,hospitalization,4.491,2023-10-19
-2023,41,Brown County,0,2023-10-08,2023-10-14,25163,hospitalization,0,2023-10-19
+2023,41,Blue Earth County,6,2023-10-08,2023-10-14,66795,hospitalization,8.983,2023-10-19
+2023,41,Brown County,2,2023-10-08,2023-10-14,25163,hospitalization,7.948,2023-10-19
 2023,41,Carlton County,1,2023-10-08,2023-10-14,35633,hospitalization,2.806,2023-10-19
-2023,41,Carver County,0,2023-10-08,2023-10-14,101949,hospitalization,0,2023-10-19
-2023,41,Cass County,1,2023-10-08,2023-10-14,29268,hospitalization,3.417,2023-10-19
+2023,41,Carver County,1,2023-10-08,2023-10-14,101949,hospitalization,0.981,2023-10-19
+2023,41,Cass County,2,2023-10-08,2023-10-14,29268,hospitalization,6.833,2023-10-19
 2023,41,Chippewa County,0,2023-10-08,2023-10-14,11953,hospitalization,0,2023-10-19
 2023,41,Chisago County,3,2023-10-08,2023-10-14,55315,hospitalization,5.423,2023-10-19
 2023,41,Clay County,0,2023-10-08,2023-10-14,63446,hospitalization,0,2023-10-19
 2023,41,Clearwater County,1,2023-10-08,2023-10-14,8821,hospitalization,11.337,2023-10-19
 2023,41,Cook County,0,2023-10-08,2023-10-14,5376,hospitalization,0,2023-10-19
 2023,41,Cottonwood County,0,2023-10-08,2023-10-14,11299,hospitalization,0,2023-10-19
-2023,41,Crow Wing County,3,2023-10-08,2023-10-14,64217,hospitalization,4.672,2023-10-19
-2023,41,Dakota County,15,2023-10-08,2023-10-14,421453,hospitalization,3.559,2023-10-19
+2023,41,Crow Wing County,4,2023-10-08,2023-10-14,64217,hospitalization,6.229,2023-10-19
+2023,41,Dakota County,18,2023-10-08,2023-10-14,421453,hospitalization,4.271,2023-10-19
 2023,41,Dodge County,1,2023-10-08,2023-10-14,20669,hospitalization,4.838,2023-10-19
 2023,41,Douglas County,2,2023-10-08,2023-10-14,37513,hospitalization,5.331,2023-10-19
 2023,41,Faribault County,0,2023-10-08,2023-10-14,13801,hospitalization,0,2023-10-19
-2023,41,Fillmore County,0,2023-10-08,2023-10-14,20949,hospitalization,0,2023-10-19
+2023,41,Fillmore County,2,2023-10-08,2023-10-14,20949,hospitalization,9.547,2023-10-19
 2023,41,Freeborn County,2,2023-10-08,2023-10-14,30463,hospitalization,6.565,2023-10-19
-2023,41,Goodhue County,2,2023-10-08,2023-10-14,46246,hospitalization,4.325,2023-10-19
+2023,41,Goodhue County,4,2023-10-08,2023-10-14,46246,hospitalization,8.649,2023-10-19
 2023,41,Grant County,0,2023-10-08,2023-10-14,5935,hospitalization,0,2023-10-19
-2023,41,Hennepin County,44,2023-10-08,2023-10-14,1245837,hospitalization,3.532,2023-10-19
+2023,41,Hennepin County,64,2023-10-08,2023-10-14,1245837,hospitalization,5.137,2023-10-19
 2023,41,Houston County,1,2023-10-08,2023-10-14,18648,hospitalization,5.363,2023-10-19
 2023,41,Hubbard County,0,2023-10-08,2023-10-14,21019,hospitalization,0,2023-10-19
-2023,41,Isanti County,2,2023-10-08,2023-10-14,39430,hospitalization,5.072,2023-10-19
+2023,41,Isanti County,3,2023-10-08,2023-10-14,39430,hospitalization,7.608,2023-10-19
 2023,41,Itasca County,2,2023-10-08,2023-10-14,45141,hospitalization,4.431,2023-10-19
 2023,41,Jackson County,0,2023-10-08,2023-10-14,9954,hospitalization,0,2023-10-19
 2023,41,Kanabec County,1,2023-10-08,2023-10-14,16089,hospitalization,6.215,2023-10-19
 2023,41,Kandiyohi County,0,2023-10-08,2023-10-14,42841,hospitalization,0,2023-10-19
-2023,41,Kittson County,0,2023-10-08,2023-10-14,4311,hospitalization,0,2023-10-19
+2023,41,Kittson County,1,2023-10-08,2023-10-14,4311,hospitalization,23.196,2023-10-19
 2023,41,Koochiching County,1,2023-10-08,2023-10-14,12515,hospitalization,7.99,2023-10-19
 2023,41,Lac qui Parle County,0,2023-10-08,2023-10-14,6719,hospitalization,0,2023-10-19
 2023,41,Lake County,0,2023-10-08,2023-10-14,10560,hospitalization,0,2023-10-19
@@ -16593,134 +16593,222 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,41,McLeod County,0,2023-10-08,2023-10-14,35832,hospitalization,0,2023-10-19
 2023,41,Meeker County,0,2023-10-08,2023-10-14,23105,hospitalization,0,2023-10-19
 2023,41,Mille Lacs County,1,2023-10-08,2023-10-14,25865,hospitalization,3.866,2023-10-19
-2023,41,Morrison County,1,2023-10-08,2023-10-14,33064,hospitalization,3.024,2023-10-19
-2023,41,Mower County,0,2023-10-08,2023-10-14,39807,hospitalization,0,2023-10-19
+2023,41,Morrison County,2,2023-10-08,2023-10-14,33064,hospitalization,6.049,2023-10-19
+2023,41,Mower County,1,2023-10-08,2023-10-14,39807,hospitalization,2.512,2023-10-19
 2023,41,Murray County,0,2023-10-08,2023-10-14,8296,hospitalization,0,2023-10-19
 2023,41,Nicollet County,0,2023-10-08,2023-10-14,33954,hospitalization,0,2023-10-19
 2023,41,Nobles County,0,2023-10-08,2023-10-14,21734,hospitalization,0,2023-10-19
 2023,41,Norman County,1,2023-10-08,2023-10-14,6520,hospitalization,15.337,2023-10-19
-2023,41,Olmsted County,4,2023-10-08,2023-10-14,154809,hospitalization,2.584,2023-10-19
+2023,41,Olmsted County,8,2023-10-08,2023-10-14,154809,hospitalization,5.168,2023-10-19
 2023,41,Otter Tail County,1,2023-10-08,2023-10-14,58195,hospitalization,1.718,2023-10-19
 2023,41,Pennington County,0,2023-10-08,2023-10-14,14183,hospitalization,0,2023-10-19
 2023,41,Pine County,1,2023-10-08,2023-10-14,29223,hospitalization,3.422,2023-10-19
 2023,41,Pipestone County,4,2023-10-08,2023-10-14,9191,hospitalization,43.521,2023-10-19
 2023,41,Polk County,2,2023-10-08,2023-10-14,31521,hospitalization,6.345,2023-10-19
 2023,41,Pope County,0,2023-10-08,2023-10-14,11048,hospitalization,0,2023-10-19
-2023,41,Ramsey County,14,2023-10-08,2023-10-14,544442,hospitalization,2.571,2023-10-19
+2023,41,Ramsey County,23,2023-10-08,2023-10-14,544442,hospitalization,4.225,2023-10-19
 2023,41,Red Lake County,0,2023-10-08,2023-10-14,4015,hospitalization,0,2023-10-19
 2023,41,Redwood County,0,2023-10-08,2023-10-14,15261,hospitalization,0,2023-10-19
 2023,41,Renville County,1,2023-10-08,2023-10-14,14652,hospitalization,6.825,2023-10-19
 2023,41,Rice County,2,2023-10-08,2023-10-14,66185,hospitalization,3.022,2023-10-19
 2023,41,Rock County,0,2023-10-08,2023-10-14,9402,hospitalization,0,2023-10-19
 2023,41,Roseau County,0,2023-10-08,2023-10-14,15361,hospitalization,0,2023-10-19
-2023,41,Scott County,6,2023-10-08,2023-10-14,145275,hospitalization,4.13,2023-10-19
+2023,41,Scott County,7,2023-10-08,2023-10-14,145275,hospitalization,4.818,2023-10-19
 2023,41,Sherburne County,2,2023-10-08,2023-10-14,94463,hospitalization,2.117,2023-10-19
 2023,41,Sibley County,0,2023-10-08,2023-10-14,14892,hospitalization,0,2023-10-19
-2023,41,St. Louis County,9,2023-10-08,2023-10-14,199759,hospitalization,4.505,2023-10-19
-2023,41,Stearns County,7,2023-10-08,2023-10-14,158452,hospitalization,4.418,2023-10-19
-2023,41,Steele County,1,2023-10-08,2023-10-14,36683,hospitalization,2.726,2023-10-19
+2023,41,St. Louis County,10,2023-10-08,2023-10-14,199759,hospitalization,5.006,2023-10-19
+2023,41,Stearns County,12,2023-10-08,2023-10-14,158452,hospitalization,7.573,2023-10-19
+2023,41,Steele County,2,2023-10-08,2023-10-14,36683,hospitalization,5.452,2023-10-19
 2023,41,Stevens County,1,2023-10-08,2023-10-14,9789,hospitalization,10.216,2023-10-19
 2023,41,Swift County,0,2023-10-08,2023-10-14,9359,hospitalization,0,2023-10-19
 2023,41,Todd County,0,2023-10-08,2023-10-14,24494,hospitalization,0,2023-10-19
-2023,41,Total,169,2023-10-08,2023-10-14,5563378,hospitalization,3.038,2023-10-19
+2023,41,Total,247,2023-10-08,2023-10-14,5563378,hospitalization,4.44,2023-10-19
 2023,41,Traverse County,0,2023-10-08,2023-10-14,3311,hospitalization,0,2023-10-19
 2023,41,Wabasha County,0,2023-10-08,2023-10-14,21537,hospitalization,0,2023-10-19
-2023,41,Wadena County,1,2023-10-08,2023-10-14,13654,hospitalization,7.324,2023-10-19
-2023,41,Waseca County,2,2023-10-08,2023-10-14,18740,hospitalization,10.672,2023-10-19
-2023,41,Washington County,4,2023-10-08,2023-10-14,255938,hospitalization,1.563,2023-10-19
+2023,41,Wadena County,2,2023-10-08,2023-10-14,13654,hospitalization,14.648,2023-10-19
+2023,41,Waseca County,3,2023-10-08,2023-10-14,18740,hospitalization,16.009,2023-10-19
+2023,41,Washington County,5,2023-10-08,2023-10-14,255938,hospitalization,1.954,2023-10-19
 2023,41,Watonwan County,0,2023-10-08,2023-10-14,10972,hospitalization,0,2023-10-19
 2023,41,Wilkin County,1,2023-10-08,2023-10-14,6291,hospitalization,15.896,2023-10-19
 2023,41,Winona County,0,2023-10-08,2023-10-14,50725,hospitalization,0,2023-10-19
-2023,41,Wright County,2,2023-10-08,2023-10-14,134438,hospitalization,1.488,2023-10-19
+2023,41,Wright County,4,2023-10-08,2023-10-14,134438,hospitalization,2.975,2023-10-19
 2023,41,Yellow Medicine County,0,2023-10-08,2023-10-14,9814,hospitalization,0,2023-10-19
-2023,42,Aitkin County,0,2023-10-15,2023-10-21,15834,hospitalization,0,2023-10-19
-2023,42,Anoka County,0,2023-10-15,2023-10-21,350253,hospitalization,0,2023-10-19
-2023,42,Becker County,0,2023-10-15,2023-10-21,34011,hospitalization,0,2023-10-19
-2023,42,Beltrami County,0,2023-10-15,2023-10-21,46403,hospitalization,0,2023-10-19
-2023,42,Benton County,0,2023-10-15,2023-10-21,40129,hospitalization,0,2023-10-19
+2023,42,Aitkin County,3,2023-10-15,2023-10-21,15834,hospitalization,18.947,2023-10-19
+2023,42,Anoka County,10,2023-10-15,2023-10-21,350253,hospitalization,2.855,2023-10-19
+2023,42,Becker County,3,2023-10-15,2023-10-21,34011,hospitalization,8.821,2023-10-19
+2023,42,Beltrami County,1,2023-10-15,2023-10-21,46403,hospitalization,2.155,2023-10-19
+2023,42,Benton County,3,2023-10-15,2023-10-21,40129,hospitalization,7.476,2023-10-19
 2023,42,Big Stone County,0,2023-10-15,2023-10-21,4996,hospitalization,0,2023-10-19
-2023,42,Blue Earth County,0,2023-10-15,2023-10-21,66795,hospitalization,0,2023-10-19
+2023,42,Blue Earth County,7,2023-10-15,2023-10-21,66795,hospitalization,10.48,2023-10-19
 2023,42,Brown County,0,2023-10-15,2023-10-21,25163,hospitalization,0,2023-10-19
-2023,42,Carlton County,0,2023-10-15,2023-10-21,35633,hospitalization,0,2023-10-19
-2023,42,Carver County,0,2023-10-15,2023-10-21,101949,hospitalization,0,2023-10-19
+2023,42,Carlton County,5,2023-10-15,2023-10-21,35633,hospitalization,14.032,2023-10-19
+2023,42,Carver County,4,2023-10-15,2023-10-21,101949,hospitalization,3.924,2023-10-19
 2023,42,Cass County,0,2023-10-15,2023-10-21,29268,hospitalization,0,2023-10-19
 2023,42,Chippewa County,0,2023-10-15,2023-10-21,11953,hospitalization,0,2023-10-19
-2023,42,Chisago County,0,2023-10-15,2023-10-21,55315,hospitalization,0,2023-10-19
+2023,42,Chisago County,2,2023-10-15,2023-10-21,55315,hospitalization,3.616,2023-10-19
 2023,42,Clay County,0,2023-10-15,2023-10-21,63446,hospitalization,0,2023-10-19
-2023,42,Clearwater County,0,2023-10-15,2023-10-21,8821,hospitalization,0,2023-10-19
+2023,42,Clearwater County,1,2023-10-15,2023-10-21,8821,hospitalization,11.337,2023-10-19
 2023,42,Cook County,0,2023-10-15,2023-10-21,5376,hospitalization,0,2023-10-19
 2023,42,Cottonwood County,0,2023-10-15,2023-10-21,11299,hospitalization,0,2023-10-19
-2023,42,Crow Wing County,0,2023-10-15,2023-10-21,64217,hospitalization,0,2023-10-19
-2023,42,Dakota County,0,2023-10-15,2023-10-21,421453,hospitalization,0,2023-10-19
+2023,42,Crow Wing County,3,2023-10-15,2023-10-21,64217,hospitalization,4.672,2023-10-19
+2023,42,Dakota County,9,2023-10-15,2023-10-21,421453,hospitalization,2.135,2023-10-19
 2023,42,Dodge County,0,2023-10-15,2023-10-21,20669,hospitalization,0,2023-10-19
-2023,42,Douglas County,0,2023-10-15,2023-10-21,37513,hospitalization,0,2023-10-19
+2023,42,Douglas County,3,2023-10-15,2023-10-21,37513,hospitalization,7.997,2023-10-19
 2023,42,Faribault County,0,2023-10-15,2023-10-21,13801,hospitalization,0,2023-10-19
 2023,42,Fillmore County,0,2023-10-15,2023-10-21,20949,hospitalization,0,2023-10-19
 2023,42,Freeborn County,0,2023-10-15,2023-10-21,30463,hospitalization,0,2023-10-19
-2023,42,Goodhue County,0,2023-10-15,2023-10-21,46246,hospitalization,0,2023-10-19
+2023,42,Goodhue County,3,2023-10-15,2023-10-21,46246,hospitalization,6.487,2023-10-19
 2023,42,Grant County,0,2023-10-15,2023-10-21,5935,hospitalization,0,2023-10-19
-2023,42,Hennepin County,0,2023-10-15,2023-10-21,1245837,hospitalization,0,2023-10-19
+2023,42,Hennepin County,41,2023-10-15,2023-10-21,1245837,hospitalization,3.291,2023-10-19
 2023,42,Houston County,0,2023-10-15,2023-10-21,18648,hospitalization,0,2023-10-19
 2023,42,Hubbard County,0,2023-10-15,2023-10-21,21019,hospitalization,0,2023-10-19
-2023,42,Isanti County,0,2023-10-15,2023-10-21,39430,hospitalization,0,2023-10-19
-2023,42,Itasca County,0,2023-10-15,2023-10-21,45141,hospitalization,0,2023-10-19
+2023,42,Isanti County,2,2023-10-15,2023-10-21,39430,hospitalization,5.072,2023-10-19
+2023,42,Itasca County,4,2023-10-15,2023-10-21,45141,hospitalization,8.861,2023-10-19
 2023,42,Jackson County,0,2023-10-15,2023-10-21,9954,hospitalization,0,2023-10-19
-2023,42,Kanabec County,0,2023-10-15,2023-10-21,16089,hospitalization,0,2023-10-19
+2023,42,Kanabec County,1,2023-10-15,2023-10-21,16089,hospitalization,6.215,2023-10-19
 2023,42,Kandiyohi County,0,2023-10-15,2023-10-21,42841,hospitalization,0,2023-10-19
-2023,42,Kittson County,0,2023-10-15,2023-10-21,4311,hospitalization,0,2023-10-19
+2023,42,Kittson County,1,2023-10-15,2023-10-21,4311,hospitalization,23.196,2023-10-19
 2023,42,Koochiching County,0,2023-10-15,2023-10-21,12515,hospitalization,0,2023-10-19
 2023,42,Lac qui Parle County,0,2023-10-15,2023-10-21,6719,hospitalization,0,2023-10-19
 2023,42,Lake County,0,2023-10-15,2023-10-21,10560,hospitalization,0,2023-10-19
 2023,42,Lake of the Woods County,0,2023-10-15,2023-10-21,3771,hospitalization,0,2023-10-19
-2023,42,Le Sueur County,0,2023-10-15,2023-10-21,28242,hospitalization,0,2023-10-19
+2023,42,Le Sueur County,1,2023-10-15,2023-10-21,28242,hospitalization,3.541,2023-10-19
 2023,42,Lincoln County,0,2023-10-15,2023-10-21,5677,hospitalization,0,2023-10-19
-2023,42,Lyon County,0,2023-10-15,2023-10-21,25758,hospitalization,0,2023-10-19
+2023,42,Lyon County,1,2023-10-15,2023-10-21,25758,hospitalization,3.882,2023-10-19
 2023,42,Mahnomen County,0,2023-10-15,2023-10-21,5501,hospitalization,0,2023-10-19
 2023,42,Marshall County,0,2023-10-15,2023-10-21,9372,hospitalization,0,2023-10-19
 2023,42,Martin County,0,2023-10-15,2023-10-21,19852,hospitalization,0,2023-10-19
 2023,42,McLeod County,0,2023-10-15,2023-10-21,35832,hospitalization,0,2023-10-19
-2023,42,Meeker County,0,2023-10-15,2023-10-21,23105,hospitalization,0,2023-10-19
-2023,42,Mille Lacs County,0,2023-10-15,2023-10-21,25865,hospitalization,0,2023-10-19
-2023,42,Morrison County,0,2023-10-15,2023-10-21,33064,hospitalization,0,2023-10-19
-2023,42,Mower County,0,2023-10-15,2023-10-21,39807,hospitalization,0,2023-10-19
+2023,42,Meeker County,1,2023-10-15,2023-10-21,23105,hospitalization,4.328,2023-10-19
+2023,42,Mille Lacs County,1,2023-10-15,2023-10-21,25865,hospitalization,3.866,2023-10-19
+2023,42,Morrison County,1,2023-10-15,2023-10-21,33064,hospitalization,3.024,2023-10-19
+2023,42,Mower County,2,2023-10-15,2023-10-21,39807,hospitalization,5.024,2023-10-19
 2023,42,Murray County,0,2023-10-15,2023-10-21,8296,hospitalization,0,2023-10-19
 2023,42,Nicollet County,0,2023-10-15,2023-10-21,33954,hospitalization,0,2023-10-19
 2023,42,Nobles County,0,2023-10-15,2023-10-21,21734,hospitalization,0,2023-10-19
 2023,42,Norman County,0,2023-10-15,2023-10-21,6520,hospitalization,0,2023-10-19
-2023,42,Olmsted County,0,2023-10-15,2023-10-21,154809,hospitalization,0,2023-10-19
-2023,42,Otter Tail County,0,2023-10-15,2023-10-21,58195,hospitalization,0,2023-10-19
+2023,42,Olmsted County,14,2023-10-15,2023-10-21,154809,hospitalization,9.043,2023-10-19
+2023,42,Otter Tail County,1,2023-10-15,2023-10-21,58195,hospitalization,1.718,2023-10-19
 2023,42,Pennington County,0,2023-10-15,2023-10-21,14183,hospitalization,0,2023-10-19
 2023,42,Pine County,0,2023-10-15,2023-10-21,29223,hospitalization,0,2023-10-19
-2023,42,Pipestone County,0,2023-10-15,2023-10-21,9191,hospitalization,0,2023-10-19
+2023,42,Pipestone County,1,2023-10-15,2023-10-21,9191,hospitalization,10.88,2023-10-19
 2023,42,Polk County,0,2023-10-15,2023-10-21,31521,hospitalization,0,2023-10-19
 2023,42,Pope County,0,2023-10-15,2023-10-21,11048,hospitalization,0,2023-10-19
-2023,42,Ramsey County,0,2023-10-15,2023-10-21,544442,hospitalization,0,2023-10-19
+2023,42,Ramsey County,23,2023-10-15,2023-10-21,544442,hospitalization,4.225,2023-10-19
 2023,42,Red Lake County,0,2023-10-15,2023-10-21,4015,hospitalization,0,2023-10-19
 2023,42,Redwood County,0,2023-10-15,2023-10-21,15261,hospitalization,0,2023-10-19
 2023,42,Renville County,0,2023-10-15,2023-10-21,14652,hospitalization,0,2023-10-19
-2023,42,Rice County,0,2023-10-15,2023-10-21,66185,hospitalization,0,2023-10-19
+2023,42,Rice County,1,2023-10-15,2023-10-21,66185,hospitalization,1.511,2023-10-19
 2023,42,Rock County,0,2023-10-15,2023-10-21,9402,hospitalization,0,2023-10-19
 2023,42,Roseau County,0,2023-10-15,2023-10-21,15361,hospitalization,0,2023-10-19
-2023,42,Scott County,0,2023-10-15,2023-10-21,145275,hospitalization,0,2023-10-19
-2023,42,Sherburne County,0,2023-10-15,2023-10-21,94463,hospitalization,0,2023-10-19
+2023,42,Scott County,5,2023-10-15,2023-10-21,145275,hospitalization,3.442,2023-10-19
+2023,42,Sherburne County,4,2023-10-15,2023-10-21,94463,hospitalization,4.234,2023-10-19
 2023,42,Sibley County,0,2023-10-15,2023-10-21,14892,hospitalization,0,2023-10-19
-2023,42,St. Louis County,0,2023-10-15,2023-10-21,199759,hospitalization,0,2023-10-19
-2023,42,Stearns County,0,2023-10-15,2023-10-21,158452,hospitalization,0,2023-10-19
-2023,42,Steele County,0,2023-10-15,2023-10-21,36683,hospitalization,0,2023-10-19
+2023,42,St. Louis County,8,2023-10-15,2023-10-21,199759,hospitalization,4.005,2023-10-19
+2023,42,Stearns County,3,2023-10-15,2023-10-21,158452,hospitalization,1.893,2023-10-19
+2023,42,Steele County,2,2023-10-15,2023-10-21,36683,hospitalization,5.452,2023-10-19
 2023,42,Stevens County,0,2023-10-15,2023-10-21,9789,hospitalization,0,2023-10-19
 2023,42,Swift County,0,2023-10-15,2023-10-21,9359,hospitalization,0,2023-10-19
 2023,42,Todd County,0,2023-10-15,2023-10-21,24494,hospitalization,0,2023-10-19
-2023,42,Total,0,2023-10-15,2023-10-21,5563378,hospitalization,0,2023-10-19
+2023,42,Total,193,2023-10-15,2023-10-21,5563378,hospitalization,3.469,2023-10-19
 2023,42,Traverse County,0,2023-10-15,2023-10-21,3311,hospitalization,0,2023-10-19
-2023,42,Wabasha County,0,2023-10-15,2023-10-21,21537,hospitalization,0,2023-10-19
+2023,42,Wabasha County,1,2023-10-15,2023-10-21,21537,hospitalization,4.643,2023-10-19
 2023,42,Wadena County,0,2023-10-15,2023-10-21,13654,hospitalization,0,2023-10-19
 2023,42,Waseca County,0,2023-10-15,2023-10-21,18740,hospitalization,0,2023-10-19
-2023,42,Washington County,0,2023-10-15,2023-10-21,255938,hospitalization,0,2023-10-19
-2023,42,Watonwan County,0,2023-10-15,2023-10-21,10972,hospitalization,0,2023-10-19
+2023,42,Washington County,10,2023-10-15,2023-10-21,255938,hospitalization,3.907,2023-10-19
+2023,42,Watonwan County,1,2023-10-15,2023-10-21,10972,hospitalization,9.114,2023-10-19
 2023,42,Wilkin County,0,2023-10-15,2023-10-21,6291,hospitalization,0,2023-10-19
-2023,42,Winona County,0,2023-10-15,2023-10-21,50725,hospitalization,0,2023-10-19
-2023,42,Wright County,0,2023-10-15,2023-10-21,134438,hospitalization,0,2023-10-19
-2023,42,Yellow Medicine County,0,2023-10-15,2023-10-21,9814,hospitalization,0,2023-10-19
+2023,42,Winona County,1,2023-10-15,2023-10-21,50725,hospitalization,1.971,2023-10-19
+2023,42,Wright County,4,2023-10-15,2023-10-21,134438,hospitalization,2.975,2023-10-19
+2023,42,Yellow Medicine County,1,2023-10-15,2023-10-21,9814,hospitalization,10.19,2023-10-19
+2023,43,Aitkin County,0,2023-10-22,2023-10-28,15834,hospitalization,0,2023-10-19
+2023,43,Anoka County,0,2023-10-22,2023-10-28,350253,hospitalization,0,2023-10-19
+2023,43,Becker County,0,2023-10-22,2023-10-28,34011,hospitalization,0,2023-10-19
+2023,43,Beltrami County,0,2023-10-22,2023-10-28,46403,hospitalization,0,2023-10-19
+2023,43,Benton County,0,2023-10-22,2023-10-28,40129,hospitalization,0,2023-10-19
+2023,43,Big Stone County,0,2023-10-22,2023-10-28,4996,hospitalization,0,2023-10-19
+2023,43,Blue Earth County,0,2023-10-22,2023-10-28,66795,hospitalization,0,2023-10-19
+2023,43,Brown County,0,2023-10-22,2023-10-28,25163,hospitalization,0,2023-10-19
+2023,43,Carlton County,0,2023-10-22,2023-10-28,35633,hospitalization,0,2023-10-19
+2023,43,Carver County,0,2023-10-22,2023-10-28,101949,hospitalization,0,2023-10-19
+2023,43,Cass County,0,2023-10-22,2023-10-28,29268,hospitalization,0,2023-10-19
+2023,43,Chippewa County,0,2023-10-22,2023-10-28,11953,hospitalization,0,2023-10-19
+2023,43,Chisago County,0,2023-10-22,2023-10-28,55315,hospitalization,0,2023-10-19
+2023,43,Clay County,0,2023-10-22,2023-10-28,63446,hospitalization,0,2023-10-19
+2023,43,Clearwater County,0,2023-10-22,2023-10-28,8821,hospitalization,0,2023-10-19
+2023,43,Cook County,0,2023-10-22,2023-10-28,5376,hospitalization,0,2023-10-19
+2023,43,Cottonwood County,0,2023-10-22,2023-10-28,11299,hospitalization,0,2023-10-19
+2023,43,Crow Wing County,0,2023-10-22,2023-10-28,64217,hospitalization,0,2023-10-19
+2023,43,Dakota County,0,2023-10-22,2023-10-28,421453,hospitalization,0,2023-10-19
+2023,43,Dodge County,0,2023-10-22,2023-10-28,20669,hospitalization,0,2023-10-19
+2023,43,Douglas County,0,2023-10-22,2023-10-28,37513,hospitalization,0,2023-10-19
+2023,43,Faribault County,0,2023-10-22,2023-10-28,13801,hospitalization,0,2023-10-19
+2023,43,Fillmore County,0,2023-10-22,2023-10-28,20949,hospitalization,0,2023-10-19
+2023,43,Freeborn County,0,2023-10-22,2023-10-28,30463,hospitalization,0,2023-10-19
+2023,43,Goodhue County,0,2023-10-22,2023-10-28,46246,hospitalization,0,2023-10-19
+2023,43,Grant County,0,2023-10-22,2023-10-28,5935,hospitalization,0,2023-10-19
+2023,43,Hennepin County,0,2023-10-22,2023-10-28,1245837,hospitalization,0,2023-10-19
+2023,43,Houston County,0,2023-10-22,2023-10-28,18648,hospitalization,0,2023-10-19
+2023,43,Hubbard County,0,2023-10-22,2023-10-28,21019,hospitalization,0,2023-10-19
+2023,43,Isanti County,0,2023-10-22,2023-10-28,39430,hospitalization,0,2023-10-19
+2023,43,Itasca County,0,2023-10-22,2023-10-28,45141,hospitalization,0,2023-10-19
+2023,43,Jackson County,0,2023-10-22,2023-10-28,9954,hospitalization,0,2023-10-19
+2023,43,Kanabec County,0,2023-10-22,2023-10-28,16089,hospitalization,0,2023-10-19
+2023,43,Kandiyohi County,0,2023-10-22,2023-10-28,42841,hospitalization,0,2023-10-19
+2023,43,Kittson County,0,2023-10-22,2023-10-28,4311,hospitalization,0,2023-10-19
+2023,43,Koochiching County,0,2023-10-22,2023-10-28,12515,hospitalization,0,2023-10-19
+2023,43,Lac qui Parle County,0,2023-10-22,2023-10-28,6719,hospitalization,0,2023-10-19
+2023,43,Lake County,0,2023-10-22,2023-10-28,10560,hospitalization,0,2023-10-19
+2023,43,Lake of the Woods County,0,2023-10-22,2023-10-28,3771,hospitalization,0,2023-10-19
+2023,43,Le Sueur County,0,2023-10-22,2023-10-28,28242,hospitalization,0,2023-10-19
+2023,43,Lincoln County,0,2023-10-22,2023-10-28,5677,hospitalization,0,2023-10-19
+2023,43,Lyon County,0,2023-10-22,2023-10-28,25758,hospitalization,0,2023-10-19
+2023,43,Mahnomen County,0,2023-10-22,2023-10-28,5501,hospitalization,0,2023-10-19
+2023,43,Marshall County,0,2023-10-22,2023-10-28,9372,hospitalization,0,2023-10-19
+2023,43,Martin County,0,2023-10-22,2023-10-28,19852,hospitalization,0,2023-10-19
+2023,43,McLeod County,0,2023-10-22,2023-10-28,35832,hospitalization,0,2023-10-19
+2023,43,Meeker County,0,2023-10-22,2023-10-28,23105,hospitalization,0,2023-10-19
+2023,43,Mille Lacs County,0,2023-10-22,2023-10-28,25865,hospitalization,0,2023-10-19
+2023,43,Morrison County,0,2023-10-22,2023-10-28,33064,hospitalization,0,2023-10-19
+2023,43,Mower County,0,2023-10-22,2023-10-28,39807,hospitalization,0,2023-10-19
+2023,43,Murray County,0,2023-10-22,2023-10-28,8296,hospitalization,0,2023-10-19
+2023,43,Nicollet County,0,2023-10-22,2023-10-28,33954,hospitalization,0,2023-10-19
+2023,43,Nobles County,0,2023-10-22,2023-10-28,21734,hospitalization,0,2023-10-19
+2023,43,Norman County,0,2023-10-22,2023-10-28,6520,hospitalization,0,2023-10-19
+2023,43,Olmsted County,0,2023-10-22,2023-10-28,154809,hospitalization,0,2023-10-19
+2023,43,Otter Tail County,0,2023-10-22,2023-10-28,58195,hospitalization,0,2023-10-19
+2023,43,Pennington County,0,2023-10-22,2023-10-28,14183,hospitalization,0,2023-10-19
+2023,43,Pine County,0,2023-10-22,2023-10-28,29223,hospitalization,0,2023-10-19
+2023,43,Pipestone County,0,2023-10-22,2023-10-28,9191,hospitalization,0,2023-10-19
+2023,43,Polk County,0,2023-10-22,2023-10-28,31521,hospitalization,0,2023-10-19
+2023,43,Pope County,0,2023-10-22,2023-10-28,11048,hospitalization,0,2023-10-19
+2023,43,Ramsey County,0,2023-10-22,2023-10-28,544442,hospitalization,0,2023-10-19
+2023,43,Red Lake County,0,2023-10-22,2023-10-28,4015,hospitalization,0,2023-10-19
+2023,43,Redwood County,0,2023-10-22,2023-10-28,15261,hospitalization,0,2023-10-19
+2023,43,Renville County,0,2023-10-22,2023-10-28,14652,hospitalization,0,2023-10-19
+2023,43,Rice County,0,2023-10-22,2023-10-28,66185,hospitalization,0,2023-10-19
+2023,43,Rock County,0,2023-10-22,2023-10-28,9402,hospitalization,0,2023-10-19
+2023,43,Roseau County,0,2023-10-22,2023-10-28,15361,hospitalization,0,2023-10-19
+2023,43,Scott County,0,2023-10-22,2023-10-28,145275,hospitalization,0,2023-10-19
+2023,43,Sherburne County,0,2023-10-22,2023-10-28,94463,hospitalization,0,2023-10-19
+2023,43,Sibley County,0,2023-10-22,2023-10-28,14892,hospitalization,0,2023-10-19
+2023,43,St. Louis County,0,2023-10-22,2023-10-28,199759,hospitalization,0,2023-10-19
+2023,43,Stearns County,0,2023-10-22,2023-10-28,158452,hospitalization,0,2023-10-19
+2023,43,Steele County,0,2023-10-22,2023-10-28,36683,hospitalization,0,2023-10-19
+2023,43,Stevens County,0,2023-10-22,2023-10-28,9789,hospitalization,0,2023-10-19
+2023,43,Swift County,0,2023-10-22,2023-10-28,9359,hospitalization,0,2023-10-19
+2023,43,Todd County,0,2023-10-22,2023-10-28,24494,hospitalization,0,2023-10-19
+2023,43,Total,0,2023-10-22,2023-10-28,5563378,hospitalization,0,2023-10-19
+2023,43,Traverse County,0,2023-10-22,2023-10-28,3311,hospitalization,0,2023-10-19
+2023,43,Wabasha County,0,2023-10-22,2023-10-28,21537,hospitalization,0,2023-10-19
+2023,43,Wadena County,0,2023-10-22,2023-10-28,13654,hospitalization,0,2023-10-19
+2023,43,Waseca County,0,2023-10-22,2023-10-28,18740,hospitalization,0,2023-10-19
+2023,43,Washington County,0,2023-10-22,2023-10-28,255938,hospitalization,0,2023-10-19
+2023,43,Watonwan County,0,2023-10-22,2023-10-28,10972,hospitalization,0,2023-10-19
+2023,43,Wilkin County,0,2023-10-22,2023-10-28,6291,hospitalization,0,2023-10-19
+2023,43,Winona County,0,2023-10-22,2023-10-28,50725,hospitalization,0,2023-10-19
+2023,43,Wright County,0,2023-10-22,2023-10-28,134438,hospitalization,0,2023-10-19
+2023,43,Yellow Medicine County,0,2023-10-22,2023-10-28,9814,hospitalization,0,2023-10-19
 2020,10,Aitkin County,0,2020-03-01,2020-03-07,15834,icu,0,2023-10-19
 2020,10,Anoka County,0,2020-03-01,2020-03-07,350253,icu,0,2023-10-19
 2020,10,Becker County,0,2020-03-01,2020-03-07,34011,icu,0,2023-10-19
@@ -24713,12 +24801,12 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,47,Sherburne County,4,2021-11-21,2021-11-27,94463,icu,4.234,2023-10-19
 2021,47,Sibley County,0,2021-11-21,2021-11-27,14892,icu,0,2023-10-19
 2021,47,St. Louis County,7,2021-11-21,2021-11-27,199759,icu,3.504,2023-10-19
-2021,47,Stearns County,8,2021-11-21,2021-11-27,158452,icu,5.049,2023-10-19
+2021,47,Stearns County,7,2021-11-21,2021-11-27,158452,icu,4.418,2023-10-19
 2021,47,Steele County,2,2021-11-21,2021-11-27,36683,icu,5.452,2023-10-19
 2021,47,Stevens County,0,2021-11-21,2021-11-27,9789,icu,0,2023-10-19
 2021,47,Swift County,3,2021-11-21,2021-11-27,9359,icu,32.055,2023-10-19
 2021,47,Todd County,1,2021-11-21,2021-11-27,24494,icu,4.083,2023-10-19
-2021,47,Total,194,2021-11-21,2021-11-27,5563378,icu,3.487,2023-10-19
+2021,47,Total,193,2021-11-21,2021-11-27,5563378,icu,3.469,2023-10-19
 2021,47,Traverse County,0,2021-11-21,2021-11-27,3311,icu,0,2023-10-19
 2021,47,Wabasha County,0,2021-11-21,2021-11-27,21537,icu,0,2023-10-19
 2021,47,Wadena County,1,2021-11-21,2021-11-27,13654,icu,7.324,2023-10-19
@@ -24922,7 +25010,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,50,Clearwater County,0,2021-12-12,2021-12-18,8821,icu,0,2023-10-19
 2021,50,Cook County,0,2021-12-12,2021-12-18,5376,icu,0,2023-10-19
 2021,50,Cottonwood County,1,2021-12-12,2021-12-18,11299,icu,8.85,2023-10-19
-2021,50,Crow Wing County,1,2021-12-12,2021-12-18,64217,icu,1.557,2023-10-19
+2021,50,Crow Wing County,2,2021-12-12,2021-12-18,64217,icu,3.114,2023-10-19
 2021,50,Dakota County,14,2021-12-12,2021-12-18,421453,icu,3.322,2023-10-19
 2021,50,Dodge County,1,2021-12-12,2021-12-18,20669,icu,4.838,2023-10-19
 2021,50,Douglas County,6,2021-12-12,2021-12-18,37513,icu,15.994,2023-10-19
@@ -24953,7 +25041,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,50,McLeod County,1,2021-12-12,2021-12-18,35832,icu,2.791,2023-10-19
 2021,50,Meeker County,0,2021-12-12,2021-12-18,23105,icu,0,2023-10-19
 2021,50,Mille Lacs County,2,2021-12-12,2021-12-18,25865,icu,7.732,2023-10-19
-2021,50,Morrison County,2,2021-12-12,2021-12-18,33064,icu,6.049,2023-10-19
+2021,50,Morrison County,3,2021-12-12,2021-12-18,33064,icu,9.073,2023-10-19
 2021,50,Mower County,5,2021-12-12,2021-12-18,39807,icu,12.561,2023-10-19
 2021,50,Murray County,0,2021-12-12,2021-12-18,8296,icu,0,2023-10-19
 2021,50,Nicollet County,1,2021-12-12,2021-12-18,33954,icu,2.945,2023-10-19
@@ -24982,7 +25070,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2021,50,Stevens County,1,2021-12-12,2021-12-18,9789,icu,10.216,2023-10-19
 2021,50,Swift County,0,2021-12-12,2021-12-18,9359,icu,0,2023-10-19
 2021,50,Todd County,1,2021-12-12,2021-12-18,24494,icu,4.083,2023-10-19
-2021,50,Total,187,2021-12-12,2021-12-18,5563378,icu,3.361,2023-10-19
+2021,50,Total,189,2021-12-12,2021-12-18,5563378,icu,3.397,2023-10-19
 2021,50,Traverse County,0,2021-12-12,2021-12-18,3311,icu,0,2023-10-19
 2021,50,Wabasha County,0,2021-12-12,2021-12-18,21537,icu,0,2023-10-19
 2021,50,Wadena County,0,2021-12-12,2021-12-18,13654,icu,0,2023-10-19
@@ -25389,7 +25477,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,3,Lyon County,1,2022-01-16,2022-01-22,25758,icu,3.882,2023-10-19
 2022,3,Mahnomen County,0,2022-01-16,2022-01-22,5501,icu,0,2023-10-19
 2022,3,Marshall County,0,2022-01-16,2022-01-22,9372,icu,0,2023-10-19
-2022,3,Martin County,3,2022-01-16,2022-01-22,19852,icu,15.112,2023-10-19
+2022,3,Martin County,2,2022-01-16,2022-01-22,19852,icu,10.075,2023-10-19
 2022,3,McLeod County,0,2022-01-16,2022-01-22,35832,icu,0,2023-10-19
 2022,3,Meeker County,0,2022-01-16,2022-01-22,23105,icu,0,2023-10-19
 2022,3,Mille Lacs County,0,2022-01-16,2022-01-22,25865,icu,0,2023-10-19
@@ -25422,7 +25510,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,3,Stevens County,0,2022-01-16,2022-01-22,9789,icu,0,2023-10-19
 2022,3,Swift County,1,2022-01-16,2022-01-22,9359,icu,10.685,2023-10-19
 2022,3,Todd County,0,2022-01-16,2022-01-22,24494,icu,0,2023-10-19
-2022,3,Total,188,2022-01-16,2022-01-22,5563378,icu,3.379,2023-10-19
+2022,3,Total,187,2022-01-16,2022-01-22,5563378,icu,3.361,2023-10-19
 2022,3,Traverse County,0,2022-01-16,2022-01-22,3311,icu,0,2023-10-19
 2022,3,Wabasha County,0,2022-01-16,2022-01-22,21537,icu,0,2023-10-19
 2022,3,Wadena County,1,2022-01-16,2022-01-22,13654,icu,7.324,2023-10-19
@@ -25539,7 +25627,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,5,Cook County,0,2022-01-30,2022-02-05,5376,icu,0,2023-10-19
 2022,5,Cottonwood County,0,2022-01-30,2022-02-05,11299,icu,0,2023-10-19
 2022,5,Crow Wing County,5,2022-01-30,2022-02-05,64217,icu,7.786,2023-10-19
-2022,5,Dakota County,7,2022-01-30,2022-02-05,421453,icu,1.661,2023-10-19
+2022,5,Dakota County,6,2022-01-30,2022-02-05,421453,icu,1.424,2023-10-19
 2022,5,Dodge County,1,2022-01-30,2022-02-05,20669,icu,4.838,2023-10-19
 2022,5,Douglas County,2,2022-01-30,2022-02-05,37513,icu,5.331,2023-10-19
 2022,5,Faribault County,0,2022-01-30,2022-02-05,13801,icu,0,2023-10-19
@@ -25582,7 +25670,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,5,Pipestone County,0,2022-01-30,2022-02-05,9191,icu,0,2023-10-19
 2022,5,Polk County,2,2022-01-30,2022-02-05,31521,icu,6.345,2023-10-19
 2022,5,Pope County,0,2022-01-30,2022-02-05,11048,icu,0,2023-10-19
-2022,5,Ramsey County,14,2022-01-30,2022-02-05,544442,icu,2.571,2023-10-19
+2022,5,Ramsey County,13,2022-01-30,2022-02-05,544442,icu,2.388,2023-10-19
 2022,5,Red Lake County,0,2022-01-30,2022-02-05,4015,icu,0,2023-10-19
 2022,5,Redwood County,0,2022-01-30,2022-02-05,15261,icu,0,2023-10-19
 2022,5,Renville County,2,2022-01-30,2022-02-05,14652,icu,13.65,2023-10-19
@@ -25598,7 +25686,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,5,Stevens County,2,2022-01-30,2022-02-05,9789,icu,20.431,2023-10-19
 2022,5,Swift County,0,2022-01-30,2022-02-05,9359,icu,0,2023-10-19
 2022,5,Todd County,0,2022-01-30,2022-02-05,24494,icu,0,2023-10-19
-2022,5,Total,164,2022-01-30,2022-02-05,5563378,icu,2.948,2023-10-19
+2022,5,Total,162,2022-01-30,2022-02-05,5563378,icu,2.912,2023-10-19
 2022,5,Traverse County,0,2022-01-30,2022-02-05,3311,icu,0,2023-10-19
 2022,5,Wabasha County,1,2022-01-30,2022-02-05,21537,icu,4.643,2023-10-19
 2022,5,Wadena County,0,2022-01-30,2022-02-05,13654,icu,0,2023-10-19
@@ -26374,7 +26462,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,14,Pipestone County,0,2022-04-03,2022-04-09,9191,icu,0,2023-10-19
 2022,14,Polk County,0,2022-04-03,2022-04-09,31521,icu,0,2023-10-19
 2022,14,Pope County,1,2022-04-03,2022-04-09,11048,icu,9.051,2023-10-19
-2022,14,Ramsey County,2,2022-04-03,2022-04-09,544442,icu,0.367,2023-10-19
+2022,14,Ramsey County,1,2022-04-03,2022-04-09,544442,icu,0.184,2023-10-19
 2022,14,Red Lake County,0,2022-04-03,2022-04-09,4015,icu,0,2023-10-19
 2022,14,Redwood County,0,2022-04-03,2022-04-09,15261,icu,0,2023-10-19
 2022,14,Renville County,0,2022-04-03,2022-04-09,14652,icu,0,2023-10-19
@@ -26390,7 +26478,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,14,Stevens County,0,2022-04-03,2022-04-09,9789,icu,0,2023-10-19
 2022,14,Swift County,0,2022-04-03,2022-04-09,9359,icu,0,2023-10-19
 2022,14,Todd County,0,2022-04-03,2022-04-09,24494,icu,0,2023-10-19
-2022,14,Total,27,2022-04-03,2022-04-09,5563378,icu,0.485,2023-10-19
+2022,14,Total,26,2022-04-03,2022-04-09,5563378,icu,0.467,2023-10-19
 2022,14,Traverse County,0,2022-04-03,2022-04-09,3311,icu,0,2023-10-19
 2022,14,Wabasha County,0,2022-04-03,2022-04-09,21537,icu,0,2023-10-19
 2022,14,Wadena County,0,2022-04-03,2022-04-09,13654,icu,0,2023-10-19
@@ -26462,7 +26550,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,15,Pipestone County,0,2022-04-10,2022-04-16,9191,icu,0,2023-10-19
 2022,15,Polk County,0,2022-04-10,2022-04-16,31521,icu,0,2023-10-19
 2022,15,Pope County,0,2022-04-10,2022-04-16,11048,icu,0,2023-10-19
-2022,15,Ramsey County,3,2022-04-10,2022-04-16,544442,icu,0.551,2023-10-19
+2022,15,Ramsey County,4,2022-04-10,2022-04-16,544442,icu,0.735,2023-10-19
 2022,15,Red Lake County,0,2022-04-10,2022-04-16,4015,icu,0,2023-10-19
 2022,15,Redwood County,0,2022-04-10,2022-04-16,15261,icu,0,2023-10-19
 2022,15,Renville County,0,2022-04-10,2022-04-16,14652,icu,0,2023-10-19
@@ -26478,7 +26566,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,15,Stevens County,0,2022-04-10,2022-04-16,9789,icu,0,2023-10-19
 2022,15,Swift County,1,2022-04-10,2022-04-16,9359,icu,10.685,2023-10-19
 2022,15,Todd County,0,2022-04-10,2022-04-16,24494,icu,0,2023-10-19
-2022,15,Total,28,2022-04-10,2022-04-16,5563378,icu,0.503,2023-10-19
+2022,15,Total,29,2022-04-10,2022-04-16,5563378,icu,0.521,2023-10-19
 2022,15,Traverse County,0,2022-04-10,2022-04-16,3311,icu,0,2023-10-19
 2022,15,Wabasha County,0,2022-04-10,2022-04-16,21537,icu,0,2023-10-19
 2022,15,Wadena County,0,2022-04-10,2022-04-16,13654,icu,0,2023-10-19
@@ -27518,7 +27606,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,27,Pipestone County,0,2022-07-03,2022-07-09,9191,icu,0,2023-10-19
 2022,27,Polk County,0,2022-07-03,2022-07-09,31521,icu,0,2023-10-19
 2022,27,Pope County,0,2022-07-03,2022-07-09,11048,icu,0,2023-10-19
-2022,27,Ramsey County,7,2022-07-03,2022-07-09,544442,icu,1.286,2023-10-19
+2022,27,Ramsey County,8,2022-07-03,2022-07-09,544442,icu,1.469,2023-10-19
 2022,27,Red Lake County,0,2022-07-03,2022-07-09,4015,icu,0,2023-10-19
 2022,27,Redwood County,0,2022-07-03,2022-07-09,15261,icu,0,2023-10-19
 2022,27,Renville County,0,2022-07-03,2022-07-09,14652,icu,0,2023-10-19
@@ -27534,7 +27622,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2022,27,Stevens County,0,2022-07-03,2022-07-09,9789,icu,0,2023-10-19
 2022,27,Swift County,0,2022-07-03,2022-07-09,9359,icu,0,2023-10-19
 2022,27,Todd County,0,2022-07-03,2022-07-09,24494,icu,0,2023-10-19
-2022,27,Total,52,2022-07-03,2022-07-09,5563378,icu,0.935,2023-10-19
+2022,27,Total,53,2022-07-03,2022-07-09,5563378,icu,0.953,2023-10-19
 2022,27,Traverse County,0,2022-07-03,2022-07-09,3311,icu,0,2023-10-19
 2022,27,Wabasha County,0,2022-07-03,2022-07-09,21537,icu,0,2023-10-19
 2022,27,Wadena County,1,2022-07-03,2022-07-09,13654,icu,7.324,2023-10-19
@@ -29895,7 +29983,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,2,Polk County,0,2023-01-08,2023-01-14,31521,icu,0,2023-10-19
 2023,2,Pope County,0,2023-01-08,2023-01-14,11048,icu,0,2023-10-19
 2023,2,Ramsey County,5,2023-01-08,2023-01-14,544442,icu,0.918,2023-10-19
-2023,2,Red Lake County,0,2023-01-08,2023-01-14,4015,icu,0,2023-10-19
+2023,2,Red Lake County,1,2023-01-08,2023-01-14,4015,icu,24.907,2023-10-19
 2023,2,Redwood County,0,2023-01-08,2023-01-14,15261,icu,0,2023-10-19
 2023,2,Renville County,0,2023-01-08,2023-01-14,14652,icu,0,2023-10-19
 2023,2,Rice County,0,2023-01-08,2023-01-14,66185,icu,0,2023-10-19
@@ -29910,7 +29998,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,2,Stevens County,0,2023-01-08,2023-01-14,9789,icu,0,2023-10-19
 2023,2,Swift County,0,2023-01-08,2023-01-14,9359,icu,0,2023-10-19
 2023,2,Todd County,0,2023-01-08,2023-01-14,24494,icu,0,2023-10-19
-2023,2,Total,66,2023-01-08,2023-01-14,5563378,icu,1.186,2023-10-19
+2023,2,Total,67,2023-01-08,2023-01-14,5563378,icu,1.204,2023-10-19
 2023,2,Traverse County,0,2023-01-08,2023-01-14,3311,icu,0,2023-10-19
 2023,2,Wabasha County,1,2023-01-08,2023-01-14,21537,icu,4.643,2023-10-19
 2023,2,Wadena County,0,2023-01-08,2023-01-14,13654,icu,0,2023-10-19
@@ -30335,7 +30423,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,7,Polk County,0,2023-02-12,2023-02-18,31521,icu,0,2023-10-19
 2023,7,Pope County,0,2023-02-12,2023-02-18,11048,icu,0,2023-10-19
 2023,7,Ramsey County,6,2023-02-12,2023-02-18,544442,icu,1.102,2023-10-19
-2023,7,Red Lake County,0,2023-02-12,2023-02-18,4015,icu,0,2023-10-19
+2023,7,Red Lake County,1,2023-02-12,2023-02-18,4015,icu,24.907,2023-10-19
 2023,7,Redwood County,0,2023-02-12,2023-02-18,15261,icu,0,2023-10-19
 2023,7,Renville County,0,2023-02-12,2023-02-18,14652,icu,0,2023-10-19
 2023,7,Rice County,0,2023-02-12,2023-02-18,66185,icu,0,2023-10-19
@@ -30350,7 +30438,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,7,Stevens County,0,2023-02-12,2023-02-18,9789,icu,0,2023-10-19
 2023,7,Swift County,0,2023-02-12,2023-02-18,9359,icu,0,2023-10-19
 2023,7,Todd County,1,2023-02-12,2023-02-18,24494,icu,4.083,2023-10-19
-2023,7,Total,61,2023-02-12,2023-02-18,5563378,icu,1.096,2023-10-19
+2023,7,Total,62,2023-02-12,2023-02-18,5563378,icu,1.114,2023-10-19
 2023,7,Traverse County,0,2023-02-12,2023-02-18,3311,icu,0,2023-10-19
 2023,7,Wabasha County,1,2023-02-12,2023-02-18,21537,icu,4.643,2023-10-19
 2023,7,Wadena County,0,2023-02-12,2023-02-18,13654,icu,0,2023-10-19
@@ -30420,7 +30508,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,8,Pennington County,0,2023-02-19,2023-02-25,14183,icu,0,2023-10-19
 2023,8,Pine County,0,2023-02-19,2023-02-25,29223,icu,0,2023-10-19
 2023,8,Pipestone County,0,2023-02-19,2023-02-25,9191,icu,0,2023-10-19
-2023,8,Polk County,0,2023-02-19,2023-02-25,31521,icu,0,2023-10-19
+2023,8,Polk County,1,2023-02-19,2023-02-25,31521,icu,3.172,2023-10-19
 2023,8,Pope County,0,2023-02-19,2023-02-25,11048,icu,0,2023-10-19
 2023,8,Ramsey County,6,2023-02-19,2023-02-25,544442,icu,1.102,2023-10-19
 2023,8,Red Lake County,0,2023-02-19,2023-02-25,4015,icu,0,2023-10-19
@@ -30438,7 +30526,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,8,Stevens County,0,2023-02-19,2023-02-25,9789,icu,0,2023-10-19
 2023,8,Swift County,0,2023-02-19,2023-02-25,9359,icu,0,2023-10-19
 2023,8,Todd County,1,2023-02-19,2023-02-25,24494,icu,4.083,2023-10-19
-2023,8,Total,46,2023-02-19,2023-02-25,5563378,icu,0.827,2023-10-19
+2023,8,Total,47,2023-02-19,2023-02-25,5563378,icu,0.845,2023-10-19
 2023,8,Traverse County,0,2023-02-19,2023-02-25,3311,icu,0,2023-10-19
 2023,8,Wabasha County,0,2023-02-19,2023-02-25,21537,icu,0,2023-10-19
 2023,8,Wadena County,0,2023-02-19,2023-02-25,13654,icu,0,2023-10-19
@@ -33078,7 +33166,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,38,Stevens County,0,2023-09-17,2023-09-23,9789,icu,0,2023-10-19
 2023,38,Swift County,0,2023-09-17,2023-09-23,9359,icu,0,2023-10-19
 2023,38,Todd County,0,2023-09-17,2023-09-23,24494,icu,0,2023-10-19
-2023,38,Total,32,2023-09-17,2023-09-23,5563378,icu,0.575,2023-10-19
+2023,38,Total,33,2023-09-17,2023-09-23,5563378,icu,0.593,2023-10-19
 2023,38,Traverse County,0,2023-09-17,2023-09-23,3311,icu,0,2023-10-19
 2023,38,Wabasha County,0,2023-09-17,2023-09-23,21537,icu,0,2023-10-19
 2023,38,Wadena County,0,2023-09-17,2023-09-23,13654,icu,0,2023-10-19
@@ -33086,7 +33174,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,38,Washington County,2,2023-09-17,2023-09-23,255938,icu,0.781,2023-10-19
 2023,38,Watonwan County,0,2023-09-17,2023-09-23,10972,icu,0,2023-10-19
 2023,38,Wilkin County,0,2023-09-17,2023-09-23,6291,icu,0,2023-10-19
-2023,38,Winona County,0,2023-09-17,2023-09-23,50725,icu,0,2023-10-19
+2023,38,Winona County,1,2023-09-17,2023-09-23,50725,icu,1.971,2023-10-19
 2023,38,Wright County,1,2023-09-17,2023-09-23,134438,icu,0.744,2023-10-19
 2023,38,Yellow Medicine County,0,2023-09-17,2023-09-23,9814,icu,0,2023-10-19
 2023,39,Aitkin County,0,2023-09-24,2023-09-30,15834,icu,0,2023-10-19
@@ -33185,7 +33273,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,40,Big Stone County,0,2023-10-01,2023-10-07,4996,icu,0,2023-10-19
 2023,40,Blue Earth County,1,2023-10-01,2023-10-07,66795,icu,1.497,2023-10-19
 2023,40,Brown County,0,2023-10-01,2023-10-07,25163,icu,0,2023-10-19
-2023,40,Carlton County,0,2023-10-01,2023-10-07,35633,icu,0,2023-10-19
+2023,40,Carlton County,1,2023-10-01,2023-10-07,35633,icu,2.806,2023-10-19
 2023,40,Carver County,0,2023-10-01,2023-10-07,101949,icu,0,2023-10-19
 2023,40,Cass County,0,2023-10-01,2023-10-07,29268,icu,0,2023-10-19
 2023,40,Chippewa County,0,2023-10-01,2023-10-07,11953,icu,0,2023-10-19
@@ -33254,7 +33342,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,40,Stevens County,0,2023-10-01,2023-10-07,9789,icu,0,2023-10-19
 2023,40,Swift County,0,2023-10-01,2023-10-07,9359,icu,0,2023-10-19
 2023,40,Todd County,1,2023-10-01,2023-10-07,24494,icu,4.083,2023-10-19
-2023,40,Total,38,2023-10-01,2023-10-07,5563378,icu,0.683,2023-10-19
+2023,40,Total,39,2023-10-01,2023-10-07,5563378,icu,0.701,2023-10-19
 2023,40,Traverse County,0,2023-10-01,2023-10-07,3311,icu,0,2023-10-19
 2023,40,Wabasha County,0,2023-10-01,2023-10-07,21537,icu,0,2023-10-19
 2023,40,Wadena County,1,2023-10-01,2023-10-07,13654,icu,7.324,2023-10-19
@@ -33266,7 +33354,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,40,Wright County,2,2023-10-01,2023-10-07,134438,icu,1.488,2023-10-19
 2023,40,Yellow Medicine County,0,2023-10-01,2023-10-07,9814,icu,0,2023-10-19
 2023,41,Aitkin County,0,2023-10-08,2023-10-14,15834,icu,0,2023-10-19
-2023,41,Anoka County,2,2023-10-08,2023-10-14,350253,icu,0.571,2023-10-19
+2023,41,Anoka County,3,2023-10-08,2023-10-14,350253,icu,0.857,2023-10-19
 2023,41,Becker County,0,2023-10-08,2023-10-14,34011,icu,0,2023-10-19
 2023,41,Beltrami County,0,2023-10-08,2023-10-14,46403,icu,0,2023-10-19
 2023,41,Benton County,1,2023-10-08,2023-10-14,40129,icu,2.492,2023-10-19
@@ -33277,21 +33365,21 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,41,Carver County,0,2023-10-08,2023-10-14,101949,icu,0,2023-10-19
 2023,41,Cass County,0,2023-10-08,2023-10-14,29268,icu,0,2023-10-19
 2023,41,Chippewa County,0,2023-10-08,2023-10-14,11953,icu,0,2023-10-19
-2023,41,Chisago County,1,2023-10-08,2023-10-14,55315,icu,1.808,2023-10-19
+2023,41,Chisago County,2,2023-10-08,2023-10-14,55315,icu,3.616,2023-10-19
 2023,41,Clay County,0,2023-10-08,2023-10-14,63446,icu,0,2023-10-19
 2023,41,Clearwater County,0,2023-10-08,2023-10-14,8821,icu,0,2023-10-19
 2023,41,Cook County,0,2023-10-08,2023-10-14,5376,icu,0,2023-10-19
 2023,41,Cottonwood County,0,2023-10-08,2023-10-14,11299,icu,0,2023-10-19
 2023,41,Crow Wing County,1,2023-10-08,2023-10-14,64217,icu,1.557,2023-10-19
-2023,41,Dakota County,0,2023-10-08,2023-10-14,421453,icu,0,2023-10-19
+2023,41,Dakota County,2,2023-10-08,2023-10-14,421453,icu,0.475,2023-10-19
 2023,41,Dodge County,0,2023-10-08,2023-10-14,20669,icu,0,2023-10-19
 2023,41,Douglas County,1,2023-10-08,2023-10-14,37513,icu,2.666,2023-10-19
 2023,41,Faribault County,0,2023-10-08,2023-10-14,13801,icu,0,2023-10-19
-2023,41,Fillmore County,0,2023-10-08,2023-10-14,20949,icu,0,2023-10-19
+2023,41,Fillmore County,1,2023-10-08,2023-10-14,20949,icu,4.773,2023-10-19
 2023,41,Freeborn County,0,2023-10-08,2023-10-14,30463,icu,0,2023-10-19
-2023,41,Goodhue County,0,2023-10-08,2023-10-14,46246,icu,0,2023-10-19
+2023,41,Goodhue County,1,2023-10-08,2023-10-14,46246,icu,2.162,2023-10-19
 2023,41,Grant County,0,2023-10-08,2023-10-14,5935,icu,0,2023-10-19
-2023,41,Hennepin County,2,2023-10-08,2023-10-14,1245837,icu,0.161,2023-10-19
+2023,41,Hennepin County,3,2023-10-08,2023-10-14,1245837,icu,0.241,2023-10-19
 2023,41,Houston County,0,2023-10-08,2023-10-14,18648,icu,0,2023-10-19
 2023,41,Hubbard County,0,2023-10-08,2023-10-14,21019,icu,0,2023-10-19
 2023,41,Isanti County,0,2023-10-08,2023-10-14,39430,icu,0,2023-10-19
@@ -33326,7 +33414,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,41,Pipestone County,0,2023-10-08,2023-10-14,9191,icu,0,2023-10-19
 2023,41,Polk County,0,2023-10-08,2023-10-14,31521,icu,0,2023-10-19
 2023,41,Pope County,0,2023-10-08,2023-10-14,11048,icu,0,2023-10-19
-2023,41,Ramsey County,4,2023-10-08,2023-10-14,544442,icu,0.735,2023-10-19
+2023,41,Ramsey County,6,2023-10-08,2023-10-14,544442,icu,1.102,2023-10-19
 2023,41,Red Lake County,0,2023-10-08,2023-10-14,4015,icu,0,2023-10-19
 2023,41,Redwood County,0,2023-10-08,2023-10-14,15261,icu,0,2023-10-19
 2023,41,Renville County,0,2023-10-08,2023-10-14,14652,icu,0,2023-10-19
@@ -33342,7 +33430,7 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,41,Stevens County,0,2023-10-08,2023-10-14,9789,icu,0,2023-10-19
 2023,41,Swift County,0,2023-10-08,2023-10-14,9359,icu,0,2023-10-19
 2023,41,Todd County,0,2023-10-08,2023-10-14,24494,icu,0,2023-10-19
-2023,41,Total,16,2023-10-08,2023-10-14,5563378,icu,0.288,2023-10-19
+2023,41,Total,25,2023-10-08,2023-10-14,5563378,icu,0.449,2023-10-19
 2023,41,Traverse County,0,2023-10-08,2023-10-14,3311,icu,0,2023-10-19
 2023,41,Wabasha County,0,2023-10-08,2023-10-14,21537,icu,0,2023-10-19
 2023,41,Wadena County,1,2023-10-08,2023-10-14,13654,icu,7.324,2023-10-19
@@ -33353,14 +33441,14 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,41,Winona County,0,2023-10-08,2023-10-14,50725,icu,0,2023-10-19
 2023,41,Wright County,0,2023-10-08,2023-10-14,134438,icu,0,2023-10-19
 2023,41,Yellow Medicine County,0,2023-10-08,2023-10-14,9814,icu,0,2023-10-19
-2023,42,Aitkin County,0,2023-10-15,2023-10-21,15834,icu,0,2023-10-19
-2023,42,Anoka County,0,2023-10-15,2023-10-21,350253,icu,0,2023-10-19
+2023,42,Aitkin County,1,2023-10-15,2023-10-21,15834,icu,6.316,2023-10-19
+2023,42,Anoka County,2,2023-10-15,2023-10-21,350253,icu,0.571,2023-10-19
 2023,42,Becker County,0,2023-10-15,2023-10-21,34011,icu,0,2023-10-19
 2023,42,Beltrami County,0,2023-10-15,2023-10-21,46403,icu,0,2023-10-19
-2023,42,Benton County,0,2023-10-15,2023-10-21,40129,icu,0,2023-10-19
+2023,42,Benton County,1,2023-10-15,2023-10-21,40129,icu,2.492,2023-10-19
 2023,42,Big Stone County,0,2023-10-15,2023-10-21,4996,icu,0,2023-10-19
-2023,42,Blue Earth County,0,2023-10-15,2023-10-21,66795,icu,0,2023-10-19
-2023,42,Brown County,0,2023-10-15,2023-10-21,25163,icu,0,2023-10-19
+2023,42,Blue Earth County,2,2023-10-15,2023-10-21,66795,icu,2.994,2023-10-19
+2023,42,Brown County,1,2023-10-15,2023-10-21,25163,icu,3.974,2023-10-19
 2023,42,Carlton County,0,2023-10-15,2023-10-21,35633,icu,0,2023-10-19
 2023,42,Carver County,0,2023-10-15,2023-10-21,101949,icu,0,2023-10-19
 2023,42,Cass County,0,2023-10-15,2023-10-21,29268,icu,0,2023-10-19
@@ -33371,15 +33459,15 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,42,Cook County,0,2023-10-15,2023-10-21,5376,icu,0,2023-10-19
 2023,42,Cottonwood County,0,2023-10-15,2023-10-21,11299,icu,0,2023-10-19
 2023,42,Crow Wing County,0,2023-10-15,2023-10-21,64217,icu,0,2023-10-19
-2023,42,Dakota County,0,2023-10-15,2023-10-21,421453,icu,0,2023-10-19
+2023,42,Dakota County,1,2023-10-15,2023-10-21,421453,icu,0.237,2023-10-19
 2023,42,Dodge County,0,2023-10-15,2023-10-21,20669,icu,0,2023-10-19
-2023,42,Douglas County,0,2023-10-15,2023-10-21,37513,icu,0,2023-10-19
+2023,42,Douglas County,1,2023-10-15,2023-10-21,37513,icu,2.666,2023-10-19
 2023,42,Faribault County,0,2023-10-15,2023-10-21,13801,icu,0,2023-10-19
 2023,42,Fillmore County,0,2023-10-15,2023-10-21,20949,icu,0,2023-10-19
 2023,42,Freeborn County,0,2023-10-15,2023-10-21,30463,icu,0,2023-10-19
-2023,42,Goodhue County,0,2023-10-15,2023-10-21,46246,icu,0,2023-10-19
+2023,42,Goodhue County,1,2023-10-15,2023-10-21,46246,icu,2.162,2023-10-19
 2023,42,Grant County,0,2023-10-15,2023-10-21,5935,icu,0,2023-10-19
-2023,42,Hennepin County,0,2023-10-15,2023-10-21,1245837,icu,0,2023-10-19
+2023,42,Hennepin County,2,2023-10-15,2023-10-21,1245837,icu,0.161,2023-10-19
 2023,42,Houston County,0,2023-10-15,2023-10-21,18648,icu,0,2023-10-19
 2023,42,Hubbard County,0,2023-10-15,2023-10-21,21019,icu,0,2023-10-19
 2023,42,Isanti County,0,2023-10-15,2023-10-21,39430,icu,0,2023-10-19
@@ -33400,44 +33488,132 @@ year,week,county,new_hosp,mmwr_startdate,mmwr_enddate,pop_size,outcome,new_hosp_
 2023,42,Martin County,0,2023-10-15,2023-10-21,19852,icu,0,2023-10-19
 2023,42,McLeod County,0,2023-10-15,2023-10-21,35832,icu,0,2023-10-19
 2023,42,Meeker County,0,2023-10-15,2023-10-21,23105,icu,0,2023-10-19
-2023,42,Mille Lacs County,0,2023-10-15,2023-10-21,25865,icu,0,2023-10-19
+2023,42,Mille Lacs County,1,2023-10-15,2023-10-21,25865,icu,3.866,2023-10-19
 2023,42,Morrison County,0,2023-10-15,2023-10-21,33064,icu,0,2023-10-19
-2023,42,Mower County,0,2023-10-15,2023-10-21,39807,icu,0,2023-10-19
+2023,42,Mower County,1,2023-10-15,2023-10-21,39807,icu,2.512,2023-10-19
 2023,42,Murray County,0,2023-10-15,2023-10-21,8296,icu,0,2023-10-19
 2023,42,Nicollet County,0,2023-10-15,2023-10-21,33954,icu,0,2023-10-19
 2023,42,Nobles County,0,2023-10-15,2023-10-21,21734,icu,0,2023-10-19
-2023,42,Norman County,0,2023-10-15,2023-10-21,6520,icu,0,2023-10-19
-2023,42,Olmsted County,0,2023-10-15,2023-10-21,154809,icu,0,2023-10-19
+2023,42,Norman County,1,2023-10-15,2023-10-21,6520,icu,15.337,2023-10-19
+2023,42,Olmsted County,4,2023-10-15,2023-10-21,154809,icu,2.584,2023-10-19
 2023,42,Otter Tail County,0,2023-10-15,2023-10-21,58195,icu,0,2023-10-19
 2023,42,Pennington County,0,2023-10-15,2023-10-21,14183,icu,0,2023-10-19
 2023,42,Pine County,0,2023-10-15,2023-10-21,29223,icu,0,2023-10-19
 2023,42,Pipestone County,0,2023-10-15,2023-10-21,9191,icu,0,2023-10-19
 2023,42,Polk County,0,2023-10-15,2023-10-21,31521,icu,0,2023-10-19
 2023,42,Pope County,0,2023-10-15,2023-10-21,11048,icu,0,2023-10-19
-2023,42,Ramsey County,0,2023-10-15,2023-10-21,544442,icu,0,2023-10-19
+2023,42,Ramsey County,2,2023-10-15,2023-10-21,544442,icu,0.367,2023-10-19
 2023,42,Red Lake County,0,2023-10-15,2023-10-21,4015,icu,0,2023-10-19
 2023,42,Redwood County,0,2023-10-15,2023-10-21,15261,icu,0,2023-10-19
 2023,42,Renville County,0,2023-10-15,2023-10-21,14652,icu,0,2023-10-19
 2023,42,Rice County,0,2023-10-15,2023-10-21,66185,icu,0,2023-10-19
 2023,42,Rock County,0,2023-10-15,2023-10-21,9402,icu,0,2023-10-19
 2023,42,Roseau County,0,2023-10-15,2023-10-21,15361,icu,0,2023-10-19
-2023,42,Scott County,0,2023-10-15,2023-10-21,145275,icu,0,2023-10-19
+2023,42,Scott County,1,2023-10-15,2023-10-21,145275,icu,0.688,2023-10-19
 2023,42,Sherburne County,0,2023-10-15,2023-10-21,94463,icu,0,2023-10-19
 2023,42,Sibley County,0,2023-10-15,2023-10-21,14892,icu,0,2023-10-19
 2023,42,St. Louis County,0,2023-10-15,2023-10-21,199759,icu,0,2023-10-19
-2023,42,Stearns County,0,2023-10-15,2023-10-21,158452,icu,0,2023-10-19
+2023,42,Stearns County,2,2023-10-15,2023-10-21,158452,icu,1.262,2023-10-19
 2023,42,Steele County,0,2023-10-15,2023-10-21,36683,icu,0,2023-10-19
 2023,42,Stevens County,0,2023-10-15,2023-10-21,9789,icu,0,2023-10-19
 2023,42,Swift County,0,2023-10-15,2023-10-21,9359,icu,0,2023-10-19
 2023,42,Todd County,0,2023-10-15,2023-10-21,24494,icu,0,2023-10-19
-2023,42,Total,0,2023-10-15,2023-10-21,5563378,icu,0,2023-10-19
+2023,42,Total,26,2023-10-15,2023-10-21,5563378,icu,0.467,2023-10-19
 2023,42,Traverse County,0,2023-10-15,2023-10-21,3311,icu,0,2023-10-19
 2023,42,Wabasha County,0,2023-10-15,2023-10-21,21537,icu,0,2023-10-19
 2023,42,Wadena County,0,2023-10-15,2023-10-21,13654,icu,0,2023-10-19
 2023,42,Waseca County,0,2023-10-15,2023-10-21,18740,icu,0,2023-10-19
-2023,42,Washington County,0,2023-10-15,2023-10-21,255938,icu,0,2023-10-19
+2023,42,Washington County,2,2023-10-15,2023-10-21,255938,icu,0.781,2023-10-19
 2023,42,Watonwan County,0,2023-10-15,2023-10-21,10972,icu,0,2023-10-19
 2023,42,Wilkin County,0,2023-10-15,2023-10-21,6291,icu,0,2023-10-19
 2023,42,Winona County,0,2023-10-15,2023-10-21,50725,icu,0,2023-10-19
 2023,42,Wright County,0,2023-10-15,2023-10-21,134438,icu,0,2023-10-19
 2023,42,Yellow Medicine County,0,2023-10-15,2023-10-21,9814,icu,0,2023-10-19
+2023,43,Aitkin County,0,2023-10-22,2023-10-28,15834,icu,0,2023-10-19
+2023,43,Anoka County,0,2023-10-22,2023-10-28,350253,icu,0,2023-10-19
+2023,43,Becker County,0,2023-10-22,2023-10-28,34011,icu,0,2023-10-19
+2023,43,Beltrami County,0,2023-10-22,2023-10-28,46403,icu,0,2023-10-19
+2023,43,Benton County,0,2023-10-22,2023-10-28,40129,icu,0,2023-10-19
+2023,43,Big Stone County,0,2023-10-22,2023-10-28,4996,icu,0,2023-10-19
+2023,43,Blue Earth County,0,2023-10-22,2023-10-28,66795,icu,0,2023-10-19
+2023,43,Brown County,0,2023-10-22,2023-10-28,25163,icu,0,2023-10-19
+2023,43,Carlton County,0,2023-10-22,2023-10-28,35633,icu,0,2023-10-19
+2023,43,Carver County,0,2023-10-22,2023-10-28,101949,icu,0,2023-10-19
+2023,43,Cass County,0,2023-10-22,2023-10-28,29268,icu,0,2023-10-19
+2023,43,Chippewa County,0,2023-10-22,2023-10-28,11953,icu,0,2023-10-19
+2023,43,Chisago County,0,2023-10-22,2023-10-28,55315,icu,0,2023-10-19
+2023,43,Clay County,0,2023-10-22,2023-10-28,63446,icu,0,2023-10-19
+2023,43,Clearwater County,0,2023-10-22,2023-10-28,8821,icu,0,2023-10-19
+2023,43,Cook County,0,2023-10-22,2023-10-28,5376,icu,0,2023-10-19
+2023,43,Cottonwood County,0,2023-10-22,2023-10-28,11299,icu,0,2023-10-19
+2023,43,Crow Wing County,0,2023-10-22,2023-10-28,64217,icu,0,2023-10-19
+2023,43,Dakota County,0,2023-10-22,2023-10-28,421453,icu,0,2023-10-19
+2023,43,Dodge County,0,2023-10-22,2023-10-28,20669,icu,0,2023-10-19
+2023,43,Douglas County,0,2023-10-22,2023-10-28,37513,icu,0,2023-10-19
+2023,43,Faribault County,0,2023-10-22,2023-10-28,13801,icu,0,2023-10-19
+2023,43,Fillmore County,0,2023-10-22,2023-10-28,20949,icu,0,2023-10-19
+2023,43,Freeborn County,0,2023-10-22,2023-10-28,30463,icu,0,2023-10-19
+2023,43,Goodhue County,0,2023-10-22,2023-10-28,46246,icu,0,2023-10-19
+2023,43,Grant County,0,2023-10-22,2023-10-28,5935,icu,0,2023-10-19
+2023,43,Hennepin County,0,2023-10-22,2023-10-28,1245837,icu,0,2023-10-19
+2023,43,Houston County,0,2023-10-22,2023-10-28,18648,icu,0,2023-10-19
+2023,43,Hubbard County,0,2023-10-22,2023-10-28,21019,icu,0,2023-10-19
+2023,43,Isanti County,0,2023-10-22,2023-10-28,39430,icu,0,2023-10-19
+2023,43,Itasca County,0,2023-10-22,2023-10-28,45141,icu,0,2023-10-19
+2023,43,Jackson County,0,2023-10-22,2023-10-28,9954,icu,0,2023-10-19
+2023,43,Kanabec County,0,2023-10-22,2023-10-28,16089,icu,0,2023-10-19
+2023,43,Kandiyohi County,0,2023-10-22,2023-10-28,42841,icu,0,2023-10-19
+2023,43,Kittson County,0,2023-10-22,2023-10-28,4311,icu,0,2023-10-19
+2023,43,Koochiching County,0,2023-10-22,2023-10-28,12515,icu,0,2023-10-19
+2023,43,Lac qui Parle County,0,2023-10-22,2023-10-28,6719,icu,0,2023-10-19
+2023,43,Lake County,0,2023-10-22,2023-10-28,10560,icu,0,2023-10-19
+2023,43,Lake of the Woods County,0,2023-10-22,2023-10-28,3771,icu,0,2023-10-19
+2023,43,Le Sueur County,0,2023-10-22,2023-10-28,28242,icu,0,2023-10-19
+2023,43,Lincoln County,0,2023-10-22,2023-10-28,5677,icu,0,2023-10-19
+2023,43,Lyon County,0,2023-10-22,2023-10-28,25758,icu,0,2023-10-19
+2023,43,Mahnomen County,0,2023-10-22,2023-10-28,5501,icu,0,2023-10-19
+2023,43,Marshall County,0,2023-10-22,2023-10-28,9372,icu,0,2023-10-19
+2023,43,Martin County,0,2023-10-22,2023-10-28,19852,icu,0,2023-10-19
+2023,43,McLeod County,0,2023-10-22,2023-10-28,35832,icu,0,2023-10-19
+2023,43,Meeker County,0,2023-10-22,2023-10-28,23105,icu,0,2023-10-19
+2023,43,Mille Lacs County,0,2023-10-22,2023-10-28,25865,icu,0,2023-10-19
+2023,43,Morrison County,0,2023-10-22,2023-10-28,33064,icu,0,2023-10-19
+2023,43,Mower County,0,2023-10-22,2023-10-28,39807,icu,0,2023-10-19
+2023,43,Murray County,0,2023-10-22,2023-10-28,8296,icu,0,2023-10-19
+2023,43,Nicollet County,0,2023-10-22,2023-10-28,33954,icu,0,2023-10-19
+2023,43,Nobles County,0,2023-10-22,2023-10-28,21734,icu,0,2023-10-19
+2023,43,Norman County,0,2023-10-22,2023-10-28,6520,icu,0,2023-10-19
+2023,43,Olmsted County,0,2023-10-22,2023-10-28,154809,icu,0,2023-10-19
+2023,43,Otter Tail County,0,2023-10-22,2023-10-28,58195,icu,0,2023-10-19
+2023,43,Pennington County,0,2023-10-22,2023-10-28,14183,icu,0,2023-10-19
+2023,43,Pine County,0,2023-10-22,2023-10-28,29223,icu,0,2023-10-19
+2023,43,Pipestone County,0,2023-10-22,2023-10-28,9191,icu,0,2023-10-19
+2023,43,Polk County,0,2023-10-22,2023-10-28,31521,icu,0,2023-10-19
+2023,43,Pope County,0,2023-10-22,2023-10-28,11048,icu,0,2023-10-19
+2023,43,Ramsey County,0,2023-10-22,2023-10-28,544442,icu,0,2023-10-19
+2023,43,Red Lake County,0,2023-10-22,2023-10-28,4015,icu,0,2023-10-19
+2023,43,Redwood County,0,2023-10-22,2023-10-28,15261,icu,0,2023-10-19
+2023,43,Renville County,0,2023-10-22,2023-10-28,14652,icu,0,2023-10-19
+2023,43,Rice County,0,2023-10-22,2023-10-28,66185,icu,0,2023-10-19
+2023,43,Rock County,0,2023-10-22,2023-10-28,9402,icu,0,2023-10-19
+2023,43,Roseau County,0,2023-10-22,2023-10-28,15361,icu,0,2023-10-19
+2023,43,Scott County,0,2023-10-22,2023-10-28,145275,icu,0,2023-10-19
+2023,43,Sherburne County,0,2023-10-22,2023-10-28,94463,icu,0,2023-10-19
+2023,43,Sibley County,0,2023-10-22,2023-10-28,14892,icu,0,2023-10-19
+2023,43,St. Louis County,0,2023-10-22,2023-10-28,199759,icu,0,2023-10-19
+2023,43,Stearns County,0,2023-10-22,2023-10-28,158452,icu,0,2023-10-19
+2023,43,Steele County,0,2023-10-22,2023-10-28,36683,icu,0,2023-10-19
+2023,43,Stevens County,0,2023-10-22,2023-10-28,9789,icu,0,2023-10-19
+2023,43,Swift County,0,2023-10-22,2023-10-28,9359,icu,0,2023-10-19
+2023,43,Todd County,0,2023-10-22,2023-10-28,24494,icu,0,2023-10-19
+2023,43,Total,0,2023-10-22,2023-10-28,5563378,icu,0,2023-10-19
+2023,43,Traverse County,0,2023-10-22,2023-10-28,3311,icu,0,2023-10-19
+2023,43,Wabasha County,0,2023-10-22,2023-10-28,21537,icu,0,2023-10-19
+2023,43,Wadena County,0,2023-10-22,2023-10-28,13654,icu,0,2023-10-19
+2023,43,Waseca County,0,2023-10-22,2023-10-28,18740,icu,0,2023-10-19
+2023,43,Washington County,0,2023-10-22,2023-10-28,255938,icu,0,2023-10-19
+2023,43,Watonwan County,0,2023-10-22,2023-10-28,10972,icu,0,2023-10-19
+2023,43,Wilkin County,0,2023-10-22,2023-10-28,6291,icu,0,2023-10-19
+2023,43,Winona County,0,2023-10-22,2023-10-28,50725,icu,0,2023-10-19
+2023,43,Wright County,0,2023-10-22,2023-10-28,134438,icu,0,2023-10-19
+2023,43,Yellow Medicine County,0,2023-10-22,2023-10-28,9814,icu,0,2023-10-19
