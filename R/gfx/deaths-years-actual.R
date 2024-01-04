@@ -2,6 +2,7 @@ p <- covid_trends_actual %>%
 	mutate(yday = yday(date),
 		   year = year(date) %>% as.character(),
 		   display_date = paste0("2020-", yday) %>% as.Date(format = "%Y-%j")) %>%
+	filter(year <= 2023) %>%
 	ggplot(aes(x = display_date, y = new_deaths, color = year)) +
 	geom_hline(data = . %>% filter(cases_complete == TRUE) %>% filter(year == max(year), date == max(date)), aes(yintercept = new_deaths, color = year), linetype = 3) +
 	geom_line(data = . %>% filter(deaths_complete == TRUE), size = 1.5) +

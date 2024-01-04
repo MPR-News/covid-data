@@ -1,5 +1,6 @@
 p <- covid_trends_actual %>%
 	filter(cases_complete == TRUE) %>%
+	filter(year(date) <= 2023) %>%
 	pivot_longer(c(new_icu, new_nonicu), names_prefix = "new_") %>%
 	mutate(name = str_replace_all(name, "icu", "ICU") %>% str_replace_all("non", "Non-")) %>%
 	mutate(year = year(date) %>% as.character()) %>%
