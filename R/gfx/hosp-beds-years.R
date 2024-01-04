@@ -1,5 +1,6 @@
 p <- hosp_beds %>%
 	filter(region == "State", report_date == max(report_date)) %>%
+	filter(year(date) <= 2023) %>%
 	select(date, contains("beds_covid")) %>%
 	pivot_longer(-date, names_to = "bed_type") %>%
 	mutate(bed_type = case_when(str_detect(bed_type, "non_") ~ "Non-ICU", TRUE ~ "ICU")) %>%
